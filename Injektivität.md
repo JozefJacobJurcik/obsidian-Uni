@@ -12,3 +12,4 @@ $x_1 \ne x_2 \Rightarrow f ( x_1 ) \ne f ( x_2 )$
 
 Die Zielmenge kann daher nicht weniger [mächtig](Kardinalität) als die Definitionsmenge sein, d. h., sie kann nicht weniger Elemente enthalten.
 
+test
