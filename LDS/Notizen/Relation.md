@@ -1,4 +1,4 @@
-Relation R zwischen zwei [Mengen](Menge) A und B
+Relation R zwischen zwei [Mengen](Menge.md) A und B
 
 **R ⊆ A × B**
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Injektivität.md",
+                "file": "LDS/Notizen/Permutation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e0bd09651e7598ef",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Injektivität.md",
+                "file": "LDS/Notizen/Permutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Injektivität.md",
+                "file": "LDS/Notizen/Permutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Injektivität.md"
+                "file": "LDS/Notizen/Permutation.md"
               }
             }
           }
@@ -146,38 +147,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da115dda2911a4ed",
+  "active": "501af1bb2c5e928c",
   "lastOpenFiles": [
+    "LDS/Notizen/Funktion.md",
+    "LDS/Notizen/Permutation.md",
+    "LDS/Notizen",
+    "LDS/Notizen/Umkehrfunktion.md",
+    "LDS/Notizen/Identitätsfunktion.md",
+    "LDS/images/Pasted image 20230822152859.png",
+    "LDS/Notizen/Bijektivität.md",
+    "LDS/Notizen/Surjektivität.md",
+    "LDS/images/Pasted image 20230822141830.png",
+    "LDS/images/Pasted image 20230822141006.png",
+    "LDS/Notizen/Injektivität.md",
     "LDS/images",
-    "LDS/Kardinalität.md",
-    "LDS/Injektivität.md",
+    "LDS/Notizen/Kardinalität.md",
     "LDS/images/Pasted image 20230822115608.png",
     "LDS/Injection.svg.png",
-    "LDS/Funktion.md",
-    "LDS/Relation.md",
-    "LDS/Äquivalenzklassen.md",
-    "LDS/Menge.md",
+    "LDS/Notizen/Relation.md",
+    "LDS/Notizen/Äquivalenzklassen.md",
+    "LDS/Notizen/Menge.md",
     "Untitled.canvas",
-    "LDS/Reflexivität.md",
-    "LDS/Transitivität.md",
+    "LDS/Notizen/Reflexivität.md",
+    "LDS/Notizen/Transitivität.md",
     "HowTo/Skratky.md",
-    "LDS/Idempotenz.md",
-    "LDS/totale Ordnung.md",
-    "LDS/Äquivalenzrelation.md",
-    "LDS/Quasiordnung.md",
-    "LDS/Partielle Ordnung.md",
-    "LDS/Antisymmetrie.md",
+    "LDS/Notizen/Idempotenz.md",
+    "LDS/Notizen/totale Ordnung.md",
+    "LDS/Notizen/Äquivalenzrelation.md",
+    "LDS/Notizen/Quasiordnung.md",
+    "LDS/Notizen/Partielle Ordnung.md",
+    "LDS/Notizen/Antisymmetrie.md",
     "Reflexivitat.md",
-    "LDS/Symmetrie.md",
+    "LDS/Notizen/Symmetrie.md",
     "reflexiv.md",
-    "LDS/Kartesisches Produkt.md",
-    "LDS/Assoziativgesetz.md",
+    "LDS/Notizen/Kartesisches Produkt.md",
+    "LDS/Notizen/Assoziativgesetz.md",
     "Untitled",
-    "LDS/Potenzmenge.md",
-    "LDS/Disjunktheit.md",
-    "To print.md",
-    "LDS/Distributivgesetz.md",
-    "LDS/Kommutativgesetz.md",
     "HowTo",
     "LDS",
     "preamble.sty"
