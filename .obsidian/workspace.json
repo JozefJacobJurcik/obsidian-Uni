@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "7479690656c921a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "708e95efb3feb929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "501af1bb2c5e928c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Injektivität.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e453a824cc609cdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6bc7a9e3ba51ab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da115dda2911a4ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b5b8379b2d16aa5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mäch",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "565c5f65044ce9e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e0bd09651e7598ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "0735ca93b527917b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc1a849aa11144e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Injektivität.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0985d2019077f297",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Injektivität.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b69743ed5749a474",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "224f4201657185f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Injektivität.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "565c5f65044ce9e1",
+  "lastOpenFiles": [
+    "LDS/Kardinalität.md",
+    "Injektivität.md",
+    "Pasted image 20230822115608.png",
+    "LDS/Injection.svg.png",
+    "Funktion.md",
+    "LDS/Relation.md",
+    "Äquivalenzklassen.md",
+    "LDS/Menge.md",
+    "Untitled.canvas",
+    "LDS/Reflexivität.md",
+    "LDS/Transitivität.md",
+    "HowTo/Skratky.md",
+    "LDS/Idempotenz.md",
+    "LDS/totale Ordnung.md",
+    "LDS/Äquivalenzrelation.md",
+    "LDS/Quasiordnung.md",
+    "LDS/Partielle Ordnung.md",
+    "LDS/Antisymmetrie.md",
+    "Reflexivitat.md",
+    "LDS/Symmetrie.md",
+    "reflexiv.md",
+    "LDS/Kartesisches Produkt.md",
+    "LDS/Assoziativgesetz.md",
+    "LDS/Untitled",
+    "Untitled",
+    "LDS/Potenzmenge.md",
+    "LDS/Disjunktheit.md",
+    "To print.md",
+    "LDS/Distributivgesetz.md",
+    "LDS/Kommutativgesetz.md",
+    "HowTo",
+    "LDS",
+    "preamble.sty"
+  ]
+}

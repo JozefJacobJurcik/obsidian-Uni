@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1692273032203,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1692273056044,
+          "path": "LDS/Menge.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1692273075202,
+          "path": "LDS/Relation.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1692553652911,
+          "path": "Funktion.md"
+        }
+      ],
+      "title": "LDS"
+    }
+  ]
+}
