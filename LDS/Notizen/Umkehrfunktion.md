@@ -1,9 +1,9 @@
-![[Pasted image 20230822152859.png | 200]]
 Ist f : A → B [[Bijektivität|bijektiv]], so ist |$f^{−1}$ (b)| = 1 für alle b ∈ B. 
 Schreibe $f^{−1}$(b) = a statt $f^{−1}$(b) = {a}   (*Umkehrfunktion*)
 
 Umkehrfunktion ist bijektive Funktion $f^{−1}$ : B → A.
 
+![[Pasted image 20230822152859.png | 200]]
 ### Definition
 Seien A und B nicht-leere [[Menge]]n. 
 
