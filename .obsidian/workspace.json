@@ -11,8 +11,12 @@
             "id": "0dc071f61db0d83c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LDS/Notizen/Beweise mit Implikation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e0bd09651e7598ef",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LDS/Notizen/Beweise mit Implikation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LDS/Notizen/Beweise mit Implikation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LDS/Notizen/Beweise mit Implikation.md"
+              }
             }
           }
         ]
@@ -139,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dc071f61db0d83c",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
     "LDS/Notizen/Beweise LDS.md",
-    "Vollständige Induktion.md",
-    "Beweise mit Negation.md",
-    "Beweise mit Implikation.md",
-    "Beweise mit Quantoren.md",
+    "LDS/Notizen/Vollständige Induktion.md",
+    "LDS/Notizen/Beweise mit Negation.md",
+    "LDS/Notizen/Beweise mit Implikation.md",
+    "LDS/Notizen/Beweise mit Quantoren.md",
     "LDS/Notizen/Beweise mit Konjunktion und Disjunktion.md",
     "LDS/Notizen/Funktion.md",
     "Untitled.md",
