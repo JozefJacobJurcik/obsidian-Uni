@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Injektivität.md",
+                "file": "LDS/Injektivität.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e0bd09651e7598ef",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Injektivität.md",
+                "file": "LDS/Injektivität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Injektivität.md",
+                "file": "LDS/Injektivität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Injektivität.md"
+                "file": "LDS/Injektivität.md"
               }
             }
           }
@@ -148,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "565c5f65044ce9e1",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
+    "LDS/images",
     "LDS/Kardinalität.md",
-    "Injektivität.md",
-    "Pasted image 20230822115608.png",
+    "LDS/Injektivität.md",
+    "LDS/images/Pasted image 20230822115608.png",
     "LDS/Injection.svg.png",
-    "Funktion.md",
+    "LDS/Funktion.md",
     "LDS/Relation.md",
-    "Äquivalenzklassen.md",
+    "LDS/Äquivalenzklassen.md",
     "LDS/Menge.md",
     "Untitled.canvas",
     "LDS/Reflexivität.md",
@@ -173,7 +172,6 @@
     "reflexiv.md",
     "LDS/Kartesisches Produkt.md",
     "LDS/Assoziativgesetz.md",
-    "LDS/Untitled",
     "Untitled",
     "LDS/Potenzmenge.md",
     "LDS/Disjunktheit.md",
