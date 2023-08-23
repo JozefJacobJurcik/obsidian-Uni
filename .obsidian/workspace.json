@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Notizen/Beweise LDS.md",
+                "file": "LDS/Important notes/Beweise LDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Notizen/Beweise LDS.md",
+                "file": "LDS/Important notes/Beweise LDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Notizen/Beweise LDS.md",
+                "file": "LDS/Important notes/Beweise LDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Notizen/Beweise LDS.md"
+                "file": "LDS/Important notes/Beweise LDS.md"
               }
             }
           }
@@ -147,42 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dc071f61db0d83c",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
-    "LDS/Notizen/Beweise mit Implikation.md",
-    "LDS/Notizen/Beweise LDS.md",
-    "LDS/Notizen/Vollständige Induktion.md",
-    "LDS/Notizen/Beweise mit Negation.md",
-    "LDS/Notizen/Beweise mit Quantoren.md",
-    "LDS/Notizen/Beweise mit Konjunktion und Disjunktion.md",
-    "LDS/Notizen/Funktion.md",
+    "LDS/Important notes",
+    "LDS/I.md",
+    "LDS/Important notes/Beweise LDS.md",
+    "LDS/Important notes/Funktion.md",
+    "LDS/Notes/Beweise mit Implikation.md",
+    "LDS/Notes/Vollständige Induktion.md",
+    "LDS/Notes/Beweise mit Negation.md",
+    "LDS/Notes/Beweise mit Quantoren.md",
+    "LDS/Notes/Beweise mit Konjunktion und Disjunktion.md",
     "Untitled.md",
-    "LDS/Notizen/Permutation.md",
-    "LDS/Notizen/Umkehrfunktion.md",
-    "LDS/Notizen/Identitätsfunktion.md",
-    "LDS/Notizen/Bijektivität.md",
-    "LDS/Notizen",
+    "LDS/Notes/Permutation.md",
+    "LDS/Notes/Umkehrfunktion.md",
+    "LDS/Notes/Identitätsfunktion.md",
+    "LDS/Notes/Bijektivität.md",
+    "LDS/Notes",
     "LDS/images/Pasted image 20230822152859.png",
-    "LDS/Notizen/Surjektivität.md",
+    "LDS/Notes/Surjektivität.md",
     "LDS/images/Pasted image 20230822141830.png",
     "LDS/images/Pasted image 20230822141006.png",
-    "LDS/Notizen/Injektivität.md",
+    "LDS/Notes/Injektivität.md",
     "LDS/images",
-    "LDS/Notizen/Kardinalität.md",
+    "LDS/Notes/Kardinalität.md",
     "LDS/images/Pasted image 20230822115608.png",
     "LDS/Injection.svg.png",
-    "LDS/Notizen/Relation.md",
-    "LDS/Notizen/Äquivalenzklassen.md",
-    "LDS/Notizen/Menge.md",
+    "LDS/Important notes/Relation.md",
+    "LDS/Notes/Äquivalenzklassen.md",
+    "LDS/Important notes/Menge.md",
     "Untitled.canvas",
-    "LDS/Notizen/Reflexivität.md",
-    "LDS/Notizen/Transitivität.md",
+    "LDS/Notes/Reflexivität.md",
+    "LDS/Notes/Transitivität.md",
     "HowTo/Skratky.md",
-    "LDS/Notizen/Idempotenz.md",
-    "LDS/Notizen/totale Ordnung.md",
-    "LDS/Notizen/Äquivalenzrelation.md",
-    "LDS/Notizen/Quasiordnung.md",
-    "LDS/Notizen/Partielle Ordnung.md",
+    "LDS/Notes/Idempotenz.md",
+    "LDS/Notes/totale Ordnung.md",
+    "LDS/Notes/Äquivalenzrelation.md",
     "Untitled",
     "HowTo",
     "LDS",

@@ -11,12 +11,12 @@ $$|\,\{\, b\in B \, ;\, a R b\,\}\,| = 1$$
 ### Eigenschaften von Funktionen
 Eine Funktion f : A → B heißt:
 
-- [injektiv](Injektivität)
+- [injektiv](Injektivität.md)
 	wenn f ($a_1$) = f ($a_2$) nur gilt, wenn $a_1 = a_2$, 
 	also für alle  b ∈ B gilt |$f^{ −1}$ (b)| ≤ 1
-- [surjektiv](Surjektivität) 
+- [surjektiv](Surjektivität.md) 
 	wenn es für jedes b ∈ B ein a ∈ A gibt mit f (a) = b, also für alle b ∈ B gilt |$f^{−1}$ (b)| ≥ 1 also wenn f (A) = B
-- [bijektiv](Bijektivität)
+- [bijektiv](Bijektivität.md)
 	wenn f injektiv und surjektiv ist, 
 	also für alle b ∈ B gilt |$f^{−1}$ (b)| = 1
 	
