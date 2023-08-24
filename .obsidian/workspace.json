@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/Beweise LDS.md",
+                "file": "LDS/Notes/Kardinalität.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Important notes/Beweise LDS.md",
+                "file": "LDS/Notes/Kardinalität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Important notes/Beweise LDS.md",
+                "file": "LDS/Notes/Kardinalität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Important notes/Beweise LDS.md"
+                "file": "LDS/Notes/Kardinalität.md"
               }
             }
           }
@@ -146,12 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da115dda2911a4ed",
+  "active": "0dc071f61db0d83c",
   "lastOpenFiles": [
+    "LDS/Important notes/Relation.md",
+    "LDS/Notes/Kardinalität.md",
+    "LDS/Important notes/Menge.md",
+    "LDS/Important notes/Funktion.md",
+    "LDS/Important notes/Beweise LDS.md",
     "LDS/Important notes",
     "LDS/I.md",
-    "LDS/Important notes/Beweise LDS.md",
-    "LDS/Important notes/Funktion.md",
     "LDS/Notes/Beweise mit Implikation.md",
     "LDS/Notes/Vollständige Induktion.md",
     "LDS/Notes/Beweise mit Negation.md",
@@ -163,18 +166,15 @@
     "LDS/Notes/Identitätsfunktion.md",
     "LDS/Notes/Bijektivität.md",
     "LDS/Notes",
-    "LDS/images/Pasted image 20230822152859.png",
+    "LDS/attachments/Pasted image 20230822152859.png",
     "LDS/Notes/Surjektivität.md",
-    "LDS/images/Pasted image 20230822141830.png",
-    "LDS/images/Pasted image 20230822141006.png",
+    "LDS/attachments/Pasted image 20230822141830.png",
+    "LDS/attachments/Pasted image 20230822141006.png",
     "LDS/Notes/Injektivität.md",
-    "LDS/images",
-    "LDS/Notes/Kardinalität.md",
-    "LDS/images/Pasted image 20230822115608.png",
+    "LDS/attachments",
+    "LDS/attachments/Pasted image 20230822115608.png",
     "LDS/Injection.svg.png",
-    "LDS/Important notes/Relation.md",
     "LDS/Notes/Äquivalenzklassen.md",
-    "LDS/Important notes/Menge.md",
     "Untitled.canvas",
     "LDS/Notes/Reflexivität.md",
     "LDS/Notes/Transitivität.md",
