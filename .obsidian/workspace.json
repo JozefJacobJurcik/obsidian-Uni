@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5449ac1f0e8d7b21",
+        "id": "9adfb04aa3043951",
         "type": "tabs",
         "children": [
           {
-            "id": "0dc071f61db0d83c",
+            "id": "1bd911816078663d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LDS/Notes/Kardinalität.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Notes/Kardinalität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Notes/Kardinalität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LDS/Notes/Kardinalität.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dc071f61db0d83c",
+  "active": "1bd911816078663d",
   "lastOpenFiles": [
-    "LDS/Important notes/Relation.md",
+    "LDS/Notes/Vollständige Induktion.md",
+    "LDS/Important notes/Beweise LDS.md",
     "LDS/Notes/Kardinalität.md",
+    "LDS/Important notes/Relation.md",
     "LDS/Important notes/Menge.md",
     "LDS/Important notes/Funktion.md",
-    "LDS/Important notes/Beweise LDS.md",
     "LDS/Important notes",
     "LDS/I.md",
     "LDS/Notes/Beweise mit Implikation.md",
-    "LDS/Notes/Vollständige Induktion.md",
     "LDS/Notes/Beweise mit Negation.md",
     "LDS/Notes/Beweise mit Quantoren.md",
     "LDS/Notes/Beweise mit Konjunktion und Disjunktion.md",
@@ -166,13 +158,13 @@
     "LDS/Notes/Identitätsfunktion.md",
     "LDS/Notes/Bijektivität.md",
     "LDS/Notes",
-    "LDS/attachments/Pasted image 20230822152859.png",
+    "LDS/Attachments/Pasted image 20230822152859.png",
     "LDS/Notes/Surjektivität.md",
-    "LDS/attachments/Pasted image 20230822141830.png",
-    "LDS/attachments/Pasted image 20230822141006.png",
+    "LDS/Attachments/Pasted image 20230822141830.png",
+    "LDS/Attachments/Pasted image 20230822141006.png",
     "LDS/Notes/Injektivität.md",
-    "LDS/attachments",
-    "LDS/attachments/Pasted image 20230822115608.png",
+    "LDS/Attachments",
+    "LDS/Attachments/Pasted image 20230822115608.png",
     "LDS/Injection.svg.png",
     "LDS/Notes/Äquivalenzklassen.md",
     "Untitled.canvas",
