@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Notizen/Beweise LDS.md",
+                "file": "LDS/Important notes/Beweise LDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LDS/Notizen/Beweise LDS.md",
+            "file": "LDS/Important notes/Beweise LDS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LDS/Notizen/Beweise LDS.md",
+            "file": "LDS/Important notes/Beweise LDS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LDS/Notizen/Beweise LDS.md"
+            "file": "LDS/Important notes/Beweise LDS.md"
           }
         }
       }
@@ -131,7 +131,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7adc51b63b0046e",
+  "active": "733b308b8b798a09",
   "lastOpenFiles": [
     "LDS/Notizen/Antisymmetrie.md",
     "LDS/Notizen/Beweise LDS.md"
