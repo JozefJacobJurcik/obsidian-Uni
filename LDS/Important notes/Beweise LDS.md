@@ -4,7 +4,6 @@
 - [[Beweise mit Negation]]
 - [[Vollständige Induktion]]
 
-Test znovu
 
 
 
