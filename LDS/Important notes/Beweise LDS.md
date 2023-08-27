@@ -3,8 +3,7 @@
 - [[Beweise mit Quantoren]]
 - [[Beweise mit Negation]]
 - [[Vollständige Induktion]]
-
-Test Script 
+ 
 
 
 
