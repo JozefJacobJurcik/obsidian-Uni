@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/Beweise LDS.md",
+                "file": "HowTo/Skratky.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Important notes/Beweise LDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Important notes/Beweise LDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Important notes/Beweise LDS.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -146,14 +144,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bd911816078663d",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
-    "LDS/Notes/Vollständige Induktion.md",
+    "Untitled.canvas",
+    "HowTo/Skratky.md",
+    "HowTo/test latex.md",
+    "LDS/Notes/Assoziativgesetz.md",
     "LDS/Important notes/Beweise LDS.md",
-    "LDS/Notes/Kardinalität.md",
-    "LDS/Important notes/Relation.md",
-    "LDS/Important notes/Menge.md",
+    "LDS/Notes/Injektivität.md",
+    "LDS/Notes/attachments/Pasted image 20230922193257.png",
+    "LDS/Notes/attachments",
     "LDS/Important notes/Funktion.md",
+    "LDS/Important notes/Menge.md",
+    "LDS/Notes/Kardinalität.md",
+    "LDS/Attachments/Pasted image 20230822141006.png",
+    "LDS/Attachments/Pasted image 20230822115608.png",
+    "LDS/Notes/Vollständige Induktion.md",
+    "LDS/Important notes/Relation.md",
     "LDS/Important notes",
     "LDS/I.md",
     "LDS/Notes/Beweise mit Implikation.md",
@@ -169,19 +176,12 @@
     "LDS/Attachments/Pasted image 20230822152859.png",
     "LDS/Notes/Surjektivität.md",
     "LDS/Attachments/Pasted image 20230822141830.png",
-    "LDS/Attachments/Pasted image 20230822141006.png",
-    "LDS/Notes/Injektivität.md",
     "LDS/Attachments",
-    "LDS/Attachments/Pasted image 20230822115608.png",
     "LDS/Injection.svg.png",
     "LDS/Notes/Äquivalenzklassen.md",
-    "Untitled.canvas",
     "LDS/Notes/Reflexivität.md",
     "LDS/Notes/Transitivität.md",
-    "HowTo/Skratky.md",
     "LDS/Notes/Idempotenz.md",
-    "LDS/Notes/totale Ordnung.md",
-    "LDS/Notes/Äquivalenzrelation.md",
     "Untitled",
     "HowTo",
     "LDS",
