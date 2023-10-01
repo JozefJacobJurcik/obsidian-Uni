@@ -33,5 +33,6 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],
-  "spellcheck": false
+  "spellcheck": true,
+  "propertiesInDocument": "source"
 }

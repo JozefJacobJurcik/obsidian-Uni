@@ -5,4 +5,4 @@ a ⋆ ( b ⋆ c ) = ( a ⋆ b ) ⋆ c
 
 gilt. Die Klammern können dann weggelassen werden. Das gilt auch für mehr als drei [Operanden](https://de.wikipedia.org/wiki/Operator_(Mathematik)
 
-#Operand #Operator 
+ #Operator #def

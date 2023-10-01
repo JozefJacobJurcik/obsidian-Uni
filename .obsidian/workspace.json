@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/Menge.md",
+                "file": "LDS/Notes/Vollständige Induktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#algor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e0bd09651e7598ef",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Important notes/Menge.md",
+                "file": "LDS/Notes/Vollständige Induktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Important notes/Menge.md",
+                "file": "LDS/Notes/Vollständige Induktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Important notes/Menge.md"
+                "file": "LDS/Notes/Vollständige Induktion.md"
               }
             }
           },
@@ -159,8 +160,20 @@
   },
   "active": "d80b51dad05b75a1",
   "lastOpenFiles": [
-    "LDS/Important notes/Funktion.md",
+    "Math/Polynomdivision.md",
+    "LDS/Notes/Vollständige Induktion.md",
     "LDS/Important notes/Beweise LDS.md",
+    "HowTo/Metadata.md",
+    "LDS/Notes/Assoziativgesetz.md",
+    "HowTo/Skratky.md",
+    "Math",
+    "LDS/Important notes/Funktion.md",
+    "LDS/Important notes/Menge.md",
+    "LDS/Important notes/Relation.md",
+    "LDS/Notes/totale Ordnung.md",
+    "LDS/Important notes/Ordnungen und Verbände.md",
+    "LDS/Notes/Beweise mit Negation.md",
+    "LDS/Notes/Beweise mit Konjunktion und Disjunktion.md",
     "Daily Notes/Daily Notes archive/2023-09-13.md",
     "Daily Notes/Daily Notes archive/2023-09-22.md",
     "Daily Notes/Daily Notes archive/2023-09-23.md",
@@ -179,19 +192,8 @@
     "Pre Mamu/attachments/Price list.pdf",
     "Pre Mamu/attachments/Untitled.jpg",
     "Pre Mamu/attachments/Untitled.png",
-    "HowTo/Skratky.md",
     "Pre Mamu/attachments",
     "Pre Mamu",
-    "Daily Notes/Daily Notes archive/2023-09-12.md",
-    "Daily Notes/Daily Notes archive/2023-09-09.md",
-    "Daily Notes/Daily Notes archive/2023-09-10.md",
-    "Daily Notes/Daily Notes archive/2023-09-06.md",
-    "Daily Notes/Daily Notes archive/2023-09-04.md",
-    "Daily Notes/Daily Notes archive/2023-08-31.md",
-    "Daily Notes/Daily Notes archive/2023-08-30.md",
-    "Daily Notes/Daily Notes archive/2023-08-29.md",
-    "Daily Notes/Daily Notes archive/2023-08-28.md",
-    "Daily Notes/Daily Notes archive/2023-08-27.md",
     "DnD/Reasearch/attachments/Vegetation.png",
     "DnD/Reasearch/attachments/Map_prevailing_winds_on_earth.png",
     "DnD/Reasearch/attachments/file-5d26268b1ae79.jpg",
@@ -204,7 +206,6 @@
     "DnD/Reasearch",
     "DnD",
     "Daily Notes/Daily Notes archive/Attachments/bloček doklad stanley.pdf",
-    "Daily Notes/Daily Notes archive/Attachments",
     "Untitled.canvas"
   ]
 }
