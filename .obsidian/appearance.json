@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "baseFontSize": 20,
+  "baseFontSize": 19,
   "enabledCssSnippets": [
     "bolder_bold"
-  ]
+  ],
+  "cssTheme": "Things"
 }
