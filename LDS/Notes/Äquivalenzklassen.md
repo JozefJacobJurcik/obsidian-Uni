@@ -1,4 +1,4 @@
-Partition einer Menge $A$ : 
+[[Partition]] einer Menge $A$ : 
 
 Familie von Teilmengen $A_1,\ldots , A_k$ mit 
 $A_i \ne\,\emptyset$ für alle  $i$ 

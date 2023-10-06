@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "82ae62fd3911096a",
+        "id": "67cd7f2e212997db",
         "type": "tabs",
         "children": [
           {
-            "id": "d80b51dad05b75a1",
+            "id": "b27c8daaeb0e28ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Notes/Vollständige Induktion.md",
+                "file": "LDS/Important notes/Kombinatorik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deb02becdb7d2a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LDS/Important notes/Schubfachprinzip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ee576fd95e0d95c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LDS/Notes/Injektivität.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#algor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e0bd09651e7598ef",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Notes/Vollständige Induktion.md",
+                "file": "LDS/Important notes/Schubfachprinzip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Notes/Vollständige Induktion.md",
+                "file": "LDS/Important notes/Schubfachprinzip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Notes/Vollständige Induktion.md"
+                "file": "LDS/Important notes/Schubfachprinzip.md"
               }
             }
           },
@@ -157,35 +183,44 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d80b51dad05b75a1",
+  "active": "deb02becdb7d2a46",
   "lastOpenFiles": [
-    "Math/Polynomdivision.md",
-    "LDS/Notes/Vollständige Induktion.md",
-    "LDS/Important notes/Beweise LDS.md",
-    "HowTo/Metadata.md",
-    "LDS/Notes/Assoziativgesetz.md",
-    "HowTo/Skratky.md",
-    "Math",
-    "LDS/Important notes/Funktion.md",
-    "LDS/Important notes/Menge.md",
-    "LDS/Important notes/Relation.md",
-    "LDS/Notes/totale Ordnung.md",
+    "LDS/Notes/Injektivität.md",
+    "LDS/Important notes/Schubfachprinzip.md",
+    "LDS/Important notes/Kombinatorik.md",
+    "LDS/Important notes/Binomialkoeffizient.md",
+    "LDS/Important notes/Kombination mit Wiederholung.md",
+    "LDS/Notes/Verband.md",
+    "LDS/Notes/Absorptionsgesetz.md",
+    "LDS/Notes/Distributive Verbände.md",
+    "LDS/Notes/Distributivgesetz.md",
     "LDS/Important notes/Ordnungen und Verbände.md",
-    "LDS/Notes/Beweise mit Negation.md",
-    "LDS/Notes/Beweise mit Konjunktion und Disjunktion.md",
-    "Daily Notes/Daily Notes archive/2023-09-13.md",
-    "Daily Notes/Daily Notes archive/2023-09-22.md",
-    "Daily Notes/Daily Notes archive/2023-09-23.md",
-    "Daily Notes/Daily Notes archive/2023-09-25.md",
-    "DnD/Reasearch/Plate tectonics.md",
-    "DnD/Reasearch/Lake-effect snow.md",
-    "DnD/Reasearch/Rain shadow.md",
-    "DnD/Reasearch/Ocean current.md",
-    "DnD/Reasearch/Coriolis effect.md",
-    "DnD/Reasearch/Biome.md",
-    "Daily Notes/TODO global/Na kupenie.md",
-    "Daily Notes/Template.md",
-    "Pre Mamu/The Impossible Ethical Bargain Behind African Safaris.md",
+    "LDS/Notes/Assoziativgesetz.md",
+    "LDS/Notes/Kommutativgesetz.md",
+    "LDS/Notes/Partition.md",
+    "LDS/Notes/Äquivalenzklassen.md",
+    "LDS/Notes/Disjunktheit.md",
+    "LDS/Notes/Minimale und Maximale Elemente.md",
+    "Math/ggT.md",
+    "Math/kgV.md",
+    "LDS/Notes/Potenzmenge.md",
+    "LDS/Notes/totale Ordnung.md",
+    "LDS/Notes/Infimum und Supremum.md",
+    "LDS/Notes/Partielle Ordnung.md",
+    "LDS/Important notes/Relation.md",
+    "LDS/Notes/Transitive Hülle.md",
+    "LDS/Important notes/Menge.md",
+    "LDS/Important notes/Beweise LDS.md",
+    "Algorithms",
+    "LDS/Notes/attachments/Pasted image 20231006135947.png",
+    "LDS/Notes/attachments",
+    "LDS/Attachments/Pasted image 20230822115608.png",
+    "LDS/Important notes/attachments/TransitiveHuelleBeispiel.png",
+    "LDS/Attachments/Pasted image 20230822141006.png",
+    "LDS/Attachments/Pasted image 20230822141830.png",
+    "LDS/Attachments/Pasted image 20230822152859.png",
+    "LDS/Important notes/attachments",
+    "Math",
     "Daily Notes/Daily Notes archive",
     "Daily Notes/TODO global",
     "Pre Mamu/attachments/Price list.pdf",
@@ -195,16 +230,7 @@
     "Pre Mamu",
     "DnD/Reasearch/attachments/Vegetation.png",
     "DnD/Reasearch/attachments/Map_prevailing_winds_on_earth.png",
-    "DnD/Reasearch/attachments/file-5d26268b1ae79.jpg",
-    "DnD/Reasearch/attachments/Corrientes-oceanicas.png",
-    "DnD/Reasearch/attachments/440px-USA-Lake-Effect-Snow-Areas.svg.png",
-    "DnD/Reasearch/attachments/440px-Lake-derived-snow.svg.png",
-    "DnD/Reasearch/attachments/Himalaya_composite.jpg",
-    "DnD/Reasearch/attachments/Rain_shadow_effect.jpg",
     "DnD/Reasearch/attachments",
-    "DnD/Reasearch",
-    "DnD",
-    "Daily Notes/Daily Notes archive/Attachments/bloček doklad stanley.pdf",
     "Untitled.canvas"
   ]
 }

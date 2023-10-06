@@ -1,3 +1,7 @@
+---
+aliases: injektiv
+---
+
 Illustration einer **Injektion.**  Jedes Element von Y hat **höchstens** ein Urbild: A, B, D je eines, C keines.
 
 ![[Pasted image 20230822115608.png | 200]]

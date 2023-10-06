@@ -1,3 +1,8 @@
+---
+aliases: distributiv
+---
+
+
 Auf einer Menge A seien zwei [zweistellige Verknüpfungen](https://de.wikipedia.org/wiki/Zweistellige_Verkn%C3%BCpfung "Zweistellige Verknüpfung") ⋄ : A × A → A  und ∗ : A × A → A definiert. Die Verknüpfung ∗ heißt
 
 - _linksdistributiv_ über ⋄ , wenn für alle a , b , c ∈ A gilt a ∗ ( b ⋄ c ) = ( a ∗ b ) ⋄ ( a ∗ c ) 

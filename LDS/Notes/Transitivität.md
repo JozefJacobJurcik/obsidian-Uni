@@ -1,3 +1,7 @@
+---
+aliases: transitiv
+---
+
 Ist M eine Menge und R ⊆ M × M eine zweistellige Relation auf M , dann heißt R _transitiv_, wenn gilt: 
 
 $$\forall\: x, y, z \in M: xRy \wedge y R z \Rightarrow x R z$$

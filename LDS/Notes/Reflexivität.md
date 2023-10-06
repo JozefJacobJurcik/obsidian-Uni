@@ -1,3 +1,8 @@
+---
+aliases: reflexiv
+tags: math
+---
+
 Ist M eine Menge und *R* ⊆ M × M eine zweistellige Relation auf M, dann definiert man:
 
 R ist **reflexiv** : ⟺ ∀ x ∈ M : x *R* x 

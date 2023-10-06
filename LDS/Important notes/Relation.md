@@ -33,3 +33,5 @@ Eine Relation *R* auf $A$ heißt:
 
 ### [[Äquivalenzklassen]] 
 ### [[Funktion]]
+### [[Transitive Hülle]]
+
