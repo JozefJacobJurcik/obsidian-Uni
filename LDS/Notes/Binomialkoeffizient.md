@@ -1,5 +1,7 @@
 Binomialkoeffizienten heißen so wegen der *binomischen Formel*:
 $$ (a+b)^n=\sum^n_{i=0} \binom{n}{i}a^ib^{n-i}$$
+$$\binom nk = \frac{n!}{k! \cdot (n-k)!}$$
+
 >[!tip] Korollar
 >$$\sum^n_{k=0} \binom{n}{k}=2^n$$
 

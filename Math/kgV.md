@@ -16,3 +16,5 @@ $$\operatorname {kgV}(3528,3780)=2^{{\color {Red}3}}\cdot 3^{{\color {OliveGreen
 ### Allgemein
 
 Das *kleinste gemeinsame Vielfache* zweier ganzer Zahlen $m$ und $n$ ist die kleinste positive natürliche Zahl, die sowohl Vielfaches von $m$ als auch Vielfaches von $n$ ist. Zusätzlich wird für den Fall $m = 0$ oder $n = 0$ das *kgV* definiert als ${\displaystyle \operatorname {kgV} (m,\,n):=0}$
+
+Für $a, b ∈ \mathbb Z$ definiere: $$\operatorname {kgV}(a, b) := \operatorname{min} \{ k ∈ N \:;\: a \:|\: k\: \operatorname{und} \:b \:| \:k \}$$

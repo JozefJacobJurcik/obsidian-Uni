@@ -5,4 +5,3 @@
 - [[Minimale und Maximale Elemente]]
 - [[Infimum und Supremum]]
 - [[Verband]]
-- 
