@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",

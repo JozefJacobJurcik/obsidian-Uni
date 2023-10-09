@@ -14,7 +14,25 @@ Gegenbeispiele:    $(\mathbb N, +, −),\quad (\mathbb Z, +, ·, ÷),\quad (\mat
 ##### Signatur 
 ... einer *Algebra* $A ={\bigl (}M,(f_{i})_{i\in I}{\bigr )}$ ordnet jedem Index $i ∈ I$  die jeweilige *Stelligkeit* $n_i$ der fundamentalen Operation $f_i$ zu, d. h., er ist eine Funktion $\sigma \colon I\to \mathbb {N} _{0},\,i\mapsto \sigma (i):=n_{i}$ für ${\displaystyle f_{i}\colon M^{n_{i}}\to M.}$ 
 
+
 ![[Unterstruktur]]
 
 
 ![[Homomorphismus]]
+
+
+![[Isomorphismus]]
+
+
+![[Halbgruppe]]
+
+
+![[neutrales Element]]
+
+
+![[Monoid]]
+
+
+![[inverses Element]]
+
+![[Gruppe]]
