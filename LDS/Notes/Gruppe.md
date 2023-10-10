@@ -26,6 +26,43 @@ Es gibt ein $e ∈ G$, so dass gilt:
 
 Diese formal schwächere Definition ist äquivalent zu der ursprünglichen Definition.
 ### ![[Abelsche Gruppe]]
+### Rechenregeln in Gruppen
+In allen *Gruppen* gelten die folgenden Rechenregeln und -gesetze:
+
+- [[Involution|Involutionsgesetz]]: $(a^{−1} )^{−1} = a$
+
+- Kürzungsregeln:
+	aus $a \circ b = c \circ b$ folgt $a = c$ 
+	aus $a \circ b = a \circ c$ folgt $b = c$
+
+- Lösbarkeit linearer Gleichungen:
+	aus $a \circ x = b$ folgt $x = a^{−1} \circ b$ 
+	aus $x \circ a = b$ folgt $x = b \circ a^{−1}$
+
+- [[Injektivität]] von $\circ$ :
+	$a \ne b$    gdw.    $a \circ c \ne b \circ c$    gdw.    $c \circ a \ne c \circ b$
+
+- [[Surjektivität]] von $\circ$ :
+	es gibt $x$ mit $a \circ x = b$ und $y$ mit $y \circ a = b$
+
+##### Potenzen
+Für $z ∈ \mathbb Z$ definiere die Potenz $a^z$ durch: 
+- $a^0 = e$ 
+- $a^{i+1} = a^i \circ a$ für  $i ≥ 0$ 
+- $a^{−k} = (a^{−1} )^k$ für  $k ≥ 1$
+
+**Potenzgesetze:**
+- $a^m \circ a^n = a^{m+n}$
+- $(a^m)^n = a^{mn}$
+- aus $a^m = a^n$ folgt $a^{m−n} = e$
+
+
+ ![[Ordnung]]
+
+![[Zyklische Gruppe]]
+
+
+
 ###### Beispiele:
 - $(\mathbb N_0, +)$ ist ein [[Monoid]], aber keine Gruppe
 - $(\mathbb Z, +)$ ist eine [[Abelsche Gruppe]] 

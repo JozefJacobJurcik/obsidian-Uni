@@ -1,5 +1,9 @@
+---
+aliases: Mächtigkeit
+---
+
 (oder Mächtigkeit) von A: 
-#### Anzahl der Elemente von A, notiert **|A|** 
+### Anzahl der Elemente von A, notiert **|A|** 
 
 Es ist |∅| = 0
 A ist endlich gdw. |A| ∈ N

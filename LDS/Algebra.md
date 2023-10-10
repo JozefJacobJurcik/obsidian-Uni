@@ -35,4 +35,14 @@ Gegenbeispiele:    $(\mathbb N, +, −),\quad (\mathbb Z, +, ·, ÷),\quad (\mat
 
 ![[inverses Element]]
 
+
 ![[Gruppe]]
+
+
+![[Untergruppe]]
+
+
+![[Nebenklasse]]
+
+
+![[Satz von Lagrange]]

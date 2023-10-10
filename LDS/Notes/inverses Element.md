@@ -1,5 +1,5 @@
 ---
-aliases: Inverse Elemente, inverse Element
+aliases: Inverse Elemente, inverse Element, Inverses
 ---
 Sei $A$ eine Menge mit einer zweistelligen Verknüpfung $\circ$ und einem [[neutrales Element|neutralen Element]] $e$. Seien $a,b \in A$.
 
