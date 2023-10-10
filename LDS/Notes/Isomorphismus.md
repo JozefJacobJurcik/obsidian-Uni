@@ -1,5 +1,5 @@
 ---
-aliases: isomorph
+aliases: isomorph, Isomorphie
 ---
 In der Algebra heißt eine [[Funktion]] $φ$ zwischen zwei [[Algebra|algebraischen Struktur]]en (zum Beispiel [[Gruppe]]n, [[Ring]]en, [[Körper]]n oder Vektorräumen) ein _Isomorphismus_, wenn:
 

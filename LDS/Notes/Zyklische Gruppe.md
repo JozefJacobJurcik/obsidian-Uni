@@ -1,6 +1,10 @@
+---
+aliases: Erzeuger
+---
+
 In der Gruppentheorie ist eine *zyklische Gruppe* eine [[Gruppe]], die von einem einzelnen Element $a$ erzeugt wird. Sie besteht nur aus Potenzen des *Erzeugers* $a$ :
 $$\left\langle a \right\rangle := \lbrace a^n \mid n \in \mathbb Z \rbrace$$
-Eine [[Gruppe]] $G$ ist also *zyklisch*, wenn sie ein Element $a$ enthält, sodass jedes Element von $G$ eine Potenz von $a$ ist. Gleichbedeutend damit ist, dass es ein Element $a$ gibt, sodass $G$ selbst die einzige [[Untergruppe]] von $G$ ist, die $a$ enthält. In diesem Fall wird $a$ ein _erzeugendes Element_ oder kurz ein [[Erzeuger]] von $G$ genannt.
+Eine [[Gruppe]] $G$ ist also *zyklisch*, wenn sie ein Element $a$ enthält, sodass jedes Element von $G$ eine Potenz von $a$ ist. Gleichbedeutend damit ist, dass es ein Element $a$ gibt, sodass $G$ selbst die einzige [[Untergruppe]] von $G$ ist, die $a$ enthält. In diesem Fall wird $a$ ein _erzeugendes Element_ oder kurz ein Erzeuger von $G$ genannt.
 
 
 >[!info] Theorem 

@@ -11,11 +11,40 @@
             "id": "97389d460dd0808a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LDS/Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69101c164f6b2d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LDS/Polynome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3080389f69cc8a83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LDS/Körpererweiterung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vertretersy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +90,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e0bd09651e7598ef",
@@ -81,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LDS/Polynome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LDS/Polynome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LDS/Polynome.md"
+              }
             }
           },
           {
@@ -149,34 +184,35 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "97389d460dd0808a",
+  "active": "69101c164f6b2d4e",
   "lastOpenFiles": [
+    "LDS/Körpererweiterung.md",
+    "LDS/Notes/Restklasse.md",
+    "LDS/Algebra.md",
+    "LDS/Polynome.md",
+    "LDS/Notes/Körper.md",
+    "LDS/Notes/Charakteristik.md",
+    "LDS/Notes/Primkörper.md",
+    "LDS/Notes/Isomorphismus.md",
+    "LDS/Notes/Isomorphie.md",
+    "LDS/Notes/primitives Element.md",
+    "LDS/Important notes/Menge.md",
+    "LDS/Notes/Zyklische Gruppe.md",
+    "LDS/Notes/Erzeuger.md",
+    "LDS/Notes/attachments/Pasted image 20231010193045.png",
+    "LDS/Notes/Ring.md",
     "LDS/Notes/Untergruppe.md",
     "LDS/Notes/Satz von Lagrange.md",
-    "LDS/Notes/Ring.md",
     "LDS/Notes/Quotientenmenge.md",
     "LDS/Notes/Nebenklasse.md",
     "LDS/Notes/Magma.md",
-    "LDS/Notes/Körper.md",
     "LDS/Notes/invertierbar.md",
-    "LDS/Algebra.md",
     "LDS/Notes/Ordnung.md",
     "LDS/Notes/Kardinalität.md",
     "LDS/Notes/Äquivalenzklassen.md",
     "LDS/Notes/Partition.md",
     "LDS/Notes/inverses Element.md",
-    "LDS/Notes/Zyklische Gruppe.md",
     "LDS/Notes/Gruppe.md",
-    "LDS/Notes/Erzeuger.md",
-    "LDS/Notes/isomorph.md",
-    "LDS/Notes/Injektivität.md",
-    "LDS/Notes/Involution.md",
-    "LDS/Notes/Surjektivität.md",
-    "LDS/Notes/Automorphismus.md",
-    "LDS/Notes/neutrales Element.md",
-    "LDS/Notes/Abelsche Gruppe.md",
-    "LDS/Notes/Monoid.md",
-    "LDS/Notes/Halbgruppe.md",
     "Algorithms",
     "LDS/Notes/attachments/Pasted image 20231006135947.png",
     "LDS/Notes/attachments",
@@ -195,7 +231,6 @@
     "Pre Mamu/attachments",
     "Pre Mamu",
     "DnD/Reasearch/attachments/Vegetation.png",
-    "DnD/Reasearch/attachments/Map_prevailing_winds_on_earth.png",
     "DnD/Reasearch/attachments",
     "Untitled.canvas"
   ]

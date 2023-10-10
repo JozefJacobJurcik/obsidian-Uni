@@ -46,3 +46,12 @@ Gegenbeispiele:    $(\mathbb N, +, −),\quad (\mathbb Z, +, ·, ÷),\quad (\mat
 
 
 ![[Satz von Lagrange]]
+
+
+![[Ring]]
+
+
+![[Körper]]
+
+
+![[Polynome]]
