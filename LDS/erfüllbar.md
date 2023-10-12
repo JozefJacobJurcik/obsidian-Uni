@@ -1,3 +1,8 @@
+
+$α$ *erfüllt* $F$, wenn $[\![ F ]\!]α = 1$ ist. 
+
+Man schreibt dafür auch  $α \:|\!\!\!= F$ 
+
 Eine Aussageform heißt…
 
 - **erfüllbar**, wenn mindestens eine Belegung der Variablen eine wahre Aussage erzeugt.

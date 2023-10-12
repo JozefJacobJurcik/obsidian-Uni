@@ -31,7 +31,7 @@ $∧$ und $∨$ sind [[Infimum und Supremum]] in der Ordnung 0 ≤ 1.
 ### Formale Semantik
 
 Sein $α : X → \mathbb B$ eine Bewertung der Variablen $X$. 
-$[\![  ]\!]$ 
+
 Induktiv ist der Wert $[\![ F ]\!]α$ αeiner Formel $F$ definiert: 
 - $[\![ 0 ]\!]α = 0$ und $[\![ 1 ]\!]α = 1$ 
 - $[\![ 0 ]\!]α = α(x)$
@@ -81,3 +81,5 @@ Sind $F, G, H$ Formeln mit $F ≡ G$, dann gilt:
 
 
 ![[Disjunktive und Konjunktive Normalform]]
+
+![[Sequenzenkalkül]]

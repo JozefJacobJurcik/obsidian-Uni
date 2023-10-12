@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97389d460dd0808a",
+            "id": "4115f695fd572bd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "64b59f9bf2a92598",
+            "id": "27c54703220b2e1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Disjunktive und Konjunktive Normalform.md",
+                "file": "LDS/Schlussregeln.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vertretersy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Disjunktive und Konjunktive Normalform.md",
+                "file": "LDS/Schlussregeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Disjunktive und Konjunktive Normalform.md",
+                "file": "LDS/Schlussregeln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Disjunktive und Konjunktive Normalform.md"
+                "file": "LDS/Schlussregeln.md"
               }
             }
           },
@@ -171,21 +171,29 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "64b59f9bf2a92598",
+  "active": "27c54703220b2e1c",
   "lastOpenFiles": [
-    "LDS/DNF.md",
-    "LDS/Disjunktive und Konjunktive Normalform.md",
-    "LDS/KNF.md",
     "LDS/Aussagenlogik.md",
+    "LDS/Important notes/Menge.md",
+    "LDS/Sequenzenkalkül.md",
+    "LDS/Schlussregeln.md",
+    "LDS/Attachments/Pasted image 20231012231319.png",
+    "LDS/Attachments/Pasted image 20231012231257.png",
+    "LDS/Sequenz.md",
+    "LDS/erfüllbar.md",
+    "LDS/Tautologie.md",
+    "LDS/Negation.md",
+    "LDS/Antezedens.md",
+    "LDS/Sukzedens.md",
+    "LDS/Disjunktive und Konjunktive Normalform.md",
+    "LDS/DNF.md",
+    "LDS/KNF.md",
     "LDS/Term.md",
     "LDS/Klausel.md",
     "LDS/Negations-Normalform.md",
-    "LDS/Negation.md",
     "LDS/Attachments/Pasted image 20231012191734.png",
     "LDS/De Morganschen Gesetze.md",
     "LDS/Literal.md",
-    "LDS/erfüllbar.md",
-    "LDS/Tautologie.md",
     "LDS/Attachments/Pasted image 20231011214444.png",
     "LDS/Important notes/Algebra.md",
     "LDS/Notes/Charakteristik.md",
@@ -195,13 +203,7 @@
     "LDS/Notes/Körper.md",
     "LDS/Notes/Primkörper.md",
     "LDS/Notes/Isomorphismus.md",
-    "LDS/Notes/Isomorphie.md",
-    "LDS/Notes/primitives Element.md",
-    "LDS/Important notes/Menge.md",
-    "LDS/Notes/Zyklische Gruppe.md",
-    "LDS/Notes/Erzeuger.md",
     "LDS/Notes/attachments/Pasted image 20231010193045.png",
-    "LDS/Notes/Ring.md",
     "Algorithms",
     "LDS/Notes/attachments/Pasted image 20231006135947.png",
     "LDS/Notes/attachments",
@@ -209,13 +211,11 @@
     "LDS/Important notes/attachments/TransitiveHuelleBeispiel.png",
     "LDS/Attachments/Pasted image 20230822141006.png",
     "LDS/Attachments/Pasted image 20230822141830.png",
-    "LDS/Attachments/Pasted image 20230822152859.png",
     "LDS/Important notes/attachments",
     "Math",
     "Daily Notes/Daily Notes archive",
     "Daily Notes/TODO global",
     "Pre Mamu/attachments/Price list.pdf",
-    "Pre Mamu/attachments/Untitled.jpg",
     "Pre Mamu/attachments",
     "Pre Mamu",
     "DnD/Reasearch/attachments",
