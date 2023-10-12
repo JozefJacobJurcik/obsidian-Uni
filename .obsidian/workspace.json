@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Algebra.md",
+                "file": "LDS/Aussagenlogik.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69101c164f6b2d4e",
+            "id": "64b59f9bf2a92598",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Polynome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3080389f69cc8a83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LDS/Körpererweiterung.md",
+                "file": "LDS/Disjunktive und Konjunktive Normalform.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Polynome.md",
+                "file": "LDS/Disjunktive und Konjunktive Normalform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Polynome.md",
+                "file": "LDS/Disjunktive und Konjunktive Normalform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Polynome.md"
+                "file": "LDS/Disjunktive und Konjunktive Normalform.md"
               }
             }
           },
@@ -184,14 +171,28 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "69101c164f6b2d4e",
+  "active": "64b59f9bf2a92598",
   "lastOpenFiles": [
-    "LDS/Körpererweiterung.md",
-    "LDS/Notes/Restklasse.md",
-    "LDS/Algebra.md",
-    "LDS/Polynome.md",
-    "LDS/Notes/Körper.md",
+    "LDS/DNF.md",
+    "LDS/Disjunktive und Konjunktive Normalform.md",
+    "LDS/KNF.md",
+    "LDS/Aussagenlogik.md",
+    "LDS/Term.md",
+    "LDS/Klausel.md",
+    "LDS/Negations-Normalform.md",
+    "LDS/Negation.md",
+    "LDS/Attachments/Pasted image 20231012191734.png",
+    "LDS/De Morganschen Gesetze.md",
+    "LDS/Literal.md",
+    "LDS/erfüllbar.md",
+    "LDS/Tautologie.md",
+    "LDS/Attachments/Pasted image 20231011214444.png",
+    "LDS/Important notes/Algebra.md",
     "LDS/Notes/Charakteristik.md",
+    "LDS/Notes/Polynome.md",
+    "LDS/Notes/Körpererweiterung.md",
+    "LDS/Notes/Restklasse.md",
+    "LDS/Notes/Körper.md",
     "LDS/Notes/Primkörper.md",
     "LDS/Notes/Isomorphismus.md",
     "LDS/Notes/Isomorphie.md",
@@ -201,18 +202,6 @@
     "LDS/Notes/Erzeuger.md",
     "LDS/Notes/attachments/Pasted image 20231010193045.png",
     "LDS/Notes/Ring.md",
-    "LDS/Notes/Untergruppe.md",
-    "LDS/Notes/Satz von Lagrange.md",
-    "LDS/Notes/Quotientenmenge.md",
-    "LDS/Notes/Nebenklasse.md",
-    "LDS/Notes/Magma.md",
-    "LDS/Notes/invertierbar.md",
-    "LDS/Notes/Ordnung.md",
-    "LDS/Notes/Kardinalität.md",
-    "LDS/Notes/Äquivalenzklassen.md",
-    "LDS/Notes/Partition.md",
-    "LDS/Notes/inverses Element.md",
-    "LDS/Notes/Gruppe.md",
     "Algorithms",
     "LDS/Notes/attachments/Pasted image 20231006135947.png",
     "LDS/Notes/attachments",
@@ -227,10 +216,8 @@
     "Daily Notes/TODO global",
     "Pre Mamu/attachments/Price list.pdf",
     "Pre Mamu/attachments/Untitled.jpg",
-    "Pre Mamu/attachments/Untitled.png",
     "Pre Mamu/attachments",
     "Pre Mamu",
-    "DnD/Reasearch/attachments/Vegetation.png",
     "DnD/Reasearch/attachments",
     "Untitled.canvas"
   ]

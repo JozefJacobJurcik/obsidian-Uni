@@ -1,0 +1,1 @@
+Eine **Klausel** ist eine *Disjunktion* $a_1\: ∨ . . . ∨ \:a-k$ von [[Literal]]en.
