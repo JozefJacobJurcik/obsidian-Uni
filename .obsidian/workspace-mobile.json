@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Reasearch/Lake-effect snow.md",
+                "file": "LDS/Notes/Reflexivität.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DnD/Reasearch/Lake-effect snow.md",
+            "file": "LDS/Notes/Reflexivität.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DnD/Reasearch/Lake-effect snow.md",
+            "file": "LDS/Notes/Reflexivität.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DnD/Reasearch/Lake-effect snow.md"
+            "file": "LDS/Notes/Reflexivität.md"
           }
         }
       }
@@ -132,17 +132,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5535c0dc2a3ae798",
+  "active": "e13dee457e0f1a88",
   "lastOpenFiles": [
+    "LDS/Notes/Partielle Ordnung.md",
+    "LDS/Notes/Infimum und Supremum.md",
+    "LDS/Notes/Verband.md",
+    "LDS/Important notes/Menge.md",
+    "LDS/Notes/Assoziativgesetz.md",
     "DnD/Reasearch/Coriolis effect.md",
     "Pre Mamu/The Impossible Ethical Bargain Behind African Safaris.md",
     "DnD/Reasearch/Biome.md",
@@ -173,11 +178,6 @@
     "git/9 Branching Workflows.md",
     "Daily Notes/2023-09-09.md",
     "git/5 Working with Remotes.md",
-    "git/6 Git Branching.md",
-    "git/7 Basic Branching and Merging.md",
-    "Daily Notes/2023-09-06.md",
-    "Daily Notes/2023-09-05.md",
-    "Daily Notes/2023-09-04.md",
     "Daily Notes/Attachments/bloček doklad stanley.pdf",
     "Daily Notes/Attachments/obleky Poľsko.pdf",
     "Daily Notes"
