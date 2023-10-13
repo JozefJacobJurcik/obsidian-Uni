@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "27c54703220b2e1c",
+            "id": "b88e26ef5da0961b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Schlussregeln.md",
+                "file": "LDS/Sequenzenkalkül.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Schlussregeln.md",
+                "file": "LDS/Sequenzenkalkül.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Schlussregeln.md",
+                "file": "LDS/Sequenzenkalkül.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Schlussregeln.md"
+                "file": "LDS/Sequenzenkalkül.md"
               }
             }
           },
@@ -171,12 +172,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "27c54703220b2e1c",
+  "active": "b88e26ef5da0961b",
   "lastOpenFiles": [
+    "LDS/Axiom.md",
+    "LDS/Schlussregeln.md",
+    "LDS/Sequenzenkalkül.md",
     "LDS/Aussagenlogik.md",
     "LDS/Important notes/Menge.md",
-    "LDS/Sequenzenkalkül.md",
-    "LDS/Schlussregeln.md",
     "LDS/Attachments/Pasted image 20231012231319.png",
     "LDS/Attachments/Pasted image 20231012231257.png",
     "LDS/Sequenz.md",
@@ -202,7 +204,6 @@
     "LDS/Notes/Restklasse.md",
     "LDS/Notes/Körper.md",
     "LDS/Notes/Primkörper.md",
-    "LDS/Notes/Isomorphismus.md",
     "LDS/Notes/attachments/Pasted image 20231010193045.png",
     "Algorithms",
     "LDS/Notes/attachments/Pasted image 20231006135947.png",
