@@ -39,3 +39,10 @@ Ein **Beweis** für $Γ ⇒ ∆$ ist eine *Herleitung* von $Γ ⇒ ∆$ aus $∅
 >[!tip] Lemma 
 >Für jede Schlussregel und jede Bewertung $α$ gilt: [[erfüllbar|erfüllt]] $α$ die Konklusion der Regel, dann auch alle Prämissen.
 
+https://downloads.webis.de/lecturenotes/logics/unit-de-propositional-sat-syntactical.pdf
+
+![[Resolution]]
+
+
+![[SAT Solving]]
+

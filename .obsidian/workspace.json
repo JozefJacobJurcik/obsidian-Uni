@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4115f695fd572bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LDS/Aussagenlogik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b88e26ef5da0961b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Sequenzenkalkül.md",
+                "file": "LDS/Sprachen erster Stufe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Stelligkeit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Sequenzenkalkül.md",
+                "file": "LDS/Sprachen erster Stufe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Sequenzenkalkül.md",
+                "file": "LDS/Sprachen erster Stufe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Sequenzenkalkül.md"
+                "file": "LDS/Sprachen erster Stufe.md"
               }
             }
           },
@@ -172,38 +159,38 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b88e26ef5da0961b",
+  "active": "4b5b8379b2d16aa5",
   "lastOpenFiles": [
-    "LDS/Axiom.md",
-    "LDS/Schlussregeln.md",
-    "LDS/Sequenzenkalkül.md",
-    "LDS/Aussagenlogik.md",
+    "LDS/Important notes/Algebra.md",
+    "LDS/Sprachen erster Stufe.md",
+    "LDS/Prädikatenlogik erster Stufe.md",
+    "LDS/Notes/Sequenzenkalkül.md",
+    "LDS/Important notes/Aussagenlogik.md",
+    "LDS/Notes/SAT Solving.md",
+    "LDS/Notes/Resolution.md",
+    "LDS/Notes/Axiom.md",
+    "LDS/Notes/Schlussregeln.md",
     "LDS/Important notes/Menge.md",
     "LDS/Attachments/Pasted image 20231012231319.png",
     "LDS/Attachments/Pasted image 20231012231257.png",
-    "LDS/Sequenz.md",
-    "LDS/erfüllbar.md",
-    "LDS/Tautologie.md",
-    "LDS/Negation.md",
-    "LDS/Antezedens.md",
-    "LDS/Sukzedens.md",
-    "LDS/Disjunktive und Konjunktive Normalform.md",
-    "LDS/DNF.md",
-    "LDS/KNF.md",
-    "LDS/Term.md",
-    "LDS/Klausel.md",
-    "LDS/Negations-Normalform.md",
+    "LDS/Notes/Sequenz.md",
+    "LDS/Notes/erfüllbar.md",
+    "LDS/Notes/Tautologie.md",
+    "LDS/Notes/Negation.md",
+    "LDS/Notes/Antezedens.md",
+    "LDS/Notes/Sukzedens.md",
+    "LDS/Notes/Disjunktive und Konjunktive Normalform.md",
+    "LDS/Notes/DNF.md",
+    "LDS/Notes/KNF.md",
+    "LDS/Notes/Term.md",
+    "LDS/Notes/Klausel.md",
+    "LDS/Notes/Negations-Normalform.md",
     "LDS/Attachments/Pasted image 20231012191734.png",
-    "LDS/De Morganschen Gesetze.md",
-    "LDS/Literal.md",
+    "LDS/Notes/De Morganschen Gesetze.md",
+    "LDS/Notes/Literal.md",
     "LDS/Attachments/Pasted image 20231011214444.png",
-    "LDS/Important notes/Algebra.md",
     "LDS/Notes/Charakteristik.md",
     "LDS/Notes/Polynome.md",
-    "LDS/Notes/Körpererweiterung.md",
-    "LDS/Notes/Restklasse.md",
-    "LDS/Notes/Körper.md",
-    "LDS/Notes/Primkörper.md",
     "LDS/Notes/attachments/Pasted image 20231010193045.png",
     "Algorithms",
     "LDS/Notes/attachments/Pasted image 20231006135947.png",
