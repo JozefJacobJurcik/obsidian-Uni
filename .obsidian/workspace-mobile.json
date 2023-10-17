@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Notes/Reflexivität.md",
+                "file": "LDS/Important notes/Menge.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,6 +80,16 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "a65e8d7297ac961c",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -94,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LDS/Notes/Reflexivität.md",
+            "file": "LDS/Important notes/Menge.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LDS/Notes/Reflexivität.md",
+            "file": "LDS/Important notes/Menge.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LDS/Notes/Reflexivität.md"
+            "file": "LDS/Important notes/Menge.md"
           }
         }
       }
@@ -143,11 +153,13 @@
   },
   "active": "5535c0dc2a3ae798",
   "lastOpenFiles": [
+    "LDS/Notes/Assoziativgesetz.md",
+    "LDS/Important notes/Menge.md",
+    "LDS/Notes/Verband.md",
+    "LDS/Important notes/Ordnungen und Verbände.md",
+    "LDS/Notes/Reflexivität.md",
     "LDS/Notes/Partielle Ordnung.md",
     "LDS/Notes/Infimum und Supremum.md",
-    "LDS/Notes/Verband.md",
-    "LDS/Important notes/Menge.md",
-    "LDS/Notes/Assoziativgesetz.md",
     "DnD/Reasearch/Coriolis effect.md",
     "Pre Mamu/The Impossible Ethical Bargain Behind African Safaris.md",
     "DnD/Reasearch/Biome.md",
@@ -176,8 +188,6 @@
     "git/Attachments/lr-branches-2.png",
     "git/Attachments/lr-branches-1.png",
     "git/9 Branching Workflows.md",
-    "Daily Notes/2023-09-09.md",
-    "git/5 Working with Remotes.md",
     "Daily Notes/Attachments/bloček doklad stanley.pdf",
     "Daily Notes/Attachments/obleky Poľsko.pdf",
     "Daily Notes"
