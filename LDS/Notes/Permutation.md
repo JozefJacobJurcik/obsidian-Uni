@@ -1,4 +1,5 @@
 Eine [[Bijektivität|bijektive]] [[Funktion]] f : A → A heißt **Permutation**.
+
 [wiki Permutation](https://de.wikipedia.org/wiki/Permutation)
 
 für eine Permutation f : A → A gilt:
