@@ -46,6 +46,7 @@ $K[x]$ bildet mit diesen Operationen $+$ und $·$ einen [[Kommutativgesetz|kommu
 - Neutrales Element bzgl. $·$ : Konstantes Polynom $p(x) = 1$
 
 ##### Polynomdivision
+See also [[Polynomdivision]]
 
 >[!info] Theorem 
 >Für  $a(x), b(x) ∈ K[x]$ gibt es eindeutige $q(x),r(x) ∈ K[x]$ mit 
@@ -60,6 +61,15 @@ Damit lassen sich Begriffe der Zahlentheorie auf Polynome übertragen:
 	$a(x) ≡ b(x)\quad (\operatorname{mod}\: m(x))$   wenn   $m(x)$   teilt   $a(x) − b(x)$
 
 ### [[ggT]] und Irreduzibilität
+
+See also: [[ggT Polynome]]
+
+>[!tip]
+>Ein Polynom von Grad 2 oder 3 über einem Körper ist genau dann irreduzibel, wenn es keine Nullstellen hat.
+>
+>Ein irreduzibles Polynom vom Grad ≥ 1 hat keine Nullstellen, da bei einer Nullstelle a das Polynom x − a ein Teiler wäre.
+
+##### Vorlesung:
 
 Seien $p(x), q(x) ∈ K[x]$
 

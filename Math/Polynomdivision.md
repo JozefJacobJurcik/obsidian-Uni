@@ -20,6 +20,7 @@ Im nächsten Schritt wird von diesem Rest der *Summand höchsten Grades* elimini
 
 $$\displaystyle {\begin{array}{rrrrl}(-x^{4}&-2x^{3}&+x^{2}&&-1)&:&(x^{2}&&+1)=-x^{2}&-2x&+2&+{\frac {2x-3}{x^{2}+1}}\\{\underline {+x^{4}}}&&{\underline {+x^{2}}}\\&-2x^{3}&+2x^{2}\\&{\underline {+2x^{3}}}&&{\underline {+2x}}\\&&+2x^{2}&+2x\\&&{\underline {-2x^{2}}}&&{\underline {-2}}\\&&&+2x&-3\end{array}}$$
 
+See also: [[ggT Polynome]]
 ### Algorithmus
 
 ```BASIC
