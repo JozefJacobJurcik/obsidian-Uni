@@ -1,5 +1,6 @@
 ---
 aliases: Polynomial division
+klausur: 1
 ---
 
 #math #algorithm

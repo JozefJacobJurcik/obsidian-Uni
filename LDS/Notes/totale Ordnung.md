@@ -1,5 +1,6 @@
 ---
 aliases: lineare Ordnung
+klausur: 1
 ---
 
 Relation $R$ auf A die [reflexiv](Reflexivität.md), [transitiv](Transitivität.md) und [antisymmetrisch](Antisymmetrie.md) ist und und für alle 

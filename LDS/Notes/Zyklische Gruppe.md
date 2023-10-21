@@ -1,5 +1,6 @@
 ---
 aliases: Erzeuger
+klausur: 1
 ---
 
 In der Gruppentheorie ist eine *zyklische Gruppe* eine [[Gruppe]], die von einem einzelnen Element $a$ erzeugt wird. Sie besteht nur aus Potenzen des *Erzeugers* $a$ :

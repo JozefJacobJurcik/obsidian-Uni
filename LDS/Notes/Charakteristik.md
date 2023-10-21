@@ -1,5 +1,6 @@
 ---
 aliases: char
+klausur: 1
 ---
 Die **Charakteristik** ist in der Algebra eine *Kennzahl* eines [[Ring]]es oder [[Körper]]s. Sie gibt die kleinste Anzahl der benötigten Schritte an, in denen man das multiplikative [[neutrales Element]] (1) eines Körpers oder Rings addieren muss, um das additive neutrale Element (0) zu erhalten. Ist dies *nicht möglich*, so ist die Charakteristik *0*.
 

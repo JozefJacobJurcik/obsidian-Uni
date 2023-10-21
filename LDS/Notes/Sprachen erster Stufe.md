@@ -43,3 +43,4 @@ Eine Interpretation $A$ einer Sprache erster Ordnung $L = (\mathcal C,\mathcal F
 - für jedes k-stellige _Funktionssymbol_ $f ∈ \mathcal F$ eine [[Funktion]] $f_A : (M_A)^k → M_A$ 
 - für jedes $k$-stellige _Prädikatensymbol_ $P ∈ \mathcal P$ eine Relation $P_A ⊆ (M_A)^k$
 
+![[Kompaktheitssatz]]

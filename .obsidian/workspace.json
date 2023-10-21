@@ -8,30 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42363e9709809ecb",
+            "id": "1a71ef7dd9465a6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/modulo.md",
+                "file": "Math/Polynomdivision.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d36224c3e5c8d7c",
+            "id": "30b1396f46c5126d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Notes/Gruppe.md",
+                "file": "LDS/Important notes/Relation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "499605f3acc18333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LDS/to learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a919867f7e939149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LDS/Notes/Polynome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "modulo",
+                "query": "prä",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,13 +102,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e0bd09651e7598ef",
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Important notes/modulo.md",
+                "file": "LDS/to learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Important notes/modulo.md",
+                "file": "LDS/to learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Important notes/modulo.md"
+                "file": "LDS/to learn.md"
               }
             }
           },
@@ -171,36 +194,39 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "42363e9709809ecb",
+  "active": "499605f3acc18333",
   "lastOpenFiles": [
-    "LDS/Notes/Körpererweiterung.md",
-    "LDS/Important notes/modulo.md",
-    "LDS/Notes/Ring.md",
-    "LDS/Notes/Körper.md",
-    "LDS/Notes/Zahlentheorie und Arithmetik.md",
+    "LDS/Notes/Transitivität.md",
+    "LDS/to learn.md",
+    "LDS/Important notes/Relation.md",
     "LDS/Notes/Kongruenz.md",
-    "LDS/Important notes/Aussagenlogik.md",
-    "LDS/Notes/erfüllbar.md",
-    "LDS/Important notes/Algebra.md",
-    "LDS/Notes/Gruppe.md",
-    "LDS/Notes/Infimum und Supremum.md",
-    "LDS/Notes/Verband.md",
-    "LDS/Important notes/Ordnungen und Verbände.md",
-    "LDS/Notes/Permutation.md",
-    "LDS/Important notes/Funktion.md",
-    "LDS/Sprachen erster Stufe.md",
-    "LDS/Prädikatenlogik erster Stufe.md",
-    "LDS/Notes/Sequenzenkalkül.md",
-    "LDS/Notes/SAT Solving.md",
-    "LDS/Notes/Resolution.md",
-    "LDS/Notes/Axiom.md",
-    "LDS/Notes/Schlussregeln.md",
+    "LDS/Notes/erweiterte Euklidische Algorithmus.md",
+    "LDS/Notes/Polynome.md",
+    "LDS/Important notes/modulo.md",
+    "Math/Polynomdivision.md",
+    "LDS/Notes/Körper.md",
     "LDS/Important notes/Menge.md",
+    "LDS/Notes/Potenzmenge.md",
+    "LDS/Important notes/Aussagenlogik.md",
+    "LDS/Notes/Gruppe.md",
+    "LDS/Notes/Abelsche Gruppe.md",
+    "LDS/Notes/Ring.md",
+    "LDS/Notes/Körpererweiterung.md",
+    "LDS/Notes/Charakteristik.md",
+    "LDS/Notes/Quotientenmenge.md",
+    "LDS/Notes/Primkörper.md",
+    "LDS/Notes/Zyklische Gruppe.md",
+    "LDS/Notes/Euklidische Algorithmus.md",
+    "LDS/Notes/Transitive Hülle.md",
+    "LDS/Notes/Verband.md",
+    "LDS/Notes/Hasse Diagramm.md",
+    "LDS/Notes/Infimum und Supremum.md",
+    "LDS/Notes/totale Ordnung.md",
+    "LDS/Notes/attachments/Pasted image 20231020174828.png",
+    "LDS/Notes/attachments/Pasted image 20231020174547.png",
+    "LDS/Notes/attachments/Pasted image 20231020174427.png",
     "LDS/Attachments/Pasted image 20231012231319.png",
     "LDS/Attachments/Pasted image 20231012231257.png",
-    "LDS/Notes/Sequenz.md",
-    "LDS/Notes/Tautologie.md",
-    "LDS/Notes/Negation.md",
     "LDS/Attachments/Pasted image 20231012191734.png",
     "LDS/Attachments/Pasted image 20231011214444.png",
     "LDS/Notes/attachments/Pasted image 20231010193045.png",
@@ -208,9 +234,6 @@
     "LDS/Notes/attachments/Pasted image 20231006135947.png",
     "LDS/Notes/attachments",
     "LDS/Attachments/Pasted image 20230822115608.png",
-    "LDS/Important notes/attachments/TransitiveHuelleBeispiel.png",
-    "LDS/Attachments/Pasted image 20230822141006.png",
-    "LDS/Attachments/Pasted image 20230822141830.png",
     "LDS/Important notes/attachments",
     "Math",
     "Daily Notes/Daily Notes archive",

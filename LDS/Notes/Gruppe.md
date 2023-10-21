@@ -1,3 +1,7 @@
+---
+klausur: 1
+---
+
 ### Definition 1:
 Ein [[Monoid]] $H = (M, \circ)$ mit [[neutrales Element|neutralem Element]] $e$ heißt *Gruppe*, wenn es zu jedem $a ∈ M$ ein [[inverses Element|inverse Element]] $a^{−1} ∈ M$ gibt.
 

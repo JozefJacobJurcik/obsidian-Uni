@@ -1,5 +1,6 @@
 ---
 aliases: transitiv
+klausur: 1
 ---
 
 Ist M eine Menge und R ⊆ M × M eine zweistellige Relation auf M , dann heißt R _transitiv_, wenn gilt: 

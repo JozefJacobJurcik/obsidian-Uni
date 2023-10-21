@@ -1,3 +1,7 @@
+---
+klausur: 1
+---
+
 Die Kongruenz ist eine Beziehung zwischen ganzen Zahlen. Man nennt zwei ganze Zahlen $a$ und $b$ *kongruent* [[modulo]] $m$  (= eine weitere Zahl), wenn sie bei der Division durch $m$ beide denselben Rest haben. Das ist genau dann der Fall, wenn sie sich um ein ganzzahliges Vielfaches von $m$ unterscheiden. Stimmen die Reste hingegen nicht überein, so nennt man die Zahlen *inkongruent* [[modulo]] $m$. Jede Kongruenz modulo einer ganzen Zahl ist eine Kongruenzrelation auf dem Ring der ganzen Zahlen
 
 >[!tip] Lemma 
@@ -25,6 +29,13 @@ Speziell für  $b = 1$: Lösung von   $ax ≡ 1 \quad(mod \:\:m$)   ist Inverses
 >Seien $b_1, . . . , b_k ∈ \mathbb N$ und $m_1, . . . , m_k ∈ \mathbb N$ mit 
 >[[ggT]]$(m_i , m_j) = 1$ für  $i \ne j$ und sei $m = m_1 · . . . · m_k$ . 
 >Dann existiert genau ein $x ∈ \mathbb Z_m\:$ mit $x ≡ b_i \quad (mod \:\:m_i)$ für $i = 1, . . . , k$.
+
+>[!info] Für Polynome gilt: 
+>$a(x) ≡ b(x)\quad (\operatorname{mod}\: m(x))\quad$   wenn   $\quad m(x)$   teilt   $a(x) − b(x)$
+>also für multiplikative inverse in endlichen Körpern gilt:
+>$a(x) \cdot a^{-1}(x) - 1 ≡ 0  \quad \operatorname{mod}\: m(x)$
+
+
 
 ##### Finden einer Lösung
 Eine Lösung $x$ kann wie folgt ermittelt werden: 

@@ -1,6 +1,7 @@
 ---
 aliases: reflexiv-transitiven Abschluss
 modul: "LDS"
+klausur: 1
 ---
 Die reflexiv-transitive Hülle $R^{{*}}$ ergibt sich durch
 $$x\ R^{*}\ y:\Leftrightarrow x=y\lor x\ R^{+}\ y$$

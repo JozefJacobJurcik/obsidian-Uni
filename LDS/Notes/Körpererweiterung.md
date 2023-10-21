@@ -1,3 +1,7 @@
+---
+klausur: 1
+---
+
 In der abstrakten Algebra bezeichnet man als **Körpererweiterung** ein Paar $L$ und $K$ , geschrieben als $L / K$,  wobei $K$ ein _Unterkörper_ eines _Oberkörpers_ $L$ ist, also eine Teilmenge $K ⊆ L$ , die 0 und 1 enthält und mit den auf $K$ eingeschränkten Verknüpfungen selbst ein [[Körper]] ist. Zum Beispiel ist der Körper $\mathbb C$ der komplexen Zahlen ein Oberkörper des Körpers $\mathbb R$ der reellen Zahlen und daher $\mathbb C / \mathbb R$  eine Körpererweiterung.
 
 Sei $K$ ein [[Körper]] und $p(x) ∈ K[x]$ 

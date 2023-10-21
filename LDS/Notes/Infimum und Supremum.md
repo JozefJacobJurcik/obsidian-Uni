@@ -1,5 +1,6 @@
 ---
 aliases: Infimum, Supremum
+klausur: 1
 ---
 
 Sei $\preceq$ [[partielle Ordnung]] auf $A$, und $a, b ∈ A$. 

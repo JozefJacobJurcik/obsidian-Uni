@@ -1,3 +1,6 @@
+---
+klausur: 1
+---
 
 Eine [[Menge]] $A$ mit [[Partielle Ordnung]] $\preceq$ ist ein **Verband**, wenn es für je zwei $a, b$ ein [[Infimum und Supremum|Infimum]] und [[Infimum und Supremum|Supremum]] gibt.
 

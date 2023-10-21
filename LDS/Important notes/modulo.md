@@ -1,5 +1,6 @@
 ---
 aliases: mod, Ganzzahlige Division mit Rest
+klausur: 2
 ---
 
 Für alle  $a, b ∈ \mathbb Z$ mit $b \ne 0$ gibt es eindeutig bestimmte $q,r ∈ \mathbb Z$ mit $0 ≤ r < |b|$ und $a = q · b + r$ 
@@ -27,6 +28,7 @@ Auf $\mathbb N$ ist die [[Relation]] | eine [[partielle Ordnung]].
 >- $(a + b)$ mod $m$ = ($a$ mod $m + b$ mod $m$) mod $m$ 
 >- $(a · b)$ mod $m$ = ($a$ mod $m · b$ mod $m$) mod $m$
 
+$$-4 \:\operatorname{mod}\: 5 = {\color{Orchid}1}+(-1)5 = {\color{Orchid}1}$$
 ##### Schnelle Exponentiation:
 Berechne $a^b\: mod\: m$ wie folgt:
 - First, it is required that the exponent $e$ be converted to binary notation. That is, $e$ can be written as:

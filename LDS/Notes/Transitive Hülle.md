@@ -1,5 +1,6 @@
 ---
 modul: "LDS"
+klausur: 1
 ---
 
 Die *transitive Hülle* $R^{+}$ einer zweistelligen [[Relation]] $R$ auf einer [[Menge]] $M$ ist gegeben durch:
