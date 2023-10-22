@@ -13,25 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Exercises/ggT Polynome.md",
+                "file": "LDS/Exercises/Schlussregeln - exercise.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "497001c29b9fb353",
+            "id": "c7c397d6462e38a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Notes/Polynome.md",
+                "file": "LDS/Notes/Schlussregeln.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02c5eaebc66718fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LDS/Notes/Axiom.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prä",
+                "query": "de mor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Exercises/ggT Polynome.md",
+                "file": "LDS/Notes/Axiom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Exercises/ggT Polynome.md",
+                "file": "LDS/Notes/Axiom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Exercises/ggT Polynome.md"
+                "file": "LDS/Notes/Axiom.md"
               }
             }
           },
@@ -169,12 +182,25 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "499605f3acc18333",
+  "active": "02c5eaebc66718fe",
   "lastOpenFiles": [
+    "LDS/Notes/Schlussregeln.md",
+    "LDS/Notes/Axiom.md",
+    "LDS/Important notes/Menge.md",
+    "LDS/Notes/Sequenzenkalkül.md",
+    "LDS/Notes/SAT Solving.md",
+    "LDS/Exercises/Schlussregeln - exercise.md",
+    "LDS/Exercises/Negations-Normalform - exercise.md",
+    "LDS/to learn.md",
+    "LDS/Attachments/Pasted image 20231022202452.png",
+    "LDS/Exercises/attachments",
+    "LDS/Exercises/irreduzibles Polynom.md",
+    "LDS/Notes/De Morganschen Gesetze.md",
+    "LDS/Exercises/Körpererweiterung - exercise.md",
+    "LDS/Exercises/ggT Polynome.md",
     "Math/Polynomdivision.md",
     "LDS/Notes/Polynome.md",
-    "LDS/Exercises/ggT Polynome.md",
-    "LDS/to learn.md",
+    "LDS/Notes/Körpererweiterung.md",
     "LDS/Exercises",
     "LDS/Notes/Transitivität.md",
     "LDS/Important notes/Relation.md",
@@ -182,22 +208,11 @@
     "LDS/Notes/erweiterte Euklidische Algorithmus.md",
     "LDS/Important notes/modulo.md",
     "LDS/Notes/Körper.md",
-    "LDS/Important notes/Menge.md",
     "LDS/Notes/Potenzmenge.md",
     "LDS/Important notes/Aussagenlogik.md",
     "LDS/Notes/Gruppe.md",
     "LDS/Notes/Abelsche Gruppe.md",
     "LDS/Notes/Ring.md",
-    "LDS/Notes/Körpererweiterung.md",
-    "LDS/Notes/Charakteristik.md",
-    "LDS/Notes/Quotientenmenge.md",
-    "LDS/Notes/Primkörper.md",
-    "LDS/Notes/Zyklische Gruppe.md",
-    "LDS/Notes/Euklidische Algorithmus.md",
-    "LDS/Notes/Transitive Hülle.md",
-    "LDS/Notes/Verband.md",
-    "LDS/Notes/Hasse Diagramm.md",
-    "LDS/Notes/Infimum und Supremum.md",
     "LDS/Notes/attachments/Pasted image 20231020174828.png",
     "LDS/Notes/attachments/Pasted image 20231020174547.png",
     "LDS/Notes/attachments/Pasted image 20231020174427.png",
@@ -209,14 +224,12 @@
     "Algorithms",
     "LDS/Notes/attachments/Pasted image 20231006135947.png",
     "LDS/Notes/attachments",
-    "LDS/Attachments/Pasted image 20230822115608.png",
     "LDS/Important notes/attachments",
     "Math",
     "Daily Notes/Daily Notes archive",
     "Daily Notes/TODO global",
     "Pre Mamu/attachments/Price list.pdf",
     "Pre Mamu/attachments",
-    "Pre Mamu",
     "Untitled.canvas"
   ]
 }

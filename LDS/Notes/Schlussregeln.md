@@ -1,3 +1,7 @@
+---
+aliases: Schlussregel
+---
+
 Die **Schlussegeln** des [[Sequenzenkalkül]]s erlauben aus bekannten [[Sequenz]]en (*Prämissen*) eine neue Sequenz (*Konklusion*) herzuleiten.
 
 ![[Pasted image 20231012231257.png]]

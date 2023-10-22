@@ -62,11 +62,9 @@ Damit lassen sich Begriffe der Zahlentheorie auf Polynome übertragen:
 
 ### [[ggT]] und Irreduzibilität
 
-See also: [[ggT Polynome]]
+See also: [[ggT Polynome]], [[irreduzibles Polynom]] 
 
 >[!tip]
->Ein Polynom von Grad 2 oder 3 über einem Körper ist genau dann irreduzibel, wenn es keine Nullstellen hat.
->
 >Ein irreduzibles Polynom vom Grad ≥ 1 hat keine Nullstellen, da bei einer Nullstelle a das Polynom x − a ein Teiler wäre.
 
 ##### Vorlesung:

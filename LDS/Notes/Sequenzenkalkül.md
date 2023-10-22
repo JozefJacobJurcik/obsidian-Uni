@@ -3,6 +3,7 @@ https://en.wikipedia.org/wiki/Sequent_calculus
 
 ![[Sequenz]]
 
+
 ![[Schlussregeln]]
 
 
