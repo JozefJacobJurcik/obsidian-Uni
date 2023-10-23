@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/Menge.md",
+                "file": "E3p/Schallwellen.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Algo",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -104,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LDS/Important notes/Menge.md",
+            "file": "E3p/Schallwellen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LDS/Important notes/Menge.md",
+            "file": "E3p/Schallwellen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LDS/Important notes/Menge.md"
+            "file": "E3p/Schallwellen.md"
           }
         }
       }
@@ -153,8 +153,15 @@
   },
   "active": "5535c0dc2a3ae798",
   "lastOpenFiles": [
-    "LDS/Notes/Assoziativgesetz.md",
+    "E3p/Dispersion.md",
+    "E3p/Schallwellen.md",
+    "E3p/Stehende Welle.md",
+    "E3p/Allgemeine Wellengleichung.md",
+    "E3p/Polarisatoren.md",
+    "LDS/Notes/erweiterte Euklidische Algorithmus.md",
     "LDS/Important notes/Menge.md",
+    "E3p",
+    "LDS/Notes/Assoziativgesetz.md",
     "LDS/Notes/Verband.md",
     "LDS/Important notes/Ordnungen und Verbände.md",
     "LDS/Notes/Reflexivität.md",
@@ -174,20 +181,14 @@
     "Daily Notes/2023-09-12.md",
     "Daily Notes/2023-09-13_BACKUP_32712.md",
     "Daily Notes/2023-09-13.md.orig",
-    "Daily Notes/2023-09-13_REMOTE_32712.md",
-    "Daily Notes/2023-09-13_LOCAL_32712.md",
-    "Daily Notes/2023-09-13_BASE_32712.md",
     "Daily Notes/Pasted image 20230913130904.png",
     "Daily Notes/Pasted image 20230913130336.png",
     "Daily Notes/Attachments/Pasted image 20230913130254.png",
-    "Daily Notes/2023-09-10.md",
-    "git/3 Viewing the Commit History.md",
     "Daily Notes/2023-09-06.md.orig",
     "git/Attachments/topic-branches-2.png",
     "git/Attachments/topic-branches-1.png",
     "git/Attachments/lr-branches-2.png",
     "git/Attachments/lr-branches-1.png",
-    "git/9 Branching Workflows.md",
     "Daily Notes/Attachments/bloček doklad stanley.pdf",
     "Daily Notes/Attachments/obleky Poľsko.pdf",
     "Daily Notes"
