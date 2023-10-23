@@ -1,4 +1,5 @@
 pränex normalform
 Skolemisieren
 freie variable
-DNF KNF
+~~DNF KNF~~
+induktion
