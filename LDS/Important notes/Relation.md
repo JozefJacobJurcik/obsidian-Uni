@@ -1,3 +1,7 @@
+---
+klausur: 2
+---
+
 Relation R zwischen zwei [Mengen](Menge.md) A und B
 
 **R ⊆ A × B**
@@ -22,11 +26,11 @@ für alle a, b ∈ A gilt: wenn a *R* b und b *R* a, dann ist a = b
 ### Besondere Relationen
 
 Eine Relation *R* auf $A$ heißt:
-- [[Quasiordnung]] wenn sie reflexiv und transitiv ist.
-- [[Partielle Ordnung]] wenn sie reflexiv, transitiv und antisymmetrisch ist.
+- [[Quasiordnung]] wenn sie *reflexiv und transitiv* ist.
+- [[Partielle Ordnung]] wenn sie *reflexiv, transitiv und antisymmetrisch* ist.
 - lineare  oder [[totale Ordnung]] wenn sie partielle Ordnung ist, und für alle 
 	a, b ∈ A gilt a *R* b oder b *R* a
-- [[Äquivalenzrelation]] wenn sie reflexiv, transitiv und symmetrisch ist.
+- [[Äquivalenzrelation]] wenn sie *reflexiv, transitiv und symmetrisch* ist.
 
 
 

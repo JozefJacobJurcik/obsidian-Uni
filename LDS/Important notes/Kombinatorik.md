@@ -1,3 +1,7 @@
+---
+klausur: 1
+---
+
 ### Ziehen von Elementen aus einer Menge
 
 **Frage:** Wie viele Möglichkeiten gibt es, k Elemente aus einer n-elementigen Menge auszuwählen?
@@ -35,7 +39,7 @@ Beispiel: Ziehen von k = 2 Elementen aus {1, 2, 3}, also n = 3.
 - wie oben, aber jede Auswahl wird dort k! mal gezählt 
 		$\rightarrow$  $\frac{n · (n − 1) · . . . · (n − k + 1)}{k!} = \frac {n!}{(n − k)!\:k!} = {n\choose k} \rightarrow$ [[Binomialkoeffizient]]
 
-*Ungeordnet, ohne Zurücklegen*:
+*Ungeordnet, mit Zurücklegen*:
 - [[Kombination mit Wiederholung]]
 		$\rightarrow \: {\displaystyle {\frac {(n+k-1)!}{(n-1)!\cdot k!}}={\binom {n+k-1}{k}}={\binom {n+k-1}{n-1}}=\left(\!\!{\binom {n}{k}}\!\!\right)}$
 

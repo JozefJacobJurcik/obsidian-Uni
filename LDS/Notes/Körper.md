@@ -1,3 +1,7 @@
+---
+klausur: 1
+---
+
 Ein Körper ist eine [[Menge]] $K$ , versehen mit zwei inneren zweistelligen Verknüpfungen + und $\cdot$ (die _Addition_ und _Multiplikation_ genannt werden), für die folgende Bedingungen erfüllt sind:
 
 1. $( K , + )$  ist eine [[abelsche Gruppe]] (neutrales Element 0).
@@ -37,6 +41,8 @@ Ein Körper ist eine [[Menge]] $K$ , versehen mit zwei inneren zweistelligen Ver
 
 
 ![[Charakteristik]]
+
+![[Körpererweiterung]]
 ###### Beispiele:
 $\mathbb Q,\mathbb R,\mathbb C$ sind *Körper*.
 

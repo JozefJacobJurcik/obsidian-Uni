@@ -20,48 +20,48 @@
             }
           },
           {
-            "id": "dde8188f81535bec",
+            "id": "443d04106e590308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Exercises/Schlussregeln - exercise.md",
+                "file": "LDS/Important notes/Algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec3c4293b5f8b93d",
+            "id": "c0518ab07c4a6fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Notes/Schlussregeln.md",
+                "file": "LDS/Notes/Abelsche Gruppe.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "35d3978ba84fae14",
+            "id": "e96fa6a9954ba26e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Notes/Prädikatenlogik erster Stufe.md",
+                "file": "LDS/Notes/Distributivgesetz.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "506f740ab97805be",
+            "id": "ddfea9db2c42fe4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Notes/KNF.md",
+                "file": "LDS/Notes/Abelsche Gruppe.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,10 +97,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sprache erste",
+                "query": "distri",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Notes/Prädikatenlogik erster Stufe.md",
+                "file": "LDS/Notes/Distributivgesetz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Notes/Prädikatenlogik erster Stufe.md",
+                "file": "LDS/Notes/Distributivgesetz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Notes/Prädikatenlogik erster Stufe.md"
+                "file": "LDS/Notes/Distributivgesetz.md"
               }
             }
           },
@@ -207,38 +207,39 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "35d3978ba84fae14",
+  "active": "e96fa6a9954ba26e",
   "lastOpenFiles": [
-    "LDS/Notes/Resolution.md",
-    "LDS/Notes/KNF.md",
-    "LDS/Notes/Klausel.md",
-    "LDS/Notes/Schlussregeln.md",
-    "LDS/Exercises/Schlussregeln - exercise.md",
-    "LDS/Exercises/Resolution -exercise.md",
-    "LDS/Exercises/Normalformen - exercise.md",
-    "LDS/Notes/DNF.md",
-    "LDS/Notes/Disjunktheit.md",
-    "LDS/Notes/Sequenzenkalkül.md",
-    "LDS/Notes/Axiom.md",
-    "LDS/Notes/attachments/Pasted image 20231023141214.png",
-    "LDS/to learn.md",
-    "LDS/Notes/attachments/Pasted image 20231023134504.png",
-    "LDS/Exercises/NNF - exercise.md",
-    "LDS/Notes/Distributivgesetz.md",
-    "LDS/Notes/Disjunktive und Konjunktive Normalform.md",
-    "LDS/Notes/Term.md",
-    "LDS/Exercises/ggT Polynome.md",
-    "LDS/Notes/Negations-Normalform.md",
-    "LDS/Notes/De Morganschen Gesetze.md",
     "LDS/Important notes/Aussagenlogik.md",
+    "LDS/Important notes/Funktion.md",
+    "LDS/Important notes/Relation.md",
+    "LDS/Exercises/Pränexnormalform -exercise.md",
+    "LDS/Notes/Pränexform.md",
+    "LDS/Notes/Schlussregeln.md",
+    "LDS/Notes/Sequenzenkalkül.md",
+    "LDS/Notes/Prädikatenlogik erster Stufe.md",
+    "LDS/Notes/Sprachen erster Stufe.md",
+    "LDS/Notes/Körper.md",
+    "LDS/Notes/Primkörper.md",
+    "LDS/Notes/Zyklische Gruppe.md",
+    "LDS/Notes/Abelsche Gruppe.md",
+    "LDS/Notes/Homomorphismus.md",
+    "LDS/Notes/Gruppe.md",
+    "LDS/Exercises/Resolution -exercise.md",
+    "LDS/Important notes/Kombinatorik.md",
+    "LDS/Notes/Äquivalenzrelation.md",
     "LDS/Important notes/Menge.md",
-    "LDS/Notes/SAT Solving.md",
-    "LDS/Exercises/Negations-Normalform - exercise.md",
-    "LDS/Attachments/Pasted image 20231022202452.png",
+    "LDS/Notes/Monoid.md",
+    "LDS/Notes/Ring.md",
+    "LDS/Important notes/Algebra.md",
+    "LDS/Notes/Reflexivität.md",
+    "LDS/Notes/Kommutativgesetz.md",
+    "LDS/Exercises/Schlussregeln - exercise.md",
+    "LDS/Notes/Resolution.md",
+    "LDS/Exercises/attachments/Pasted image 20231024181825.png",
     "LDS/Exercises/attachments",
-    "LDS/Exercises/irreduzibles Polynom.md",
-    "LDS/Exercises/Körpererweiterung - exercise.md",
-    "Math/Polynomdivision.md",
+    "LDS/Notes/attachments/Pasted image 20231023141214.png",
+    "LDS/Notes/attachments/Pasted image 20231023134504.png",
+    "LDS/Attachments/Pasted image 20231022202452.png",
     "LDS/Exercises",
     "LDS/Notes/attachments/Pasted image 20231020174828.png",
     "LDS/Notes/attachments/Pasted image 20231020174547.png",
@@ -246,7 +247,6 @@
     "LDS/Attachments/Pasted image 20231012231319.png",
     "LDS/Attachments/Pasted image 20231012231257.png",
     "LDS/Attachments/Pasted image 20231012191734.png",
-    "LDS/Attachments/Pasted image 20231011214444.png",
     "Algorithms",
     "LDS/Notes/attachments",
     "LDS/Important notes/attachments",

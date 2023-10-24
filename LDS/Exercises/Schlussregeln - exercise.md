@@ -57,3 +57,13 @@ See: [[Schlussregeln]]
 Zeigen Sie, dass im Sequenzenkalkül die Sequenz $¬(x → y) ∨ (y ∧ z) ⇒ (x ∨ z)$ herleitbar ist; geben Sie dazu eine Herleitung im Sequenzenkalkül an.
 
 $${\Huge \frac{\frac{y, z ⇒ x, z}{y ∧ z ⇒ x, z}{\small(∧-L)} \quad \frac{\frac{ x ⇒ x, z, y}{⇒  x, z, x → y}(→-R)}{¬(x → y) ⇒ x, z}{\small(∨-L)}}{\frac{¬(x → y) ∨ (y ∧ z) ⇒ x, z}{¬(x → y) ∨ (y ∧ z) ⇒ (x ∨ z)}{\small(∨-R)}}}$$
+###### 5.
+Zeigen Sie, dass $¬∃x∀y(P(x, y)) ≡ ∀x∃y(¬P(x, y))$ gilt, indem Sie die folgenden beiden Sequenzen im Sequenzenkalkül der Prädikatenlogik herleiten: 
+
+- $(¬∃x∀y(P(x, y))) ⇒ (∀x∃y(¬P(x, y)))$ 
+- $(∀x∃y(¬P(x, y))) ⇒ (¬∃x∀y(P(x, y)))$ 
+
+Benennen Sie die angewandten Schlussregeln und die Sequenzen, auf welche diese jeweils angewendet werden, explizit! Achten Sie außerdem darauf, dass die Eigenvariablen-Bedingung bei der Anwendung von Quantor-Regeln nicht verletzt wird.
+
+---
+
