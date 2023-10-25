@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E3p/Schallwellen.md",
+                "file": "LDS/Notes/Surjektivität.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Algo",
+            "query": "Inje",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -92,7 +92,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9d5d2a02340b9c11",
@@ -104,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "E3p/Schallwellen.md",
+            "file": "LDS/Notes/Surjektivität.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "E3p/Schallwellen.md",
+            "file": "LDS/Notes/Surjektivität.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "E3p/Schallwellen.md"
+            "file": "LDS/Notes/Surjektivität.md"
           }
         }
       }
@@ -153,8 +153,19 @@
   },
   "active": "5535c0dc2a3ae798",
   "lastOpenFiles": [
-    "E3p/Dispersion.md",
+    "LDS/Notes/Bijektivität.md",
+    "LDS/Notes/Injektivität.md",
+    "LDS/Notes/Symmetrie.md",
+    "LDS/Important notes/Relation.md",
+    "LDS/Notes/Verband.md",
+    "LDS/Important notes/Ordnungen und Verbände.md",
+    "LDS/Notes/totale Ordnung.md",
+    "LDS/Notes/Partielle Ordnung.md",
+    "LDS/Notes/Antisymmetrie.md",
+    "LDS/Notes/Transitive Hülle.md",
+    "LDS/Important notes/modulo.md",
     "E3p/Schallwellen.md",
+    "E3p/Dispersion.md",
     "E3p/Stehende Welle.md",
     "E3p/Allgemeine Wellengleichung.md",
     "E3p/Polarisatoren.md",
@@ -162,24 +173,13 @@
     "LDS/Important notes/Menge.md",
     "E3p",
     "LDS/Notes/Assoziativgesetz.md",
-    "LDS/Notes/Verband.md",
-    "LDS/Important notes/Ordnungen und Verbände.md",
     "LDS/Notes/Reflexivität.md",
-    "LDS/Notes/Partielle Ordnung.md",
     "LDS/Notes/Infimum und Supremum.md",
     "DnD/Reasearch/Coriolis effect.md",
     "Pre Mamu/The Impossible Ethical Bargain Behind African Safaris.md",
     "DnD/Reasearch/Biome.md",
     "Daily Notes/TODO global/To do.md",
     "DnD/Reasearch/Lake-effect snow.md",
-    "DnD/Reasearch/Leaflet.md",
-    "DnD/Reasearch/Ocean current.md",
-    "DnD/Reasearch/Plate tectonics.md",
-    "Daily Notes/TODO global/Na kupenie.md",
-    "Daily Notes/2023-09-13.md",
-    "Daily Notes/2023-09-22.md",
-    "Daily Notes/2023-09-12.md",
-    "Daily Notes/2023-09-13_BACKUP_32712.md",
     "Daily Notes/2023-09-13.md.orig",
     "Daily Notes/Pasted image 20230913130904.png",
     "Daily Notes/Pasted image 20230913130336.png",
