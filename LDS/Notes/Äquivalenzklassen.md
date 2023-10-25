@@ -1,5 +1,6 @@
 ---
 aliases: Äquivalenzklasse 
+klausur: 1
 ---
 
 [[Partition]] einer Menge $A$ : 

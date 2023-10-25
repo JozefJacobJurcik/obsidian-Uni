@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Notes/Distributivgesetz.md",
+                "file": "LDS/to recap.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distri",
+                "query": "kombi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Notes/Distributivgesetz.md",
+                "file": "LDS/to recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Notes/Distributivgesetz.md",
+                "file": "LDS/to recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Notes/Distributivgesetz.md"
+                "file": "LDS/to recap.md"
               }
             }
           },
@@ -207,8 +206,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e96fa6a9954ba26e",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
+    "LDS/Important notes/Kombinatorik.md",
+    "LDS/Notes/Homomorphismus.md",
+    "LDS/Notes/Vollständige Induktion.md",
+    "LDS/Notes/Äquivalenzklassen.md",
+    "LDS/Notes/Äquivalenzrelation.md",
+    "LDS/Notes/Distributivgesetz.md",
     "LDS/Important notes/Aussagenlogik.md",
     "LDS/Important notes/Funktion.md",
     "LDS/Important notes/Relation.md",
@@ -222,19 +227,13 @@
     "LDS/Notes/Primkörper.md",
     "LDS/Notes/Zyklische Gruppe.md",
     "LDS/Notes/Abelsche Gruppe.md",
-    "LDS/Notes/Homomorphismus.md",
     "LDS/Notes/Gruppe.md",
     "LDS/Exercises/Resolution -exercise.md",
-    "LDS/Important notes/Kombinatorik.md",
-    "LDS/Notes/Äquivalenzrelation.md",
     "LDS/Important notes/Menge.md",
     "LDS/Notes/Monoid.md",
     "LDS/Notes/Ring.md",
     "LDS/Important notes/Algebra.md",
     "LDS/Notes/Reflexivität.md",
-    "LDS/Notes/Kommutativgesetz.md",
-    "LDS/Exercises/Schlussregeln - exercise.md",
-    "LDS/Notes/Resolution.md",
     "LDS/Exercises/attachments/Pasted image 20231024181825.png",
     "LDS/Exercises/attachments",
     "LDS/Notes/attachments/Pasted image 20231023141214.png",

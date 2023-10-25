@@ -1,5 +1,5 @@
 ---
-klausur: 1
+klausur: 3
 ---
 
 [[Relation]] *R* auf A die [reflexiv](Reflexivität.md), [transitiv](Transitivität.md) und [symmetrisch](Symmetrie.md) ist. 
