@@ -8,67 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e95c867e8893805",
+            "id": "b0c64d3ab922e904",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LDS/Exercises/Resolution -exercise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "443d04106e590308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LDS/Important notes/Algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0518ab07c4a6fac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LDS/Notes/Abelsche Gruppe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e96fa6a9954ba26e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LDS/to recap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddfea9db2c42fe4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LDS/Notes/Abelsche Gruppe.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/to recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/to recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LDS/to recap.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,8 +149,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "da115dda2911a4ed",
+  "active": "b0c64d3ab922e904",
   "lastOpenFiles": [
+    "LDS/Notes/Abelsche Gruppe.md",
+    "LDS/Exercises/Resolution -exercise.md",
     "LDS/Important notes/Kombinatorik.md",
     "LDS/Notes/Homomorphismus.md",
     "LDS/Notes/Vollständige Induktion.md",
@@ -226,9 +171,7 @@
     "LDS/Notes/Körper.md",
     "LDS/Notes/Primkörper.md",
     "LDS/Notes/Zyklische Gruppe.md",
-    "LDS/Notes/Abelsche Gruppe.md",
     "LDS/Notes/Gruppe.md",
-    "LDS/Exercises/Resolution -exercise.md",
     "LDS/Important notes/Menge.md",
     "LDS/Notes/Monoid.md",
     "LDS/Notes/Ring.md",
