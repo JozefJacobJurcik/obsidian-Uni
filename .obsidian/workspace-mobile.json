@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Notes/Surjektivität.md",
+                "file": "LDS/Important notes/modulo.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,7 +53,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Inje",
+            "query": "Schnelle",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -104,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LDS/Notes/Surjektivität.md",
+            "file": "LDS/Important notes/modulo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LDS/Notes/Surjektivität.md",
+            "file": "LDS/Important notes/modulo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LDS/Notes/Surjektivität.md"
+            "file": "LDS/Important notes/modulo.md"
           }
         }
       }
@@ -153,6 +153,11 @@
   },
   "active": "5535c0dc2a3ae798",
   "lastOpenFiles": [
+    "LDS/Notes/Körper.md",
+    "LDS/Important notes/modulo.md",
+    "LDS/Exercises/Körpererweiterung - exercise.md",
+    "LDS/Notes/erweiterte Euklidische Algorithmus.md",
+    "LDS/Notes/Surjektivität.md",
     "LDS/Notes/Bijektivität.md",
     "LDS/Notes/Injektivität.md",
     "LDS/Notes/Symmetrie.md",
@@ -163,13 +168,11 @@
     "LDS/Notes/Partielle Ordnung.md",
     "LDS/Notes/Antisymmetrie.md",
     "LDS/Notes/Transitive Hülle.md",
-    "LDS/Important notes/modulo.md",
     "E3p/Schallwellen.md",
     "E3p/Dispersion.md",
     "E3p/Stehende Welle.md",
     "E3p/Allgemeine Wellengleichung.md",
     "E3p/Polarisatoren.md",
-    "LDS/Notes/erweiterte Euklidische Algorithmus.md",
     "LDS/Important notes/Menge.md",
     "E3p",
     "LDS/Notes/Assoziativgesetz.md",
@@ -177,9 +180,6 @@
     "LDS/Notes/Infimum und Supremum.md",
     "DnD/Reasearch/Coriolis effect.md",
     "Pre Mamu/The Impossible Ethical Bargain Behind African Safaris.md",
-    "DnD/Reasearch/Biome.md",
-    "Daily Notes/TODO global/To do.md",
-    "DnD/Reasearch/Lake-effect snow.md",
     "Daily Notes/2023-09-13.md.orig",
     "Daily Notes/Pasted image 20230913130904.png",
     "Daily Notes/Pasted image 20230913130336.png",
