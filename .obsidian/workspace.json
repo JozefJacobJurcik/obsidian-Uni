@@ -11,8 +11,36 @@
             "id": "b0c64d3ab922e904",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "E3p/Dispersion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "218ce3bf8b7b2621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E3p/Phasengeschwindigkeit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1631824dacad5f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E3p/Allgemeine Wellengleichung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "E3p/Dispersion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "E3p/Dispersion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "E3p/Dispersion.md"
+              }
             }
           },
           {
@@ -151,6 +183,16 @@
   },
   "active": "b0c64d3ab922e904",
   "lastOpenFiles": [
+    "E3p/Allgemeine Wellengleichung.md",
+    "E3p/Phasengeschwindigkeit.md",
+    "E3p/Dispersion.md",
+    "E3p/1. Wellen.md",
+    "E3p/attachments/Pasted image 20231029190150.png",
+    "E3p/Polarisatoren.md",
+    "E3p/Schallwellen.md",
+    "E3p/attachments/welle.png",
+    "E3p/attachments",
+    "E3p/Stehende Welle.md",
     "LDS/Notes/Abelsche Gruppe.md",
     "LDS/Exercises/Resolution -exercise.md",
     "LDS/Important notes/Kombinatorik.md",
@@ -169,14 +211,6 @@
     "LDS/Notes/Prädikatenlogik erster Stufe.md",
     "LDS/Notes/Sprachen erster Stufe.md",
     "LDS/Notes/Körper.md",
-    "LDS/Notes/Primkörper.md",
-    "LDS/Notes/Zyklische Gruppe.md",
-    "LDS/Notes/Gruppe.md",
-    "LDS/Important notes/Menge.md",
-    "LDS/Notes/Monoid.md",
-    "LDS/Notes/Ring.md",
-    "LDS/Important notes/Algebra.md",
-    "LDS/Notes/Reflexivität.md",
     "LDS/Exercises/attachments/Pasted image 20231024181825.png",
     "LDS/Exercises/attachments",
     "LDS/Notes/attachments/Pasted image 20231023141214.png",
@@ -187,8 +221,6 @@
     "LDS/Notes/attachments/Pasted image 20231020174547.png",
     "LDS/Notes/attachments/Pasted image 20231020174427.png",
     "LDS/Attachments/Pasted image 20231012231319.png",
-    "LDS/Attachments/Pasted image 20231012231257.png",
-    "LDS/Attachments/Pasted image 20231012191734.png",
     "Algorithms",
     "LDS/Notes/attachments",
     "LDS/Important notes/attachments",
@@ -196,7 +228,6 @@
     "Daily Notes/Daily Notes archive",
     "Daily Notes/TODO global",
     "Pre Mamu/attachments/Price list.pdf",
-    "Pre Mamu/attachments",
     "Untitled.canvas"
   ]
 }
