@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E3p/Dispersion.md",
+                "file": "E3p/Intensität.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "218ce3bf8b7b2621",
+            "id": "9cfca5d5058b5649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E3p/Phasengeschwindigkeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1631824dacad5f17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E3p/Allgemeine Wellengleichung.md",
+                "file": "E3p/Constants/elektrische Feldkonstante.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E3p/Dispersion.md",
+                "file": "E3p/Intensität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E3p/Dispersion.md",
+                "file": "E3p/Intensität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E3p/Dispersion.md"
+                "file": "E3p/Intensität.md"
               }
             }
           },
@@ -183,16 +171,31 @@
   },
   "active": "b0c64d3ab922e904",
   "lastOpenFiles": [
-    "E3p/Allgemeine Wellengleichung.md",
-    "E3p/Phasengeschwindigkeit.md",
-    "E3p/Dispersion.md",
-    "E3p/1. Wellen.md",
+    "E3p/Constants/elektrische Feldkonstante.md",
+    "E3p/Intensität.md",
+    "IT-Sicherheit",
+    "E3p/Constants/Lichtgeschwindigkeit.md",
+    "E3p/Exercises - E3/Feldstärken eines Lasers.md",
+    "E3p/Coulombsches Gesetz.md",
+    "E3p/not done/1. Wellen.md",
+    "E3p/not done/Allgemeine Wellengleichung.md",
+    "E3p/not done/Dispersion.md",
+    "E3p/not done/Maxwell-Gleichungen.md",
+    "E3p/not done/Phasengeschwindigkeit.md",
+    "E3p/not done/Polarisatoren.md",
+    "E3p/not done/Schallwellen.md",
+    "E3p/not done/Stehende Welle.md",
+    "E3p/Elektrische Feldstärke.md",
+    "E3p/not done",
+    "E3p/Exercises - E3",
+    "E3p/Untitled.md",
+    "E3p/Constants/magnetische Feldkonstante.md",
+    "E3p/Constants/Elementarladung.md",
+    "E3p/Constants",
+    "E3p/Constants/relative Permittivität.md",
     "E3p/attachments/Pasted image 20231029190150.png",
-    "E3p/Polarisatoren.md",
-    "E3p/Schallwellen.md",
     "E3p/attachments/welle.png",
     "E3p/attachments",
-    "E3p/Stehende Welle.md",
     "LDS/Notes/Abelsche Gruppe.md",
     "LDS/Exercises/Resolution -exercise.md",
     "LDS/Important notes/Kombinatorik.md",
@@ -200,17 +203,6 @@
     "LDS/Notes/Vollständige Induktion.md",
     "LDS/Notes/Äquivalenzklassen.md",
     "LDS/Notes/Äquivalenzrelation.md",
-    "LDS/Notes/Distributivgesetz.md",
-    "LDS/Important notes/Aussagenlogik.md",
-    "LDS/Important notes/Funktion.md",
-    "LDS/Important notes/Relation.md",
-    "LDS/Exercises/Pränexnormalform -exercise.md",
-    "LDS/Notes/Pränexform.md",
-    "LDS/Notes/Schlussregeln.md",
-    "LDS/Notes/Sequenzenkalkül.md",
-    "LDS/Notes/Prädikatenlogik erster Stufe.md",
-    "LDS/Notes/Sprachen erster Stufe.md",
-    "LDS/Notes/Körper.md",
     "LDS/Exercises/attachments/Pasted image 20231024181825.png",
     "LDS/Exercises/attachments",
     "LDS/Notes/attachments/Pasted image 20231023141214.png",
@@ -224,10 +216,6 @@
     "Algorithms",
     "LDS/Notes/attachments",
     "LDS/Important notes/attachments",
-    "Math",
-    "Daily Notes/Daily Notes archive",
-    "Daily Notes/TODO global",
-    "Pre Mamu/attachments/Price list.pdf",
     "Untitled.canvas"
   ]
 }
