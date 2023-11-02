@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "56740644837b982f",
+        "id": "fc413ef65d6f5227",
         "type": "tabs",
         "children": [
           {
-            "id": "b0c64d3ab922e904",
+            "id": "ef3382417002f94c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E3p/Intensität.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cfca5d5058b5649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E3p/Constants/elektrische Feldkonstante.md",
+                "file": "DBS/Datenbanksystem.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kombi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E3p/Intensität.md",
+                "file": "DBS/Datenbanksystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E3p/Intensität.md",
+                "file": "DBS/Datenbanksystem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E3p/Intensität.md"
+                "file": "DBS/Datenbanksystem.md"
               }
             }
           },
@@ -169,10 +157,20 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b0c64d3ab922e904",
+  "active": "ef3382417002f94c",
   "lastOpenFiles": [
-    "E3p/Constants/elektrische Feldkonstante.md",
+    "DBS/Dateiverwaltungssystem.md",
+    "DBS/Datenbanksystem.md",
+    "LDS/Important notes/Funktion.md",
+    "LDS/Notes/totale Ordnung.md",
+    "DBS/DBS-exercises/Datenunabhängigkeit.md",
+    "DBS/DBS-exercises/attachments/Pasted image 20231102204620.png",
+    "DBS/DBS-exercises/attachments",
+    "DBS/DBS-exercises/9 zentralen Anforderungen - Edgar Codd.md",
+    "DBS/DBS-exercises",
     "E3p/Intensität.md",
+    "E3p/Constants/elektrische Feldkonstante.md",
+    "DBS",
     "IT-Sicherheit",
     "E3p/Constants/Lichtgeschwindigkeit.md",
     "E3p/Exercises - E3/Feldstärken eines Lasers.md",
@@ -198,11 +196,6 @@
     "E3p/attachments",
     "LDS/Notes/Abelsche Gruppe.md",
     "LDS/Exercises/Resolution -exercise.md",
-    "LDS/Important notes/Kombinatorik.md",
-    "LDS/Notes/Homomorphismus.md",
-    "LDS/Notes/Vollständige Induktion.md",
-    "LDS/Notes/Äquivalenzklassen.md",
-    "LDS/Notes/Äquivalenzrelation.md",
     "LDS/Exercises/attachments/Pasted image 20231024181825.png",
     "LDS/Exercises/attachments",
     "LDS/Notes/attachments/Pasted image 20231023141214.png",
@@ -212,10 +205,6 @@
     "LDS/Notes/attachments/Pasted image 20231020174828.png",
     "LDS/Notes/attachments/Pasted image 20231020174547.png",
     "LDS/Notes/attachments/Pasted image 20231020174427.png",
-    "LDS/Attachments/Pasted image 20231012231319.png",
-    "Algorithms",
-    "LDS/Notes/attachments",
-    "LDS/Important notes/attachments",
     "Untitled.canvas"
   ]
 }
