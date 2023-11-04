@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBS/Datenbanksystem.md",
+                "file": "E3p/Intensität.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBS/Datenbanksystem.md",
+                "file": "E3p/Intensität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBS/Datenbanksystem.md",
+                "file": "E3p/Intensität.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBS/Datenbanksystem.md"
+                "file": "E3p/Intensität.md"
               }
             }
           },
@@ -159,8 +159,12 @@
   },
   "active": "ef3382417002f94c",
   "lastOpenFiles": [
-    "DBS/Dateiverwaltungssystem.md",
+    "E3p/Elektrische Feldstärke.md",
+    "E3p/Coulombsches Gesetz.md",
+    "E3p/not done/1. Wellen.md",
+    "E3p/Exercises - E3/Feldstärken eines Lasers.md",
     "DBS/Datenbanksystem.md",
+    "DBS/Dateiverwaltungssystem.md",
     "LDS/Important notes/Funktion.md",
     "LDS/Notes/totale Ordnung.md",
     "DBS/DBS-exercises/Datenunabhängigkeit.md",
@@ -173,9 +177,6 @@
     "DBS",
     "IT-Sicherheit",
     "E3p/Constants/Lichtgeschwindigkeit.md",
-    "E3p/Exercises - E3/Feldstärken eines Lasers.md",
-    "E3p/Coulombsches Gesetz.md",
-    "E3p/not done/1. Wellen.md",
     "E3p/not done/Allgemeine Wellengleichung.md",
     "E3p/not done/Dispersion.md",
     "E3p/not done/Maxwell-Gleichungen.md",
@@ -183,7 +184,6 @@
     "E3p/not done/Polarisatoren.md",
     "E3p/not done/Schallwellen.md",
     "E3p/not done/Stehende Welle.md",
-    "E3p/Elektrische Feldstärke.md",
     "E3p/not done",
     "E3p/Exercises - E3",
     "E3p/Untitled.md",
