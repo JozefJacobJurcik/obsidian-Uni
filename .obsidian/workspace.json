@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E3p/Intensität.md",
+                "file": "IT-Sicherheit/Exercises/1. Blatt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84e1753d54884a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT-Sicherheit/Notes/1. Ziele der Informationssicherheit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E3p/Intensität.md",
+                "file": "IT-Sicherheit/Notes/1. Ziele der Informationssicherheit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E3p/Intensität.md",
+                "file": "IT-Sicherheit/Notes/1. Ziele der Informationssicherheit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E3p/Intensität.md"
+                "file": "IT-Sicherheit/Notes/1. Ziele der Informationssicherheit.md"
               }
             }
           },
@@ -157,8 +170,18 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ef3382417002f94c",
+  "active": "84e1753d54884a8c",
   "lastOpenFiles": [
+    "IT-Sicherheit/Exercises/1. Blatt.md",
+    "IT-Sicherheit/Notes/1. Ziele der Informationssicherheit.md",
+    "IT-Sicherheit/Notes/2. Einordnung von Sicherheitsmaßnahmen.md",
+    "IT-Sicherheit/Exercises",
+    "IT-Sicherheit/Notes",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20231205230150.png",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20231205225538.png",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20231205225206.png",
+    "IT-Sicherheit/Notes/attachments",
+    "E3p/Intensität.md",
     "E3p/Elektrische Feldstärke.md",
     "E3p/Coulombsches Gesetz.md",
     "E3p/not done/1. Wellen.md",
@@ -172,7 +195,6 @@
     "DBS/DBS-exercises/attachments",
     "DBS/DBS-exercises/9 zentralen Anforderungen - Edgar Codd.md",
     "DBS/DBS-exercises",
-    "E3p/Intensität.md",
     "E3p/Constants/elektrische Feldkonstante.md",
     "DBS",
     "IT-Sicherheit",
@@ -190,21 +212,12 @@
     "E3p/Constants/magnetische Feldkonstante.md",
     "E3p/Constants/Elementarladung.md",
     "E3p/Constants",
-    "E3p/Constants/relative Permittivität.md",
     "E3p/attachments/Pasted image 20231029190150.png",
     "E3p/attachments/welle.png",
-    "E3p/attachments",
-    "LDS/Notes/Abelsche Gruppe.md",
-    "LDS/Exercises/Resolution -exercise.md",
     "LDS/Exercises/attachments/Pasted image 20231024181825.png",
-    "LDS/Exercises/attachments",
     "LDS/Notes/attachments/Pasted image 20231023141214.png",
     "LDS/Notes/attachments/Pasted image 20231023134504.png",
     "LDS/Attachments/Pasted image 20231022202452.png",
-    "LDS/Exercises",
-    "LDS/Notes/attachments/Pasted image 20231020174828.png",
-    "LDS/Notes/attachments/Pasted image 20231020174547.png",
-    "LDS/Notes/attachments/Pasted image 20231020174427.png",
     "Untitled.canvas"
   ]
 }
