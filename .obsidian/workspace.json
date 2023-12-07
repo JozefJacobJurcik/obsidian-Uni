@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT-Sicherheit/Notes/SYN flood.md",
+                "file": "IT-Sicherheit/Notes/3.5 Systemnahe Angriffe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0e37de26bec162f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT-Sicherheit/Notes/linked notes/Password cracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheit/Notes/SYN flood.md",
+                "file": "IT-Sicherheit/Notes/3.5 Systemnahe Angriffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheit/Notes/SYN flood.md",
+                "file": "IT-Sicherheit/Notes/3.5 Systemnahe Angriffe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-Sicherheit/Notes/SYN flood.md"
+                "file": "IT-Sicherheit/Notes/3.5 Systemnahe Angriffe.md"
               }
             }
           },
@@ -157,44 +169,44 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "84e1753d54884a8c",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
+    "IT-Sicherheit/Notes/linked notes/Password cracking.md",
+    "IT-Sicherheit/Notes/linked notes/Rootkit.md",
+    "IT-Sicherheit/Notes/3.5 Systemnahe Angriffe.md",
+    "IT-Sicherheit/Notes/linked notes/Backdoor.md",
+    "IT-Sicherheit/Notes/linked notes/Privilege escalation.md",
+    "IT-Sicherheit/Notes/linked notes/Password spraying.md",
+    "IT-Sicherheit/Notes/linked notes/brute-force.md",
+    "IT-Sicherheit/Notes/linked notes/Buffer overflow.md",
+    "IT-Sicherheit/Notes/linked notes/Social engineering.md",
+    "IT-Sicherheit/Notes/3.4 Spam.md",
+    "IT-Sicherheit/Notes/linked notes/Phishing.md",
+    "IT-Sicherheit/Notes/3.3 Schadsoftware.md",
+    "IT-Sicherheit/Notes/linked notes/Trojan horse.md",
+    "IT-Sicherheit/Notes/linked notes/Ransomware.md",
+    "IT-Sicherheit/Notes/linked notes/Worm.md",
+    "IT-Sicherheit/Notes/linked notes/Virus.md",
+    "IT-Sicherheit/Notes/linked notes/SYN flood.md",
     "IT-Sicherheit/Notes/3.2 Angriffsarten.md",
-    "IT-Sicherheit/Notes/SYN flood.md",
-    "IT-Sicherheit/Notes/TCP.md",
-    "IT-Sicherheit/Notes/Denial of Service (DoS) und DDoS.md",
-    "IT-Sicherheit/Notes/DNS Amplification Attack.md",
-    "IT-Sicherheit/Notes/SMURF.md",
+    "IT-Sicherheit/Notes/linked notes/TCP.md",
+    "IT-Sicherheit/Notes/linked notes/Denial of Service (DoS) und DDoS.md",
+    "IT-Sicherheit/Notes/linked notes/DNS Amplification Attack.md",
+    "IT-Sicherheit/Notes/linked notes/SMURF.md",
     "IT-Sicherheit/Exercises/1. Blatt.md",
     "IT-Sicherheit/Notes/linked notes/Verfügbarkeit.md",
     "IT-Sicherheit/Notes/1. Ziele der Informationssicherheit.md",
     "IT-Sicherheit/Notes/linked notes/Integrität.md",
-    "IT-Sicherheit/Notes/linked notes/Vertraulichkeit.md",
-    "IT-Sicherheit/Notes/3.1 Grundlegendes zur Angriffsanalyse.md",
     "IT-Sicherheit/Notes/attachments/Pasted image 20231206214119.png",
-    "IT-Sicherheit/Notes/linked notes/Bell LaPadula Modell.md",
-    "IT-Sicherheit/Notes/1.1 Security vs Safety.md",
     "IT-Sicherheit/Notes/linked notes",
-    "IT-Sicherheit/Notes/1.2 Einordnung von Sicherheitsmaßnahmen.md",
     "IT-Sicherheit/Exercises",
     "IT-Sicherheit/Notes",
     "IT-Sicherheit/Notes/attachments/Pasted image 20231205230150.png",
     "IT-Sicherheit/Notes/attachments/Pasted image 20231205225538.png",
     "IT-Sicherheit/Notes/attachments/Pasted image 20231205225206.png",
     "IT-Sicherheit/Notes/attachments",
-    "E3p/Intensität.md",
-    "E3p/Elektrische Feldstärke.md",
-    "E3p/Coulombsches Gesetz.md",
-    "E3p/not done/1. Wellen.md",
-    "E3p/Exercises - E3/Feldstärken eines Lasers.md",
-    "DBS/Datenbanksystem.md",
-    "DBS/Dateiverwaltungssystem.md",
-    "LDS/Important notes/Funktion.md",
-    "LDS/Notes/totale Ordnung.md",
-    "DBS/DBS-exercises/Datenunabhängigkeit.md",
     "DBS/DBS-exercises/attachments/Pasted image 20231102204620.png",
     "DBS/DBS-exercises/attachments",
-    "DBS/DBS-exercises/9 zentralen Anforderungen - Edgar Codd.md",
     "DBS/DBS-exercises",
     "DBS",
     "IT-Sicherheit",

@@ -1,0 +1,9 @@
+---
+
+---
+
+A **rootkit** is a collection of computer software, *typically malicious*, designed to *enable access* to a computer or an area of its software that is not otherwise allowed (for example, to an unauthorized user) and often masks its existence or the existence of other software. The term rootkit is a compound of "root" (the traditional name of the privileged account on Unix-like operating systems) and the word "kit" (which refers to the software components that implement the tool). 
+
+**Rootkit** *installation* can be *automated*, or an attacker can *install it after having obtained root* or administrator access. Obtaining this access is a result of direct attack on a system, i.e. exploiting a vulnerability (such as [[Privilege escalation]]) or a password (obtained by [[Password cracking|cracking]] or [[social engineering]] tactics like [[phishing]]). Once installed, it becomes possible to hide the intrusion as well as to maintain privileged access. Full control over a system means that existing software can be modified, including software that might otherwise be used to detect or circumvent it.
+
+*Rootkit **detection** is difficult because a rootkit may be able to subvert the software that is intended to find it.* **Detection methods** include using an *alternative and trusted operating system*, *behavioral-based methods*, *signature scanning*, *difference scanning*, and *memory dump analysis*. **Removal can be complicated or practically impossible**, especially in cases where the rootkit resides in the kernel; *reinstallation of the operating system may be the only available solution to the problem*. When dealing with **firmware rootkits**, removal may require *hardware replacement, or specialized equipment*. 
