@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef3382417002f94c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Exercises/1. Blatt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "84e1753d54884a8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT-Sicherheit/Notes/1. Ziele der Informationssicherheit.md",
+                "file": "IT-Sicherheit/Notes/SYN flood.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheit/Notes/1. Ziele der Informationssicherheit.md",
+                "file": "IT-Sicherheit/Notes/SYN flood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheit/Notes/1. Ziele der Informationssicherheit.md",
+                "file": "IT-Sicherheit/Notes/SYN flood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-Sicherheit/Notes/1. Ziele der Informationssicherheit.md"
+                "file": "IT-Sicherheit/Notes/SYN flood.md"
               }
             }
           },
@@ -172,9 +159,23 @@
   },
   "active": "84e1753d54884a8c",
   "lastOpenFiles": [
+    "IT-Sicherheit/Notes/3.2 Angriffsarten.md",
+    "IT-Sicherheit/Notes/SYN flood.md",
+    "IT-Sicherheit/Notes/TCP.md",
+    "IT-Sicherheit/Notes/Denial of Service (DoS) und DDoS.md",
+    "IT-Sicherheit/Notes/DNS Amplification Attack.md",
+    "IT-Sicherheit/Notes/SMURF.md",
     "IT-Sicherheit/Exercises/1. Blatt.md",
+    "IT-Sicherheit/Notes/linked notes/Verfügbarkeit.md",
     "IT-Sicherheit/Notes/1. Ziele der Informationssicherheit.md",
-    "IT-Sicherheit/Notes/2. Einordnung von Sicherheitsmaßnahmen.md",
+    "IT-Sicherheit/Notes/linked notes/Integrität.md",
+    "IT-Sicherheit/Notes/linked notes/Vertraulichkeit.md",
+    "IT-Sicherheit/Notes/3.1 Grundlegendes zur Angriffsanalyse.md",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20231206214119.png",
+    "IT-Sicherheit/Notes/linked notes/Bell LaPadula Modell.md",
+    "IT-Sicherheit/Notes/1.1 Security vs Safety.md",
+    "IT-Sicherheit/Notes/linked notes",
+    "IT-Sicherheit/Notes/1.2 Einordnung von Sicherheitsmaßnahmen.md",
     "IT-Sicherheit/Exercises",
     "IT-Sicherheit/Notes",
     "IT-Sicherheit/Notes/attachments/Pasted image 20231205230150.png",
@@ -195,29 +196,15 @@
     "DBS/DBS-exercises/attachments",
     "DBS/DBS-exercises/9 zentralen Anforderungen - Edgar Codd.md",
     "DBS/DBS-exercises",
-    "E3p/Constants/elektrische Feldkonstante.md",
     "DBS",
     "IT-Sicherheit",
-    "E3p/Constants/Lichtgeschwindigkeit.md",
-    "E3p/not done/Allgemeine Wellengleichung.md",
-    "E3p/not done/Dispersion.md",
-    "E3p/not done/Maxwell-Gleichungen.md",
-    "E3p/not done/Phasengeschwindigkeit.md",
-    "E3p/not done/Polarisatoren.md",
-    "E3p/not done/Schallwellen.md",
-    "E3p/not done/Stehende Welle.md",
     "E3p/not done",
     "E3p/Exercises - E3",
-    "E3p/Untitled.md",
-    "E3p/Constants/magnetische Feldkonstante.md",
-    "E3p/Constants/Elementarladung.md",
-    "E3p/Constants",
     "E3p/attachments/Pasted image 20231029190150.png",
     "E3p/attachments/welle.png",
     "LDS/Exercises/attachments/Pasted image 20231024181825.png",
     "LDS/Notes/attachments/Pasted image 20231023141214.png",
     "LDS/Notes/attachments/Pasted image 20231023134504.png",
-    "LDS/Attachments/Pasted image 20231022202452.png",
     "Untitled.canvas"
   ]
 }
