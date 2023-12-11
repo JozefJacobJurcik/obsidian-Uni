@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT-Sicherheit/Notes/3.5 Systemnahe Angriffe.md",
+                "file": "CTF/Networking/linked notes/IP Addresses.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a0e37de26bec162f",
+            "id": "e004da1faa079bd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Password cracking.md",
+                "file": "CTF/Networking/linked notes/Subnetting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "WAN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheit/Notes/3.5 Systemnahe Angriffe.md",
+                "file": "CTF/Networking/linked notes/Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheit/Notes/3.5 Systemnahe Angriffe.md",
+                "file": "CTF/Networking/linked notes/Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-Sicherheit/Notes/3.5 Systemnahe Angriffe.md"
+                "file": "CTF/Networking/linked notes/Subnetting.md"
               }
             }
           },
@@ -169,11 +170,39 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "da115dda2911a4ed",
+  "active": "e004da1faa079bd4",
   "lastOpenFiles": [
+    "CTF/Networking/Notes ordered.md",
+    "CTF/Networking/linked notes/Subnetting.md",
+    "CTF/Networking/linked notes/IP Addresses.md",
+    "CTF/Networking/linked notes/The OSI Model.md",
+    "CTF/Networking/linked notes/Network Layer.md",
+    "CTF/Networking/linked notes/The TCP slash IP Model.md",
+    "CTF/Networking/linked notes/attachments/net_models4 1.png",
+    "CTF/Networking/linked notes/Networking Models.md",
+    "CTF/Networking/linked notes/attachments/packet_transfer.png",
+    "CTF/Networking/linked notes/attachments/net_models_pdu2.png",
+    "CTF/Networking/linked notes/attachments/net_models4.png",
+    "CTF/Networking/linked notes/Proxies.md",
+    "CTF/Networking/linked notes/attachments/reverse_proxy.png",
+    "CTF/Networking/linked notes/attachments/forward_proxy.png",
+    "CTF/Networking/linked notes/Networking Topologies.md",
+    "CTF/Networking/linked notes/attachments/topo_daisy-chain.png",
+    "CTF/Networking/linked notes/attachments/topo_hybrid.png",
+    "CTF/Networking/linked notes/attachments/topo_tree.png",
+    "CTF/Networking/linked notes/attachments/topo_mesh.png",
+    "CTF/Networking/linked notes/Network Types.md",
+    "CTF/Networking/linked notes/VPN.md",
+    "CTF/Networking/linked notes/LAN and WLAN.md",
+    "CTF/Networking/linked notes/WAN.md",
+    "CTF/Networking/linked notes/Networking Overview.md",
+    "CTF/Networking/linked notes",
     "IT-Sicherheit/Notes/linked notes/Password cracking.md",
-    "IT-Sicherheit/Notes/linked notes/Rootkit.md",
+    "CTF/Networking/linked notes/attachments",
     "IT-Sicherheit/Notes/3.5 Systemnahe Angriffe.md",
+    "CTF/Networking",
+    "CTF",
+    "IT-Sicherheit/Notes/linked notes/Rootkit.md",
     "IT-Sicherheit/Notes/linked notes/Backdoor.md",
     "IT-Sicherheit/Notes/linked notes/Privilege escalation.md",
     "IT-Sicherheit/Notes/linked notes/Password spraying.md",
@@ -183,40 +212,12 @@
     "IT-Sicherheit/Notes/3.4 Spam.md",
     "IT-Sicherheit/Notes/linked notes/Phishing.md",
     "IT-Sicherheit/Notes/3.3 Schadsoftware.md",
-    "IT-Sicherheit/Notes/linked notes/Trojan horse.md",
-    "IT-Sicherheit/Notes/linked notes/Ransomware.md",
-    "IT-Sicherheit/Notes/linked notes/Worm.md",
-    "IT-Sicherheit/Notes/linked notes/Virus.md",
-    "IT-Sicherheit/Notes/linked notes/SYN flood.md",
-    "IT-Sicherheit/Notes/3.2 Angriffsarten.md",
-    "IT-Sicherheit/Notes/linked notes/TCP.md",
-    "IT-Sicherheit/Notes/linked notes/Denial of Service (DoS) und DDoS.md",
-    "IT-Sicherheit/Notes/linked notes/DNS Amplification Attack.md",
-    "IT-Sicherheit/Notes/linked notes/SMURF.md",
-    "IT-Sicherheit/Exercises/1. Blatt.md",
-    "IT-Sicherheit/Notes/linked notes/Verfügbarkeit.md",
-    "IT-Sicherheit/Notes/1. Ziele der Informationssicherheit.md",
-    "IT-Sicherheit/Notes/linked notes/Integrität.md",
-    "IT-Sicherheit/Notes/attachments/Pasted image 20231206214119.png",
     "IT-Sicherheit/Notes/linked notes",
     "IT-Sicherheit/Exercises",
     "IT-Sicherheit/Notes",
-    "IT-Sicherheit/Notes/attachments/Pasted image 20231205230150.png",
-    "IT-Sicherheit/Notes/attachments/Pasted image 20231205225538.png",
-    "IT-Sicherheit/Notes/attachments/Pasted image 20231205225206.png",
     "IT-Sicherheit/Notes/attachments",
-    "DBS/DBS-exercises/attachments/Pasted image 20231102204620.png",
     "DBS/DBS-exercises/attachments",
     "DBS/DBS-exercises",
-    "DBS",
-    "IT-Sicherheit",
-    "E3p/not done",
-    "E3p/Exercises - E3",
-    "E3p/attachments/Pasted image 20231029190150.png",
-    "E3p/attachments/welle.png",
-    "LDS/Exercises/attachments/Pasted image 20231024181825.png",
-    "LDS/Notes/attachments/Pasted image 20231023141214.png",
-    "LDS/Notes/attachments/Pasted image 20231023134504.png",
     "Untitled.canvas"
   ]
 }
