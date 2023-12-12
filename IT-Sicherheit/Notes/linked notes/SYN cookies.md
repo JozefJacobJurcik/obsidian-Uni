@@ -1,0 +1,9 @@
+---
+
+---
+
+SYN cookie is a technique used to resist [[SYN flood]] attacks. The technique's primary inventor Daniel J. Bernstein defines SYN cookies as "particular choices of initial [[TCP]] sequence numbers by TCP servers." In particular, the use of SYN cookies allows a server to avoid dropping connections when the SYN queue fills up. Instead of storing additional connections, a SYN queue entry is encoded into the sequence number sent in the SYN+ACK response. If the server then receives a subsequent ACK response from the client with the incremented sequence number, the server is able to reconstruct the SYN queue entry using information encoded in the TCP sequence number and proceed as usual with the connection. 
+
+## Drawbacks
+
+The use of SYN cookies does not break any protocol specifications, and therefore should be compatible with all TCP implementations. There are, however, two caveats that take effect when SYN cookies are in use. Firstly, the server is limited to only 8 unique MSS values, as that is all that can be encoded in 3 bits. Secondly, early implementations rejected all TCP options (such as large windows or timestamps), because the server discarded the SYN queue entry where that information would otherwise be stored.; however v2.6.26 of the Linux kernel added partial support of TCP options by encoding them into the timestamp option. Finally, SYN cookies place increased load on server resources. Encrypting responses is computationally expensive. The SYN cookie does not reduce traffic, which makes it ineffective against SYN flooding attacks that target bandwidth as the attack vector. 

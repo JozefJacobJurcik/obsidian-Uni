@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84e1753d54884a8c",
+            "id": "5aaf000b2c94895b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/Networking/linked notes/IP Addresses.md",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e004da1faa079bd4",
+            "id": "36b24dd080a9b225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/Networking/linked notes/Subnetting.md",
+                "file": "IT-Sicherheit/Notes/linked notes/Social Engineering Pentests.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/Networking/linked notes/Subnetting.md",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/Networking/linked notes/Subnetting.md",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/Networking/linked notes/Subnetting.md"
+                "file": "IT-Sicherheit/Notes/Notes ordered.md"
               }
             }
           },
@@ -170,54 +169,54 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e004da1faa079bd4",
+  "active": "5aaf000b2c94895b",
   "lastOpenFiles": [
+    "IT-Sicherheit/Exercises/2. Blatt.md",
+    "IT-Sicherheit/Notes/linked notes/Social engineering.md",
+    "IT-Sicherheit/Notes/linked notes/Social Engineering Pentests.md",
+    "IT-Sicherheit/Notes/Notes ordered.md",
+    "IT-Sicherheit/Notes/linked notes/Denial of Service (DoS) und DDoS.md",
+    "IT-Sicherheit/Notes/linked notes/Worm.md",
+    "IT-Sicherheit/Notes/linked notes/RST-Cookies.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20231212211554.png",
+    "IT-Sicherheit/Notes/linked notes/attachments",
+    "IT-Sicherheit/Notes/linked notes/SYN flood.md",
+    "IT-Sicherheit/Notes/linked notes/SYN cookies.md",
     "CTF/Networking/Notes ordered.md",
-    "CTF/Networking/linked notes/Subnetting.md",
-    "CTF/Networking/linked notes/IP Addresses.md",
-    "CTF/Networking/linked notes/The OSI Model.md",
-    "CTF/Networking/linked notes/Network Layer.md",
-    "CTF/Networking/linked notes/The TCP slash IP Model.md",
+    "Algorithms/Warshall-Algorithmus.md",
+    "IT-Sicherheit/Notes/linked notes/Spam.md",
+    "IT-Sicherheit/Notes/linked notes/Systemnahe Angriffe.md",
+    "IT-Sicherheit/Notes/linked notes/Schadsoftware.md",
+    "IT-Sicherheit/Notes/linked notes/Angriffsarten.md",
+    "IT-Sicherheit/Notes/linked notes/Grundlegendes zur Angriffsanalyse.md",
+    "IT-Sicherheit/Notes/linked notes/Einordnung von Sicherheitsmaßnahmen.md",
+    "IT-Sicherheit/Notes/linked notes/Security vs Safety.md",
+    "IT-Sicherheit/Notes/linked notes/Ziele der Informationssicherheit.md",
+    "CTF/Networking/linked notes/Virtual Private Networks.md",
+    "CTF/Networking/linked notes/IPsec.md",
+    "CTF/Networking/linked notes/attachments/Wireless Networks.md",
+    "CTF/Networking/linked notes/Common Protocols.md",
+    "CTF/Networking/linked notes/Networking Key Terminology.md",
+    "CTF/Networking/linked notes/IPv6 Addresses.md",
+    "CTF/Networking/linked notes/MAC Addresses.md",
     "CTF/Networking/linked notes/attachments/net_models4 1.png",
-    "CTF/Networking/linked notes/Networking Models.md",
     "CTF/Networking/linked notes/attachments/packet_transfer.png",
     "CTF/Networking/linked notes/attachments/net_models_pdu2.png",
     "CTF/Networking/linked notes/attachments/net_models4.png",
-    "CTF/Networking/linked notes/Proxies.md",
     "CTF/Networking/linked notes/attachments/reverse_proxy.png",
     "CTF/Networking/linked notes/attachments/forward_proxy.png",
-    "CTF/Networking/linked notes/Networking Topologies.md",
     "CTF/Networking/linked notes/attachments/topo_daisy-chain.png",
     "CTF/Networking/linked notes/attachments/topo_hybrid.png",
     "CTF/Networking/linked notes/attachments/topo_tree.png",
-    "CTF/Networking/linked notes/attachments/topo_mesh.png",
-    "CTF/Networking/linked notes/Network Types.md",
-    "CTF/Networking/linked notes/VPN.md",
-    "CTF/Networking/linked notes/LAN and WLAN.md",
-    "CTF/Networking/linked notes/WAN.md",
-    "CTF/Networking/linked notes/Networking Overview.md",
     "CTF/Networking/linked notes",
-    "IT-Sicherheit/Notes/linked notes/Password cracking.md",
     "CTF/Networking/linked notes/attachments",
-    "IT-Sicherheit/Notes/3.5 Systemnahe Angriffe.md",
     "CTF/Networking",
     "CTF",
-    "IT-Sicherheit/Notes/linked notes/Rootkit.md",
-    "IT-Sicherheit/Notes/linked notes/Backdoor.md",
-    "IT-Sicherheit/Notes/linked notes/Privilege escalation.md",
-    "IT-Sicherheit/Notes/linked notes/Password spraying.md",
-    "IT-Sicherheit/Notes/linked notes/brute-force.md",
-    "IT-Sicherheit/Notes/linked notes/Buffer overflow.md",
-    "IT-Sicherheit/Notes/linked notes/Social engineering.md",
-    "IT-Sicherheit/Notes/3.4 Spam.md",
-    "IT-Sicherheit/Notes/linked notes/Phishing.md",
-    "IT-Sicherheit/Notes/3.3 Schadsoftware.md",
     "IT-Sicherheit/Notes/linked notes",
     "IT-Sicherheit/Exercises",
     "IT-Sicherheit/Notes",
     "IT-Sicherheit/Notes/attachments",
     "DBS/DBS-exercises/attachments",
-    "DBS/DBS-exercises",
     "Untitled.canvas"
   ]
 }
