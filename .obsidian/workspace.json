@@ -11,8 +11,24 @@
             "id": "4c73acc001e2f545",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CTF/Networking/linked notes/Vendor Specific Information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78f042386e02c787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF/Networking/Notes ordered.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CTF/Networking/linked notes/Vendor Specific Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CTF/Networking/linked notes/Vendor Specific Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CTF/Networking/linked notes/Vendor Specific Information.md"
+              }
             }
           },
           {
@@ -152,6 +171,16 @@
   },
   "active": "4c73acc001e2f545",
   "lastOpenFiles": [
+    "CTF/Networking/linked notes/attachments/Yersinia_Double_Tagging_VLAN_Hopping_Attack.png",
+    "CTF/Networking/linked notes/attachments/Yersinia_DTP_Attack.png",
+    "CTF/Networking/linked notes/attachments/Wireshark_VLAN_ID_Filter.png",
+    "CTF/Networking/linked notes/attachments/Wireshark_VLAN_Filter.png",
+    "CTF/Networking/linked notes/attachments/Windows_Device_Manager_Adapter_Properties_VLAN_ID.png",
+    "CTF/Networking/linked notes/attachments/Windows_Device_Manager_Adapter_Properties.png",
+    "CTF/Networking/linked notes/attachments/Windows_Device_Manager.png",
+    "CTF/Networking/linked notes/attachments/8023_Legacy_8021Q_Ethernet_Frames.png",
+    "CTF/Networking/Notes ordered.md",
+    "CTF/Networking/linked notes/Vendor Specific Information.md",
     "IT-Sicherheit/Notes/linked notes/Social Engineering Pentests.md",
     "CTF/Networking/linked notes/Virtual Private Networks.md",
     "CTF/Networking/linked notes/The TCP slash IP Model.md",
@@ -170,7 +199,6 @@
     "IT-Sicherheit/Notes/linked notes/attachments",
     "IT-Sicherheit/Notes/linked notes/SYN flood.md",
     "IT-Sicherheit/Notes/linked notes/SYN cookies.md",
-    "CTF/Networking/Notes ordered.md",
     "Algorithms/Warshall-Algorithmus.md",
     "IT-Sicherheit/Notes/linked notes/Spam.md",
     "IT-Sicherheit/Notes/linked notes/Systemnahe Angriffe.md",
@@ -179,16 +207,7 @@
     "IT-Sicherheit/Notes/linked notes/Grundlegendes zur Angriffsanalyse.md",
     "IT-Sicherheit/Notes/linked notes/Einordnung von Sicherheitsmaßnahmen.md",
     "IT-Sicherheit/Notes/linked notes/Security vs Safety.md",
-    "IT-Sicherheit/Notes/linked notes/Ziele der Informationssicherheit.md",
-    "CTF/Networking/linked notes/attachments/Wireless Networks.md",
     "CTF/Networking/linked notes/attachments/net_models4 1.png",
-    "CTF/Networking/linked notes/attachments/packet_transfer.png",
-    "CTF/Networking/linked notes/attachments/net_models_pdu2.png",
-    "CTF/Networking/linked notes/attachments/net_models4.png",
-    "CTF/Networking/linked notes/attachments/reverse_proxy.png",
-    "CTF/Networking/linked notes/attachments/forward_proxy.png",
-    "CTF/Networking/linked notes/attachments/topo_daisy-chain.png",
-    "CTF/Networking/linked notes/attachments/topo_hybrid.png",
     "CTF/Networking/linked notes",
     "CTF/Networking/linked notes/attachments",
     "CTF/Networking",
