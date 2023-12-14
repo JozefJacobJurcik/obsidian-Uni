@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fc413ef65d6f5227",
+        "id": "816011f48cf742df",
         "type": "tabs",
         "children": [
           {
-            "id": "5aaf000b2c94895b",
+            "id": "4c73acc001e2f545",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36b24dd080a9b225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Social Engineering Pentests.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WAN",
+                "query": "UDP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,12 +150,19 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5aaf000b2c94895b",
+  "active": "4c73acc001e2f545",
   "lastOpenFiles": [
+    "IT-Sicherheit/Notes/linked notes/Social Engineering Pentests.md",
+    "CTF/Networking/linked notes/Virtual Private Networks.md",
+    "CTF/Networking/linked notes/The TCP slash IP Model.md",
+    "IT-Sicherheit/Notes/linked notes/TCP.md",
+    "CTF/Networking/linked notes/Networking Overview.md",
+    "CTF/Networking/linked notes/IPsec.md",
+    "CTF/Networking/linked notes/Common Protocols.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/vgcp6n6qb36c1.webp",
+    "IT-Sicherheit/Notes/Notes ordered.md",
     "IT-Sicherheit/Exercises/2. Blatt.md",
     "IT-Sicherheit/Notes/linked notes/Social engineering.md",
-    "IT-Sicherheit/Notes/linked notes/Social Engineering Pentests.md",
-    "IT-Sicherheit/Notes/Notes ordered.md",
     "IT-Sicherheit/Notes/linked notes/Denial of Service (DoS) und DDoS.md",
     "IT-Sicherheit/Notes/linked notes/Worm.md",
     "IT-Sicherheit/Notes/linked notes/RST-Cookies.md",
@@ -192,13 +180,7 @@
     "IT-Sicherheit/Notes/linked notes/Einordnung von Sicherheitsmaßnahmen.md",
     "IT-Sicherheit/Notes/linked notes/Security vs Safety.md",
     "IT-Sicherheit/Notes/linked notes/Ziele der Informationssicherheit.md",
-    "CTF/Networking/linked notes/Virtual Private Networks.md",
-    "CTF/Networking/linked notes/IPsec.md",
     "CTF/Networking/linked notes/attachments/Wireless Networks.md",
-    "CTF/Networking/linked notes/Common Protocols.md",
-    "CTF/Networking/linked notes/Networking Key Terminology.md",
-    "CTF/Networking/linked notes/IPv6 Addresses.md",
-    "CTF/Networking/linked notes/MAC Addresses.md",
     "CTF/Networking/linked notes/attachments/net_models4 1.png",
     "CTF/Networking/linked notes/attachments/packet_transfer.png",
     "CTF/Networking/linked notes/attachments/net_models_pdu2.png",
@@ -207,7 +189,6 @@
     "CTF/Networking/linked notes/attachments/forward_proxy.png",
     "CTF/Networking/linked notes/attachments/topo_daisy-chain.png",
     "CTF/Networking/linked notes/attachments/topo_hybrid.png",
-    "CTF/Networking/linked notes/attachments/topo_tree.png",
     "CTF/Networking/linked notes",
     "CTF/Networking/linked notes/attachments",
     "CTF/Networking",
