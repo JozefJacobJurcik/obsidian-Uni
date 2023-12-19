@@ -19,4 +19,6 @@
 15. [[Wireless Networks]]
 16. [[Virtual Private Networks]]
 17. [[Vendor Specific Information]]
-18. 
+18. [[Key Exchange Mechanisms]]
+19. [[Authentication Protocols]]
+20. [[TCP slash UDP Connections]]
