@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/Networking/linked notes/TCP slash UDP Connections.md",
+                "file": "LDS/Important notes/Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/Networking/linked notes/TCP slash UDP Connections.md",
+                "file": "LDS/Important notes/Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/Networking/linked notes/TCP slash UDP Connections.md",
+                "file": "LDS/Important notes/Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/Networking/linked notes/TCP slash UDP Connections.md"
+                "file": "LDS/Important notes/Algebra.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -159,9 +161,15 @@
   },
   "active": "78f042386e02c787",
   "lastOpenFiles": [
+    "LDS/Notes/Körper.md",
+    "LDS/Important notes/Algebra.md",
+    "LDS/Important notes/Primzahlen.md",
+    "LDS/Important notes/Ordnungen und Verbände.md",
+    "LDS/Notes/Kartesisches Produkt.md",
+    "LDS/Important notes/Menge.md",
+    "CTF/Networking/linked notes/TCP slash UDP Connections.md",
     "CTF/Networking/Notes ordered.md",
     "CTF/Networking/linked notes/Cryptography.md",
-    "CTF/Networking/linked notes/TCP slash UDP Connections.md",
     "CTF/Networking/linked notes/Authentication Protocols.md",
     "CTF/Networking/linked notes/Key Exchange Mechanisms.md",
     "CTF/Networking/linked notes/Vendor Specific Information.md",
@@ -190,12 +198,6 @@
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20231212211554.png",
     "IT-Sicherheit/Notes/linked notes/attachments",
     "IT-Sicherheit/Notes/linked notes/SYN flood.md",
-    "IT-Sicherheit/Notes/linked notes/SYN cookies.md",
-    "Algorithms/Warshall-Algorithmus.md",
-    "IT-Sicherheit/Notes/linked notes/Spam.md",
-    "IT-Sicherheit/Notes/linked notes/Systemnahe Angriffe.md",
-    "IT-Sicherheit/Notes/linked notes/Schadsoftware.md",
-    "IT-Sicherheit/Notes/linked notes/Angriffsarten.md",
     "CTF/Networking/linked notes",
     "CTF/Networking/linked notes/attachments",
     "CTF/Networking",
