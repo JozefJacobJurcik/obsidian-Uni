@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/Algebra.md",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c19a1c2a7e7aaced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT-Sicherheit/Notes/Kryptologie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UDP",
+                "query": "Forts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Important notes/Algebra.md",
+                "file": "IT-Sicherheit/Notes/Kryptologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Important notes/Algebra.md",
+                "file": "IT-Sicherheit/Notes/Kryptologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Important notes/Algebra.md"
+                "file": "IT-Sicherheit/Notes/Kryptologie.md"
               }
             }
           },
@@ -159,10 +172,26 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "78f042386e02c787",
+  "active": "c19a1c2a7e7aaced",
   "lastOpenFiles": [
-    "LDS/Notes/Körper.md",
+    "IT-Sicherheit/Notes/Notes ordered.md",
+    "IT-Sicherheit/Notes/Kryptologie.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240113210950.png",
+    "IT-Sicherheit/Notes/linked notes/IT-Sicherheitsgesetz.md",
+    "IT-Sicherheit/Notes/linked notes/Datenschutz.md",
+    "IT-Sicherheit/Notes/linked notes/EU-DSGV.md",
+    "IT-Sicherheit/Notes/linked notes/§ 303b.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240113204557.png",
+    "IT-Sicherheit/Notes/linked notes/Strafgesetzbuch.md",
+    "IT-Sicherheit/Notes/linked notes/§ 303c.md",
+    "IT-Sicherheit/Notes/linked notes/§ 205b.md",
+    "IT-Sicherheit/Notes/linked notes/§ 303a.md",
+    "IT-Sicherheit/Notes/linked notes/§ 202d.md",
+    "IT-Sicherheit/Notes/linked notes/§ 202c.md",
+    "IT-Sicherheit/Notes/linked notes/§ 202b.md",
+    "IT-Sicherheit/Notes/linked notes/§ 202a.md",
     "LDS/Important notes/Algebra.md",
+    "LDS/Notes/Körper.md",
     "LDS/Important notes/Primzahlen.md",
     "LDS/Important notes/Ordnungen und Verbände.md",
     "LDS/Notes/Kartesisches Produkt.md",
@@ -181,23 +210,7 @@
     "CTF/Networking/linked notes/attachments/Windows_Device_Manager_Adapter_Properties.png",
     "CTF/Networking/linked notes/attachments/Windows_Device_Manager.png",
     "CTF/Networking/linked notes/attachments/8023_Legacy_8021Q_Ethernet_Frames.png",
-    "IT-Sicherheit/Notes/linked notes/Social Engineering Pentests.md",
-    "CTF/Networking/linked notes/Virtual Private Networks.md",
-    "CTF/Networking/linked notes/The TCP slash IP Model.md",
-    "IT-Sicherheit/Notes/linked notes/TCP.md",
-    "CTF/Networking/linked notes/Networking Overview.md",
-    "CTF/Networking/linked notes/IPsec.md",
-    "CTF/Networking/linked notes/Common Protocols.md",
-    "IT-Sicherheit/Notes/linked notes/attachments/vgcp6n6qb36c1.webp",
-    "IT-Sicherheit/Notes/Notes ordered.md",
-    "IT-Sicherheit/Exercises/2. Blatt.md",
-    "IT-Sicherheit/Notes/linked notes/Social engineering.md",
-    "IT-Sicherheit/Notes/linked notes/Denial of Service (DoS) und DDoS.md",
-    "IT-Sicherheit/Notes/linked notes/Worm.md",
-    "IT-Sicherheit/Notes/linked notes/RST-Cookies.md",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20231212211554.png",
     "IT-Sicherheit/Notes/linked notes/attachments",
-    "IT-Sicherheit/Notes/linked notes/SYN flood.md",
     "CTF/Networking/linked notes",
     "CTF/Networking/linked notes/attachments",
     "CTF/Networking",
@@ -205,7 +218,7 @@
     "IT-Sicherheit/Notes/linked notes",
     "IT-Sicherheit/Exercises",
     "IT-Sicherheit/Notes",
-    "IT-Sicherheit/Notes/attachments",
+    "IT-Sicherheit/Notes/linked notes/attachments 1",
     "DBS/DBS-exercises/attachments",
     "Untitled.canvas"
   ]

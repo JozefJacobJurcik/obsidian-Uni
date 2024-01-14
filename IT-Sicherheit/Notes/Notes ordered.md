@@ -15,4 +15,12 @@
 
 ### 4.
 9. [[Social engineering]]
-10. 
+
+### 5. 
+10. [[Strafgesetzbuch]] (StGB)
+11. [[Datenschutz]] (EU-DGSVO, BayDSG)
+12. [[IT-Sicherheitsgesetz]]
+
+### 6.
+13. [[Kryptologie]]
+14. 
