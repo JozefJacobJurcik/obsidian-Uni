@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "c19a1c2a7e7aaced",
+            "id": "798706900ff304d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT-Sicherheit/Notes/Kryptologie.md",
+                "file": "IT-Sicherheit/Notes/Kryptographie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c68b48973f96cb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT-Sicherheit/Notes/Kryptoanalyse.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Forts",
+                "query": "crypt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,11 +90,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e0bd09651e7598ef",
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheit/Notes/Kryptologie.md",
+                "file": "IT-Sicherheit/Notes/Kryptoanalyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheit/Notes/Kryptologie.md",
+                "file": "IT-Sicherheit/Notes/Kryptoanalyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-Sicherheit/Notes/Kryptologie.md"
+                "file": "IT-Sicherheit/Notes/Kryptoanalyse.md"
               }
             }
           },
@@ -172,10 +186,36 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c19a1c2a7e7aaced",
+  "active": "8c68b48973f96cb0",
   "lastOpenFiles": [
+    "IT-Sicherheit/Notes/chosen-ciphertext attack.md",
+    "IT-Sicherheit/Notes/Kryptoanalyse.md",
+    "IT-Sicherheit/Notes/chosen-plaintext attack.md",
+    "IT-Sicherheit/Notes/Kryptographisches System.md",
+    "IT-Sicherheit/Notes/known-plaintext attack.md",
+    "IT-Sicherheit/Notes/ciphertext only attack.md",
+    "CTF/Networking/linked notes/Cryptography.md",
+    "IT-Sicherheit/Notes/Kryptographie.md",
     "IT-Sicherheit/Notes/Notes ordered.md",
     "IT-Sicherheit/Notes/Kryptologie.md",
+    "IT-Sicherheit/Notes/linked notes/Brute Force.md",
+    "IT-Sicherheit/Notes/Plaintext.md",
+    "IT-Sicherheit/Notes/One Time Pad.md",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20240114212855.png",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20240114212514.png",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20240114210354.png",
+    "IT-Sicherheit/Notes/Decryption.md",
+    "IT-Sicherheit/Notes/Ciphertext [[Plaintext.md",
+    "IT-Sicherheit/Notes/Encryption.md",
+    "IT-Sicherheit/Notes/Ciphertext.md",
+    "IT-Sicherheit/Notes/Steganographie.md",
+    "IT-Sicherheit/Notes/Spreu-und-Weizen-Algorithmus.md",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20240114203852.png",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20240114203732.png",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20240114203349.png",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20240114201909.png",
+    "IT-Sicherheit/Notes/attachments",
+    "IT-Sicherheit/Notes/Kryptographische Protokolle.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240113210950.png",
     "IT-Sicherheit/Notes/linked notes/IT-Sicherheitsgesetz.md",
     "IT-Sicherheit/Notes/linked notes/Datenschutz.md",
@@ -184,32 +224,7 @@
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240113204557.png",
     "IT-Sicherheit/Notes/linked notes/Strafgesetzbuch.md",
     "IT-Sicherheit/Notes/linked notes/§ 303c.md",
-    "IT-Sicherheit/Notes/linked notes/§ 205b.md",
-    "IT-Sicherheit/Notes/linked notes/§ 303a.md",
-    "IT-Sicherheit/Notes/linked notes/§ 202d.md",
-    "IT-Sicherheit/Notes/linked notes/§ 202c.md",
-    "IT-Sicherheit/Notes/linked notes/§ 202b.md",
-    "IT-Sicherheit/Notes/linked notes/§ 202a.md",
-    "LDS/Important notes/Algebra.md",
-    "LDS/Notes/Körper.md",
-    "LDS/Important notes/Primzahlen.md",
-    "LDS/Important notes/Ordnungen und Verbände.md",
-    "LDS/Notes/Kartesisches Produkt.md",
-    "LDS/Important notes/Menge.md",
-    "CTF/Networking/linked notes/TCP slash UDP Connections.md",
-    "CTF/Networking/Notes ordered.md",
-    "CTF/Networking/linked notes/Cryptography.md",
-    "CTF/Networking/linked notes/Authentication Protocols.md",
-    "CTF/Networking/linked notes/Key Exchange Mechanisms.md",
-    "CTF/Networking/linked notes/Vendor Specific Information.md",
     "CTF/Networking/linked notes/attachments/Yersinia_Double_Tagging_VLAN_Hopping_Attack.png",
-    "CTF/Networking/linked notes/attachments/Yersinia_DTP_Attack.png",
-    "CTF/Networking/linked notes/attachments/Wireshark_VLAN_ID_Filter.png",
-    "CTF/Networking/linked notes/attachments/Wireshark_VLAN_Filter.png",
-    "CTF/Networking/linked notes/attachments/Windows_Device_Manager_Adapter_Properties_VLAN_ID.png",
-    "CTF/Networking/linked notes/attachments/Windows_Device_Manager_Adapter_Properties.png",
-    "CTF/Networking/linked notes/attachments/Windows_Device_Manager.png",
-    "CTF/Networking/linked notes/attachments/8023_Legacy_8021Q_Ethernet_Frames.png",
     "IT-Sicherheit/Notes/linked notes/attachments",
     "CTF/Networking/linked notes",
     "CTF/Networking/linked notes/attachments",
@@ -219,7 +234,6 @@
     "IT-Sicherheit/Exercises",
     "IT-Sicherheit/Notes",
     "IT-Sicherheit/Notes/linked notes/attachments 1",
-    "DBS/DBS-exercises/attachments",
     "Untitled.canvas"
   ]
 }
