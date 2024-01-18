@@ -1,7 +1,7 @@
 ---
 aliases: KPA
 ---
- The *known-plaintext attack (KPA)* is an attack model for [[Kryptoanalyse|cryptanalysis]] where the attacker has access to both the [[plaintext]] (called a **crib**) and its encrypted version ([[ciphertext]]). These can be used to reveal secret keys and code books. The term "crib" originated at Bletchley Park, the British World War II decryption operation, where it was defined as:
+ The *known-plaintext attack (KPA)* is an attack model for [[Kryptoanalyse|cryptanalysis]] where the attacker has access to both the [[Plaintext]] (called a **crib**) and its encrypted version ([[Ciphertext]]). These can be used to reveal secret keys and code books. The term "crib" originated at Bletchley Park, the British World War II decryption operation, where it was defined as:
 
 > A plain language (or code) passage of any length, usually obtained by solving one or more cipher or code messages, and occurring or believed likely to occur in a different cipher or code message, which it may provide a means of solving.
 > 

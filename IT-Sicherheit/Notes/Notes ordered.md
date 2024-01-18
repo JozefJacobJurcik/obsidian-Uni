@@ -24,4 +24,7 @@
 ### 6.
 13. [[Kryptologie]]
 14. [[Kryptographie]]
-15. 
+
+### 7. 
+15.  [[Symmetrische Verschlüsselungsverfahren]]
+16. 

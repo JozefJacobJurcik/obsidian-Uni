@@ -6,7 +6,7 @@ In cryptography, the one-time pad (OTP) is an encryption technique that cannot b
 
 The resulting ciphertext will be impossible to decrypt or break if the following four conditions are met:
 
-1. The *key* must be at least as long as the [[plaintext]].
+1. The *key* must be at least as long as the [[Plaintext]].
 2. The key must be random (uniformly distributed in the set of all possible keys and independent of the plaintext), entirely sampled from a non-algorithmic, chaotic source such as a hardware random number generator; patternless, according to Gregory Chaitin definition. It is not sufficient for OTP keys to pass statistical randomness tests as such tests cannot measure entropy, and the number of bits of entropy must be at least equal to the number of bits in the plaintext. For example, using cryptographic hashes or mathematical functions (such as logarithm or square root) to generate keys from fewer bits of entropy would break the uniform distribution requirement, and therefore would not provide perfect secrecy.
 3. The key must never be reused in whole or in part.
 4. The key must be kept completely secret by the communicating parties.

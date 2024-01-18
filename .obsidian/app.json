@@ -34,5 +34,6 @@
     "editor:configure-toolbar"
   ],
   "spellcheck": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "readableLineLength": true
 }
