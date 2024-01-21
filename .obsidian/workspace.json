@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Data Encryption Standard.md",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Data Encryption Standard.md",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Data Encryption Standard.md"
+                "file": "IT-Sicherheit/Notes/Notes ordered.md"
               }
             }
           },
@@ -208,10 +207,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "eddca477bd8ca211",
+  "active": "78f042386e02c787",
   "lastOpenFiles": [
-    "IT-Sicherheit/Notes/linked notes/Avalanche Effekt.md",
     "IT-Sicherheit/Notes/linked notes/Data Encryption Standard.md",
+    "IT-Sicherheit/Notes/linked notes/Avalanche Effekt.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240118160107.png",
     "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
     "IT-Sicherheit/Notes/Notes ordered.md",
