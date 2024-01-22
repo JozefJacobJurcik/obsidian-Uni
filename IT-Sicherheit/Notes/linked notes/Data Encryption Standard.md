@@ -36,3 +36,40 @@ Klassifikation:
 - 6 semi-schwache Schlüsselpaare: DES(DES(x,K),K‘) = x
 - Optimiert auf Implementierung in Hardware: Initialpermutation IP und inverse IP verbessern die Sicherheit nicht, sondern erhöhen nur den Aufwand für Software-Implementierungen
 
+### Deep Crack
+
+1998 von der Electronic Frontier Foundation (EFF) für rund $250.000 gebaut. 
+- 29 beidseitig bestückte Platinen mit je 64 Deep Crack Chips 
+- *Knackte DES-Schlüssel innerhalb weniger Tage*. 
+
+Sollte demonstrieren, dass DES **nicht mehr sicher ist**.
+
+### DES Varianten
+
+*Double-DES*: 
+- DES(DES(m,K1),K2)
+- Erwartete Komplexität: 
+	- bei Schlüssellänge n: $2^{2n}$
+
+Merkle und Hellman haben gezeigt, dass ein Known-Plaintext Angriff möglich ist mit Komplexität $2^{n+1}$ 
+- D.h. doppelte Ausführung von DES bringt **KEINE relevante Steigerung der Sicherheit**!
+
+*Triple-DES (3DES)*
+- Schlüssellänge eigentlich 168 Bit 
+- Wegen Meet-in-the-Middle-Angriff effektiv aber nur 112 Bit
+
+### Abschließende Bemerkungen
+
+Claude Shannon forderte bereits 1949:
+- Konfusion ([[Confusion]]) : Vom Chiffretext kann möglichst wenig auf den Klartext geschlossen werden. 
+- [[Diffusion]]: Kleine Änderungen an der Eingabe bewirken große Änderungen an der Ausgabe.
+
+DES gehört zur Klasse der [[Feistel cipher]] 
+- Horst Feistel (1915-1990), arbeitete für IBM an DES mit 
+- Bezeichnung für bijektive symmetrische Blockverschlüsselungsverfahren mit typischen Eigenschaften: 
+	- Zerlegung des Eingabeblocks in zwei Teile 
+	- n Runden mit verschiedenen Rundenschlüsseln 
+	- Funktion f muss nicht umkehrbar sein 
+	- Alternierende Substitutionen und Permutationen setzen Konfusion und Diffusion um (Avalanche-Effekt nach Feistel).
+
+Iterationen und zueinander ähnliche Ver-/Entschlüsselung ermöglichen günstige Hardwareimplementierungen.

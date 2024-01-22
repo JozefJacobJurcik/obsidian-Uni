@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78f042386e02c787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cbffc59b1e69e8b",
+            "id": "5c073c2c7d1d25e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c62ffc0eeb12f7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb68b7c634d27e76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eddca477bd8ca211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Data Encryption Standard.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crypt",
+                "query": "asymme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md",
+                "file": "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md",
+                "file": "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md"
+                "file": "IT-Sicherheit/Notes/linked notes/Kryptologie.md"
               }
             }
           },
@@ -207,45 +159,45 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "78f042386e02c787",
+  "active": "5c073c2c7d1d25e2",
   "lastOpenFiles": [
-    "IT-Sicherheit/Notes/linked notes/Data Encryption Standard.md",
-    "IT-Sicherheit/Notes/linked notes/Avalanche Effekt.md",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240118160107.png",
-    "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
     "IT-Sicherheit/Notes/Notes ordered.md",
-    "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
-    "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
     "IT-Sicherheit/Notes/linked notes/Kryptographie.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptoanalyse.md",
-    "IT-Sicherheit/Notes/linked notes/chosen-ciphertext attack.md",
-    "IT-Sicherheit/Notes/linked notes/chosen-plaintext attack.md",
+    "IT-Sicherheit/Notes/linked notes/Kryptoregulierung.md",
+    "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
+    "IT-Sicherheit/Notes/linked notes/RSA.md",
+    "IT-Sicherheit/Notes/linked notes/Asymmetrische Verfahren.md",
     "IT-Sicherheit/Notes/linked notes/Kryptographisches System.md",
-    "IT-Sicherheit/Notes/linked notes/known-plaintext attack.md",
-    "IT-Sicherheit/Notes/linked notes/ciphertext only attack.md",
-    "CTF/Networking/linked notes/Cryptography.md",
-    "IT-Sicherheit/Notes/linked notes/Brute Force.md",
-    "IT-Sicherheit/Notes/linked notes/Plaintext.md",
-    "IT-Sicherheit/Notes/linked notes/One Time Pad.md",
-    "IT-Sicherheit/Notes/attachments/Pasted image 20240114212855.png",
-    "IT-Sicherheit/Notes/attachments/Pasted image 20240114212514.png",
-    "IT-Sicherheit/Notes/attachments/Pasted image 20240114210354.png",
-    "IT-Sicherheit/Notes/linked notes/Decryption.md",
-    "IT-Sicherheit/Notes/Ciphertext [[Plaintext.md",
-    "IT-Sicherheit/Notes/linked notes/Encryption.md",
-    "IT-Sicherheit/Notes/linked notes/Ciphertext.md",
-    "IT-Sicherheit/Notes/linked notes/Steganographie.md",
-    "IT-Sicherheit/Notes/linked notes/Spreu-und-Weizen-Algorithmus.md",
-    "IT-Sicherheit/Notes/attachments/Pasted image 20240114203852.png",
-    "IT-Sicherheit/Notes/attachments/Pasted image 20240114203732.png",
-    "IT-Sicherheit/Notes/attachments/Pasted image 20240114203349.png",
-    "IT-Sicherheit/Notes/attachments/Pasted image 20240114201909.png",
+    "IT-Sicherheit/Notes/linked notes/Symmetrische Verfahren.md",
+    "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
+    "IT-Sicherheit/Notes/linked notes/key escrow.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240122002044.png",
+    "IT-Sicherheit/Notes/linked notes/AES key schedule.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240122001808.png",
+    "LDS/Notes/Polynome.md",
+    "LDS/Exercises/irreduzibles Polynom.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240122000848.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240122000621.png",
+    "Math/affine transformation.md",
+    "IT-Sicherheit/Notes/linked notes/Rijndael S-box.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240121220825.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240121220803.png",
+    "IT-Sicherheit/Notes/linked notes/Pasted image 20240121165229.png.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240121165229.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240121165036.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240121164357.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240121164331.png",
+    "IT-Sicherheit/Notes/linked notes/Data Encryption Standard.md",
+    "IT-Sicherheit/Notes/linked notes/Blockchiffren.md",
+    "IT-Sicherheit/Notes/linked notes/Block- und Stromchiffren.md",
+    "HowTo/Metadata.md",
+    "HowTo/Skratky.md",
+    "IT-Sicherheit/Notes/linked notes/Stromverschlüsselung.md",
+    "IT-Sicherheit/Notes/linked notes/Authentizität.md",
+    "IT-Sicherheit/Notes/linked notes/Ziele der Informationssicherheit.md",
+    "IT-Sicherheit/Notes/linked notes/Vertraulichkeit.md",
+    "Algorithms/deterministic algorithm.md",
     "IT-Sicherheit/Notes/attachments",
-    "IT-Sicherheit/Notes/linked notes/Kryptographische Protokolle.md",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240113210950.png",
-    "IT-Sicherheit/Notes/linked notes/IT-Sicherheitsgesetz.md",
-    "IT-Sicherheit/Notes/linked notes/Datenschutz.md",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240113204557.png",
     "IT-Sicherheit/Notes/linked notes/attachments",
     "CTF/Networking/linked notes",
     "CTF/Networking/linked notes/attachments",

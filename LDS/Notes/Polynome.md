@@ -1,5 +1,5 @@
 ---
-aliases: Polynom
+aliases: Polynom, polynomial
 ---
 Sei $K$ ein [[Körper]] und $x$ eine Variable.
 

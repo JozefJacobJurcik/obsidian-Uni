@@ -1,3 +1,6 @@
+---
+aliases: irreducible polynomial
+---
 
 ###### 1.
 Zeigen Sie, dass $p$ im [[Körper]] $K := \mathbb Z_3[x]/p(x)$ nicht irreduzibel ist.

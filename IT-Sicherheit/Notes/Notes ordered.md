@@ -27,4 +27,8 @@
 
 ### 7. 
 15.  [[Symmetrische Verschlüsselungsverfahren]]
-16. 
+16. [[Kryptoregulierung]]
+
+### 8.
+17. [[RSA]]
+18. 
