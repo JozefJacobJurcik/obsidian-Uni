@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a904da651c80ba10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT-Sicherheit/Notes/Kryptographische Hash-Funktionen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b107601663f9e6c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT-Sicherheit/Notes/SHA-3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7aa9cbfe0877f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT-Sicherheit/Notes/linked notes/RSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "149a6c75ec3d66d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Modular multiplicative inverse.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asymme",
+                "query": "erwe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
+                "file": "IT-Sicherheit/Notes/SHA-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
+                "file": "IT-Sicherheit/Notes/SHA-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Kryptologie.md"
+                "file": "IT-Sicherheit/Notes/SHA-3.md"
               }
             }
           },
@@ -159,13 +208,25 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5c073c2c7d1d25e2",
+  "active": "b107601663f9e6c6",
   "lastOpenFiles": [
+    "IT-Sicherheit/Notes/Kryptographische Hash-Funktionen.md",
+    "IT-Sicherheit/Notes/MD5.md",
+    "IT-Sicherheit/Notes/SHA-3.md",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20240123020505.png",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20240123015008.png",
+    "IT-Sicherheit/Notes/attachments/Pasted image 20240123014742.png",
     "IT-Sicherheit/Notes/Notes ordered.md",
+    "IT-Sicherheit/Notes/linked notes/RSA.md",
+    "Math/Modular multiplicative inverse.md",
+    "LDS/Notes/erweiterte Euklidische Algorithmus.md",
+    "LDS/Notes/Kongruenz.md",
+    "Math/Euler‘sche Phi-Funktion.md",
+    "Math/Teilerfremdheit.md",
+    "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
     "IT-Sicherheit/Notes/linked notes/Kryptographie.md",
     "IT-Sicherheit/Notes/linked notes/Kryptoregulierung.md",
     "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
-    "IT-Sicherheit/Notes/linked notes/RSA.md",
     "IT-Sicherheit/Notes/linked notes/Asymmetrische Verfahren.md",
     "IT-Sicherheit/Notes/linked notes/Kryptographisches System.md",
     "IT-Sicherheit/Notes/linked notes/Symmetrische Verfahren.md",
@@ -184,19 +245,7 @@
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240121220803.png",
     "IT-Sicherheit/Notes/linked notes/Pasted image 20240121165229.png.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240121165229.png",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240121165036.png",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240121164357.png",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240121164331.png",
     "IT-Sicherheit/Notes/linked notes/Data Encryption Standard.md",
-    "IT-Sicherheit/Notes/linked notes/Blockchiffren.md",
-    "IT-Sicherheit/Notes/linked notes/Block- und Stromchiffren.md",
-    "HowTo/Metadata.md",
-    "HowTo/Skratky.md",
-    "IT-Sicherheit/Notes/linked notes/Stromverschlüsselung.md",
-    "IT-Sicherheit/Notes/linked notes/Authentizität.md",
-    "IT-Sicherheit/Notes/linked notes/Ziele der Informationssicherheit.md",
-    "IT-Sicherheit/Notes/linked notes/Vertraulichkeit.md",
-    "Algorithms/deterministic algorithm.md",
     "IT-Sicherheit/Notes/attachments",
     "IT-Sicherheit/Notes/linked notes/attachments",
     "CTF/Networking/linked notes",

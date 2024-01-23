@@ -31,4 +31,6 @@
 
 ### 8.
 17. [[RSA]]
-18. 
+
+### 9. 
+18. [[Kryptographische Hash-Funktionen]]

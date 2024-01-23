@@ -1,4 +1,5 @@
 ---
+aliases: congruent
 klausur: 1
 ---
 

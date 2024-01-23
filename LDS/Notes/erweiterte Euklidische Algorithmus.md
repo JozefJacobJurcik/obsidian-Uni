@@ -1,5 +1,5 @@
 ---
-tags: algorithm, math
+aliases: extended Euclidean algorithm
 klausur: 1
 ---
 
