@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/modulo.md",
+                "file": "LDS/Important notes/Menge.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "9d5d2a02340b9c11",
@@ -104,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LDS/Important notes/modulo.md",
+            "file": "LDS/Important notes/Menge.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LDS/Important notes/modulo.md",
+            "file": "LDS/Important notes/Menge.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LDS/Important notes/modulo.md"
+            "file": "LDS/Important notes/Menge.md"
           }
         }
       }
@@ -153,8 +153,17 @@
   },
   "active": "5535c0dc2a3ae798",
   "lastOpenFiles": [
-    "LDS/Notes/Körper.md",
+    "BS/attachments/VorlesungsskriptBetriebssysteme.pdf",
+    "BS/attachments",
+    "BS/Skript.md",
+    "BS",
+    "LDS/Exercises/irreduzibles Polynom.md",
+    "Math/Polynomdivision.md",
+    "LDS/Important notes/Menge.md",
     "LDS/Important notes/modulo.md",
+    "IT-Sicherheit/Notes/Notes ordered.md",
+    "IT-Sicherheit/Notes/linked notes/IT-Sicherheitsgesetz.md",
+    "LDS/Notes/Körper.md",
     "LDS/Exercises/Körpererweiterung - exercise.md",
     "LDS/Notes/erweiterte Euklidische Algorithmus.md",
     "LDS/Notes/Surjektivität.md",
@@ -172,14 +181,7 @@
     "E3p/Dispersion.md",
     "E3p/Stehende Welle.md",
     "E3p/Allgemeine Wellengleichung.md",
-    "E3p/Polarisatoren.md",
-    "LDS/Important notes/Menge.md",
     "E3p",
-    "LDS/Notes/Assoziativgesetz.md",
-    "LDS/Notes/Reflexivität.md",
-    "LDS/Notes/Infimum und Supremum.md",
-    "DnD/Reasearch/Coriolis effect.md",
-    "Pre Mamu/The Impossible Ethical Bargain Behind African Safaris.md",
     "Daily Notes/2023-09-13.md.orig",
     "Daily Notes/Pasted image 20230913130904.png",
     "Daily Notes/Pasted image 20230913130336.png",
