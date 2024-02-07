@@ -99,3 +99,176 @@ public class Main extends Thread {
     System.out.println("Waiting...");
   
 ```
+
+### Synchronized
+
+```java
+public class TestThread extends Thread {
+    String name;
+    TheDemo theDemo;
+
+    public TestThread(String name, TheDemo theDemo) {
+        this.theDemo = theDemo;
+        this.name = name;
+        start();
+    }
+
+    @Override
+    public void run() {
+        theDemo.test(name);
+    }
+
+    public static class TheDemo {
+        public synchronized void test(String name) {
+            for (int i = 0; i < 10; i++) {
+                System.out.println(name + " :: " + i);
+                try {
+                    Thread.sleep(500);
+                } catch (Exception e) {
+                    System.out.println(e.getMessage());
+                }
+            }
+        }
+    }
+
+    public static void main(String[] args) {
+        TheDemo theDemo = new TheDemo();
+        new TestThread("THREAD 1", theDemo);
+        new TestThread("THREAD 2", theDemo);
+        new TestThread("THREAD 3", theDemo);
+    }
+}
+   
+```
+
+Note: `synchronized` blocks the next thread's call to method test() as long as the previous thread's execution is not finished. Threads can access this method one at a time. Without `synchronized` all threads can access this method simultaneously.
+
+When a thread calls the synchronized method 'test' of the object (here object is an instance of 'TheDemo' class) it acquires the lock of that object, any new thread cannot call ANY synchronized method of the same object as long as previous thread which had acquired the lock does not release the lock.
+
+Similar thing happens when any static synchronized method of the class is called. The thread acquires the lock associated with the class(in this case any non static synchronized method of an instance of that class can be called by any thread because that object level lock is still available). Any other thread will not be able to call any static synchronized method of the class as long as the class level lock is not released by the thread which currently holds the lock.
+
+**Output with synchronised**
+
+```java
+THREAD 1 :: 0
+THREAD 1 :: 1
+THREAD 1 :: 2
+THREAD 1 :: 3
+THREAD 1 :: 4
+THREAD 1 :: 5
+THREAD 1 :: 6
+THREAD 1 :: 7
+THREAD 1 :: 8
+THREAD 1 :: 9
+THREAD 3 :: 0
+THREAD 3 :: 1
+THREAD 3 :: 2
+THREAD 3 :: 3
+THREAD 3 :: 4
+THREAD 3 :: 5
+THREAD 3 :: 6
+THREAD 3 :: 7
+THREAD 3 :: 8
+THREAD 3 :: 9
+THREAD 2 :: 0
+THREAD 2 :: 1
+THREAD 2 :: 2
+THREAD 2 :: 3
+THREAD 2 :: 4
+THREAD 2 :: 5
+THREAD 2 :: 6
+THREAD 2 :: 7
+THREAD 2 :: 8
+THREAD 2 :: 9
+```
+
+**Output without synchronized**
+
+```java
+THREAD 1 :: 0
+THREAD 2 :: 0
+THREAD 3 :: 0
+THREAD 1 :: 1
+THREAD 2 :: 1
+THREAD 3 :: 1
+THREAD 1 :: 2
+THREAD 2 :: 2
+THREAD 3 :: 2
+THREAD 1 :: 3
+THREAD 2 :: 3
+THREAD 3 :: 3
+THREAD 1 :: 4
+THREAD 2 :: 4
+THREAD 3 :: 4
+THREAD 1 :: 5
+THREAD 2 :: 5
+THREAD 3 :: 5
+THREAD 1 :: 6
+THREAD 2 :: 6
+THREAD 3 :: 6
+THREAD 1 :: 7
+THREAD 2 :: 7
+THREAD 3 :: 7
+THREAD 1 :: 8
+THREAD 2 :: 8
+THREAD 3 :: 8
+THREAD 1 :: 9
+THREAD 2 :: 9
+THREAD 3 :: 9
+```
+
+### Wait and notify
+
+```java
+
+public class Data {
+    private String packet;
+    
+    // True if receiver should wait
+    // False if sender should wait
+    private boolean transfer = true;
+ 
+    public synchronized String receive() {
+        while (transfer) {
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt(); 
+                System.err.println("Thread Interrupted");
+            }
+        }
+        transfer = true;
+        
+        String returnPacket = packet;
+        notifyAll();
+        return returnPacket;
+    }
+ 
+    public synchronized void send(String packet) {
+        while (!transfer) {
+            try { 
+                wait();
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt(); 
+                System.err.println("Thread Interrupted");
+            }
+        }
+        transfer = false;
+        
+        this.packet = packet;
+        notifyAll();
+    }
+}
+```
+
+- The _packet_ variable denotes the data that is being transferred over the network.
+- We have a _boolean_ variable _transfer_, which the _Sender_ and _Receiver_ will use for synchronization:
+    - If this variable is _true_, the _Receiver_ should wait for _Sender_ to send the message.
+    - If it’s _false_, _Sender_ should wait for _Receiver_ to receive the message.
+- The _Sender_ uses the _send()_ method to send data to the _Receiver_:
+    - If _transfer_ is _false_, we’ll wait by calling _wait()_ on this thread.
+    - But when it is _true_, we toggle the status, set our message, and call _notifyAll()_ to wake up other threads to specify that a significant event has occurred and they can check if they can continue execution.
+- Similarly, the _Receiver_ will use the _receive()_ method:
+    - If the _transfer_ was set to _false_ by _Sender_, only then will it proceed, otherwise we’ll call _wait()_ on this thread.
+    - When the condition is met, we toggle the status, notify all waiting threads to wake up, and return the data packet that was received.
+

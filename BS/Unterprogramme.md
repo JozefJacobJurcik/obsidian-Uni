@@ -1,0 +1,8 @@
+### Offenes Unterprogramm: 
+Der entsprechende Programmtext wird an den erforderlichen Stellen ins Hauptprogramm hineinkopiert. Diese Technik wird auch als Makroaufruf bezeichnet. Sie ist nur bei kleinen Unterprogrammen effizient, wie z.B. bei einfachen arithmetischen Operationen (x 2 , |x|). Bei langen Unterprogrammen ist sie ungeeignet, da sie Speicherplatz verschwendet und nachträgliche Modifikationen am Unterprogramm an jedem Vorkommen vorgenommen werden müssen. Außerdem ist Vorsicht geboten, wenn das offene Unterprogramm Befehle enthält, die Speicheradressen als Parameter haben (z.B. Sprungbefehle). Diese Adressen können bei jedem Vorkommen des Unterprogramms verschieden sein und müssen beim Kopieren entsprechend angepasst werden. 
+
+### Geschlossenes Unterprogramm (Prozedur):
+Das Programmstück wird über seine Anfangsadresse (die Adresse der Speicherzelle, mit der es beginnt) angesprungen. Nach der Auführung des Unterprogramms erfolgt ein Rücksprung zu der Adresse, die unmittelbar vor dem Unterprogrammaufruf als nächstes dran gewesen wäre (Rückkehradresse). Insbesondere werden Prozeduren und Funktionen höherer Programmiersprachen als geschlossene Unterprogramme realisiert. Wir unterscheiden: 
+- *Announcement*: Prozedur ohne Ergebnisparameter (in Java z.B. gekennzeichnet durch leeren Rückgabetyp void). 
+- *Invocation*: Prozedur mit Ergebnisparameter 
+Unabhängig von obigen Unterscheidungen heißt ein Unterprogramm rekursiv, wenn in dem Unterprogramm selbst ein Aufruf dieses Unterprogramms erfolgt (ggf. mit modifizierten Parametern). Beispiel: n! = n · (n − 1)! für n > 0; n! = 1 für n = 0.

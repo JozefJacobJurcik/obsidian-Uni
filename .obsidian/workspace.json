@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BS/Java threads.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b107601663f9e6c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/SHA-3.md",
+                "file": "BS/Zustands-Prozessmodell.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BS/Java threads.md",
+                "file": "BS/Zustands-Prozessmodell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BS/Java threads.md",
+                "file": "BS/Zustands-Prozessmodell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BS/Java threads.md"
+                "file": "BS/Zustands-Prozessmodell.md"
               }
             }
           },
@@ -173,8 +161,11 @@
   },
   "active": "5c073c2c7d1d25e2",
   "lastOpenFiles": [
-    "BS/Seitenaustauschalgorithmen.md",
+    "IT-Sicherheit/Notes/SHA-3.md",
+    "BS/Zustands-Prozessmodell.md",
+    "BS/Unterprogramme.md",
     "BS/Java threads.md",
+    "BS/Seitenaustauschalgorithmen.md",
     "BS/Scheduling-Algorithmen.md",
     "CTF/Networking/Notes ordered.md",
     "BS/attachments/Pasted image 20240205181549.png",
@@ -187,10 +178,8 @@
     "BS/attachments/Pasted image 20240205124757.png",
     "BS/attachments/Pasted image 20240205124631.png",
     "BS/attachments/Pasted image 20240205123918.png",
-    "BS/Zustands-Prozessmodell.md",
     "BS/Skript.md",
     "IT-Sicherheit/Notes/Notes ordered.md",
-    "IT-Sicherheit/Notes/SHA-3.md",
     "Math/Modular multiplicative inverse.md",
     "IT-Sicherheit/Notes/linked notes/RSA.md",
     "BS/attachments/VorlesungsskriptBetriebssysteme.pdf",
@@ -211,7 +200,6 @@
     "IT-Sicherheit/Notes/linked notes/Symmetrische Verfahren.md",
     "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
     "IT-Sicherheit/Notes/linked notes/key escrow.md",
-    "IT-Sicherheit/Notes/linked notes/AES key schedule.md",
     "IT-Sicherheit/Notes/attachments",
     "IT-Sicherheit/Notes/linked notes/attachments",
     "CTF/Networking/linked notes",
