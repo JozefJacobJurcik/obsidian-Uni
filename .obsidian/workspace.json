@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BS/Zustands-Prozessmodell.md",
+                "file": "DBS/DBS-exercises/Datenunabhängigkeit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BS/Zustands-Prozessmodell.md",
+                "file": "DBS/DBS-exercises/Datenunabhängigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BS/Zustands-Prozessmodell.md",
+                "file": "DBS/DBS-exercises/Datenunabhängigkeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BS/Zustands-Prozessmodell.md"
+                "file": "DBS/DBS-exercises/Datenunabhängigkeit.md"
               }
             }
           },
@@ -159,10 +159,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5c073c2c7d1d25e2",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
-    "IT-Sicherheit/Notes/SHA-3.md",
+    "DBS/DBS-exercises/9 zentralen Anforderungen - Edgar Codd.md",
+    "DBS/Dateiverwaltungssystem.md",
+    "DBS/Datenbanksystem.md",
+    "DBS/Notes Ordered.md",
     "BS/Zustands-Prozessmodell.md",
+    "IT-Sicherheit/Notes/SHA-3.md",
     "BS/Unterprogramme.md",
     "BS/Java threads.md",
     "BS/Seitenaustauschalgorithmen.md",
@@ -196,10 +200,6 @@
     "IT-Sicherheit/Notes/linked notes/Kryptoregulierung.md",
     "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
     "IT-Sicherheit/Notes/linked notes/Asymmetrische Verfahren.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptographisches System.md",
-    "IT-Sicherheit/Notes/linked notes/Symmetrische Verfahren.md",
-    "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
-    "IT-Sicherheit/Notes/linked notes/key escrow.md",
     "IT-Sicherheit/Notes/attachments",
     "IT-Sicherheit/Notes/linked notes/attachments",
     "CTF/Networking/linked notes",
