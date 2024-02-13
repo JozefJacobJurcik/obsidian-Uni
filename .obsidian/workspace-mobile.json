@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/Menge.md",
-                "mode": "source",
+                "file": "BS/Skript.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -104,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LDS/Important notes/Menge.md",
+            "file": "BS/Skript.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LDS/Important notes/Menge.md",
+            "file": "BS/Skript.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LDS/Important notes/Menge.md"
+            "file": "BS/Skript.md"
           }
         }
       }
@@ -153,15 +153,18 @@
   },
   "active": "5535c0dc2a3ae798",
   "lastOpenFiles": [
+    "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
+    "IT-Sicherheit/Notes/linked notes/Kryptographie.md",
+    "IT-Sicherheit/Notes/linked notes/Plaintext.md",
+    "IT-Sicherheit/Notes/Notes ordered.md",
+    "LDS/Important notes/Menge.md",
     "BS/attachments/VorlesungsskriptBetriebssysteme.pdf",
     "BS/attachments",
     "BS/Skript.md",
     "BS",
     "LDS/Exercises/irreduzibles Polynom.md",
     "Math/Polynomdivision.md",
-    "LDS/Important notes/Menge.md",
     "LDS/Important notes/modulo.md",
-    "IT-Sicherheit/Notes/Notes ordered.md",
     "IT-Sicherheit/Notes/linked notes/IT-Sicherheitsgesetz.md",
     "LDS/Notes/Körper.md",
     "LDS/Exercises/Körpererweiterung - exercise.md",
@@ -179,8 +182,6 @@
     "LDS/Notes/Transitive Hülle.md",
     "E3p/Schallwellen.md",
     "E3p/Dispersion.md",
-    "E3p/Stehende Welle.md",
-    "E3p/Allgemeine Wellengleichung.md",
     "E3p",
     "Daily Notes/2023-09-13.md.orig",
     "Daily Notes/Pasted image 20230913130904.png",
