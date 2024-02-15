@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBS/DBS-exercises/Datenunabhängigkeit.md",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBS/DBS-exercises/Datenunabhängigkeit.md",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBS/DBS-exercises/Datenunabhängigkeit.md",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBS/DBS-exercises/Datenunabhängigkeit.md"
+                "file": "IT-Sicherheit/Notes/Notes ordered.md"
               }
             }
           },
@@ -161,12 +161,13 @@
   },
   "active": "da115dda2911a4ed",
   "lastOpenFiles": [
+    "DBS/DBS-exercises/Datenunabhängigkeit.md",
     "DBS/DBS-exercises/9 zentralen Anforderungen - Edgar Codd.md",
     "DBS/Dateiverwaltungssystem.md",
     "DBS/Datenbanksystem.md",
     "DBS/Notes Ordered.md",
     "BS/Zustands-Prozessmodell.md",
-    "IT-Sicherheit/Notes/SHA-3.md",
+    "IT-Sicherheit/Notes/linked notes/SHA-3.md",
     "BS/Unterprogramme.md",
     "BS/Java threads.md",
     "BS/Seitenaustauschalgorithmen.md",
@@ -188,9 +189,9 @@
     "IT-Sicherheit/Notes/linked notes/RSA.md",
     "BS/attachments/VorlesungsskriptBetriebssysteme.pdf",
     "BS/attachments",
-    "IT-Sicherheit/Notes/Kryptographische Hash-Funktionen.md",
+    "IT-Sicherheit/Notes/linked notes/Kryptographische Hash-Funktionen.md",
     "BS",
-    "IT-Sicherheit/Notes/MD5.md",
+    "IT-Sicherheit/Notes/linked notes/MD5.md",
     "LDS/Notes/erweiterte Euklidische Algorithmus.md",
     "LDS/Notes/Kongruenz.md",
     "Math/Euler‘sche Phi-Funktion.md",
@@ -199,7 +200,6 @@
     "IT-Sicherheit/Notes/linked notes/Kryptographie.md",
     "IT-Sicherheit/Notes/linked notes/Kryptoregulierung.md",
     "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
-    "IT-Sicherheit/Notes/linked notes/Asymmetrische Verfahren.md",
     "IT-Sicherheit/Notes/attachments",
     "IT-Sicherheit/Notes/linked notes/attachments",
     "CTF/Networking/linked notes",
