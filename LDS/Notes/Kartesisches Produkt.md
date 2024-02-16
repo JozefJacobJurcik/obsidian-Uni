@@ -1,11 +1,15 @@
-### Wiki Def.
-Das kartesische Produkt A × B (lies „A kreuz B“) zweier [Mengen](https://de.wikipedia.org/wiki/Menge_(Mathematik) "Menge (Mathematik)") A und B ist definiert als die Menge aller [geordneten Paare](https://de.wikipedia.org/wiki/Geordnetes_Paar "Geordnetes Paar") ( a , b ) , wobei a ein Element aus A und b ein Element aus B ist. Dabei wird jedes Element aus A mit jedem Element aus B kombiniert. Formal ist das kartesische Produkt durch
+---
+aliases: Kreuzprodukt
+---
 
-A × B := { ( a , b ) ∣ a ∈ A , b ∈ B } 
+### Wiki Def.
+Das kartesische Produkt A × B (lies „A kreuz B“) zweier [[Menge]]n $A$ und $B$ ist definiert als die Menge aller [geordneten Paare](https://de.wikipedia.org/wiki/Geordnetes_Paar "Geordnetes Paar") $( a , b )$ , wobei a ein Element aus $A$ und $b$ ein Element aus $B$ ist. Dabei wird jedes Element aus $A$ mit jedem Element aus $B$ kombiniert. Formal ist das kartesische Produkt durch
+
+$A × B := { ( a , b ) ∣ a ∈ A , b ∈ B }$ 
 
 definiert. Insbesondere ist es auch möglich, das kartesische Produkt einer Menge mit sich selbst zu bilden und man schreibt dann
 
-A$^2$ = A × A = { ( a , a′ ) ∣ a , a′ ∈ A }.
+$A^2 = A × A = { ( a , a^′ ) ∣ a , a^′ ∈ A }.$
 
 Gelegentlich wird für das kartesische Produkt auch der Begriff „Kreuzprodukt“ verwendet, der jedoch weitere Bedeutungen hat, siehe [Kreuzprodukt](https://de.wikipedia.org/wiki/Kreuzprodukt "Kreuzprodukt").
 

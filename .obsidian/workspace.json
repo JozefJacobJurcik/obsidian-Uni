@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "816011f48cf742df",
+        "id": "c9dc6ce3e0c78bb7",
         "type": "tabs",
         "children": [
           {
-            "id": "5c073c2c7d1d25e2",
+            "id": "a3b65a46a35772e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md",
+                "file": "DBS/Notes ordered by Tutorium exercises.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2de29eeb0bd26f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBS/linked notes/Das Relationale Modell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2df0d67acf3e2ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LDS/Important notes/Menge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd46b85aae45f329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBS/linked notes/Projektion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "erwe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md",
+                "file": "DBS/linked notes/attachments/tutorium_05.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md",
+                "file": "DBS/linked notes/attachments/tutorium_05.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md"
+                "file": "DBS/linked notes/attachments/tutorium_05.pdf"
               }
             }
           },
@@ -159,54 +196,106 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "da115dda2911a4ed",
+  "floating": {
+    "id": "bd8b0d3b6e3c78d7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "552db1d3189e1110",
+        "type": "window",
+        "children": [
+          {
+            "id": "957f2d4200532a8d",
+            "type": "tabs",
+            "dimension": 52.473958333333336,
+            "children": [
+              {
+                "id": "d51980b5b1061eb1",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "DBS/linked notes/attachments/tutorium_05.pdf"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "342ee84be76b4efd",
+            "type": "tabs",
+            "dimension": 47.52604166666667,
+            "children": [
+              {
+                "id": "6ca3c92ff7639ed9",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "DBS/linked notes/attachments/DBS Skript.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 686,
+        "y": -809,
+        "width": 1024,
+        "height": 801,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d51980b5b1061eb1",
   "lastOpenFiles": [
-    "DBS/DBS-exercises/Datenunabhängigkeit.md",
-    "DBS/DBS-exercises/9 zentralen Anforderungen - Edgar Codd.md",
-    "DBS/Dateiverwaltungssystem.md",
-    "DBS/Datenbanksystem.md",
-    "DBS/Notes Ordered.md",
-    "BS/Zustands-Prozessmodell.md",
-    "IT-Sicherheit/Notes/linked notes/SHA-3.md",
-    "BS/Unterprogramme.md",
-    "BS/Java threads.md",
-    "BS/Seitenaustauschalgorithmen.md",
-    "BS/Scheduling-Algorithmen.md",
-    "CTF/Networking/Notes ordered.md",
+    "DBS/linked notes/attachments/tutorium_03.pdf",
+    "DBS/linked notes/attachments/tutorium_05.pdf",
+    "DBS/linked notes/attachments/tutorium_04.pdf",
+    "Untitled.md",
+    "DBS/linked notes/Das Relationale Modell.md",
+    "DBS/linked notes/attachments/Pasted image 20240216202109.png",
+    "DBS/linked notes/attachments/Pasted image 20240216202006.png",
+    "DBS/linked notes/attachments/Pasted image 20240216201932.png",
+    "DBS/linked notes/attachments/Pasted image 20240216201903.png",
+    "DBS/linked notes/attachments/Pasted image 20240216201833.png",
+    "DBS/linked notes/attachments/Pasted image 20240216201802.png",
+    "DBS/linked notes/attachments/Pasted image 20240216201739.png",
+    "DBS/linked notes/attachments/Pasted image 20240216201717.png",
+    "LDS/Important notes/Menge.md",
+    "DBS/linked notes/Projektion.md",
+    "DBS/linked notes/Selektion.md",
+    "DBS/Notes ordered by Tutorium exercises.md",
+    "LDS/Notes/Kartesisches Produkt.md",
+    "DBS/linked notes/Schlüssel.md",
+    "DBS/linked notes/ACID-Prinzip.md",
+    "DBS/linked notes/Foreign key.md",
+    "DBS/linked notes/Data Definition Language.md",
+    "DBS/linked notes/attachments/tutorium_02.pdf",
+    "DBS/linked notes/Primary key.md",
+    "DBS/linked notes/Anomalien in Datenbanken.md",
+    "DBS/linked notes/data manipulation language.md",
+    "DBS/linked notes/SQL.md",
+    "DBS/linked notes/attachments/Pasted image 20240216154537.png",
+    "DBS/linked notes/Einfügeanomalie.md",
+    "DBS/linked notes/Entfernungsanomalie.md",
+    "DBS/linked notes/Änderungsanomalie.md",
+    "DBS/linked notes/Redundanz.md",
+    "DBS/linked notes/Datenbanksystem.md",
+    "LDS/Important notes/Relation.md",
+    "LDS/Important notes/Funktion.md",
+    "DBS/linked notes/Dateiverwaltungssystem.md",
+    "DBS/linked notes/attachments/tutorium_01.pdf",
+    "DBS/linked notes/Datenunabhängigkeit.md",
+    "DBS/linked notes",
+    "DBS/linked notes/attachments/DBS Skript.pdf",
+    "DBS/linked notes/9 zentralen Anforderungen - Edgar Codd.md",
+    "DBS/linked notes/attachments/tutorium_08.pdf",
+    "DBS/linked notes/attachments/tutorium_07.pdf",
+    "DBS/linked notes/attachments/tutorium_06.pdf",
     "BS/attachments/Pasted image 20240205181549.png",
-    "BS/attachments/Pasted image 20240205181531.png",
-    "BS/attachments/Pasted image 20240205181425.png",
-    "BS/attachments/Pasted image 20240205181044.png",
-    "BS/attachments/Pasted image 20240205181001.png",
-    "BS/attachments/Pasted image 20240205180708.png",
-    "BS/attachments/Pasted image 20240205125049.png",
-    "BS/attachments/Pasted image 20240205124757.png",
-    "BS/attachments/Pasted image 20240205124631.png",
-    "BS/attachments/Pasted image 20240205123918.png",
-    "BS/Skript.md",
-    "IT-Sicherheit/Notes/Notes ordered.md",
-    "Math/Modular multiplicative inverse.md",
-    "IT-Sicherheit/Notes/linked notes/RSA.md",
-    "BS/attachments/VorlesungsskriptBetriebssysteme.pdf",
-    "BS/attachments",
-    "IT-Sicherheit/Notes/linked notes/Kryptographische Hash-Funktionen.md",
-    "BS",
-    "IT-Sicherheit/Notes/linked notes/MD5.md",
-    "LDS/Notes/erweiterte Euklidische Algorithmus.md",
-    "LDS/Notes/Kongruenz.md",
-    "Math/Euler‘sche Phi-Funktion.md",
-    "Math/Teilerfremdheit.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptographie.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptoregulierung.md",
-    "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
-    "IT-Sicherheit/Notes/attachments",
-    "IT-Sicherheit/Notes/linked notes/attachments",
-    "CTF/Networking/linked notes",
-    "CTF/Networking/linked notes/attachments",
-    "CTF/Networking",
-    "CTF",
-    "IT-Sicherheit/Notes/linked notes",
     "Untitled.canvas"
   ]
 }

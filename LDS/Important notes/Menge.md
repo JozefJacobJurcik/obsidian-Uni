@@ -12,6 +12,9 @@ für alle x gilt: $x \in A$ gdw. x ∈ B gdw. $x \in B$ und $B \subseteq A$
 Die **leere Menge** { }, auch als $\emptyset$ notiert, enthält keine Elemente.
 
 ### Operationen Auf Mengen:
+
+^8199b2
+
 ##### Vereinigung
 A ∪ B := { x ; x ∈ A oder x ∈ B }
 ##### Durchschnitt 
@@ -45,7 +48,9 @@ Allgemeiner: fur eine (Index-)Menge $\mathcal{I}$ und Mengen $A_i$ für $\mathca
 $$\huge\bigcup_{i\,\in\,{\mathcal I}}A_i$$
 Analog für ∩, und andere (assoziative und kommutative) Operationen.
 
-### [Kardinalität](Kardinalität.md)
-### [Disjunktheit](Disjunktheit.md)
-### [Potenzmenge](Potenzmenge.md)
-### [[Kartesisches Produkt]]
+### See also: 
+###### [Kardinalität](Kardinalität.md)
+###### [Disjunktheit](Disjunktheit.md)
+###### [Potenzmenge](Potenzmenge.md)
+###### [[Kartesisches Produkt]]
+
