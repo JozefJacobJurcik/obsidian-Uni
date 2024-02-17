@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3b65a46a35772e3",
+            "id": "2de29eeb0bd26f7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +20,30 @@
             }
           },
           {
-            "id": "2de29eeb0bd26f7f",
+            "id": "2c58f23468b141fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBS/linked notes/Das Relationale Modell.md",
+                "file": "DBS/linked notes/Relationenkalkül.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2df0d67acf3e2ac4",
+            "id": "c1c4d0b2db553cc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/Menge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd46b85aae45f329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBS/linked notes/Projektion.md",
+                "file": "DBS/linked notes/SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBS/linked notes/attachments/tutorium_05.pdf",
+                "file": "DBS/Notes ordered by Tutorium exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBS/linked notes/attachments/tutorium_05.pdf",
+                "file": "DBS/Notes ordered by Tutorium exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBS/linked notes/attachments/tutorium_05.pdf"
+                "file": "DBS/Notes ordered by Tutorium exercises.md"
               }
             }
           },
@@ -207,15 +194,15 @@
           {
             "id": "957f2d4200532a8d",
             "type": "tabs",
-            "dimension": 52.473958333333336,
+            "dimension": 52.47395833333333,
             "children": [
               {
-                "id": "d51980b5b1061eb1",
+                "id": "e1fe230274097335",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "DBS/linked notes/attachments/tutorium_05.pdf"
+                    "file": "DBS/linked notes/attachments/tutorium_06.pdf"
                   }
                 }
               }
@@ -224,10 +211,10 @@
           {
             "id": "342ee84be76b4efd",
             "type": "tabs",
-            "dimension": 47.52604166666667,
+            "dimension": 47.526041666666664,
             "children": [
               {
-                "id": "6ca3c92ff7639ed9",
+                "id": "004faf368e926b23",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -249,13 +236,20 @@
       }
     ]
   },
-  "active": "d51980b5b1061eb1",
+  "active": "2de29eeb0bd26f7f",
   "lastOpenFiles": [
-    "DBS/linked notes/attachments/tutorium_03.pdf",
+    "DBS/linked notes/Relationenkalkül.md",
+    "DBS/linked notes/attachments/tutorium_06.pdf",
+    "DBS/linked notes/SQL.md",
+    "LDS/Important notes/Menge.md",
+    "DBS/linked notes/Projektion.md",
+    "DBS/Notes ordered by Tutorium exercises.md",
     "DBS/linked notes/attachments/tutorium_05.pdf",
-    "DBS/linked notes/attachments/tutorium_04.pdf",
-    "Untitled.md",
+    "DBS/linked notes/attachments/DBS Skript.pdf",
     "DBS/linked notes/Das Relationale Modell.md",
+    "DBS/linked notes/attachments/tutorium_04.pdf",
+    "DBS/linked notes/attachments/tutorium_03.pdf",
+    "Untitled.md",
     "DBS/linked notes/attachments/Pasted image 20240216202109.png",
     "DBS/linked notes/attachments/Pasted image 20240216202006.png",
     "DBS/linked notes/attachments/Pasted image 20240216201932.png",
@@ -264,10 +258,7 @@
     "DBS/linked notes/attachments/Pasted image 20240216201802.png",
     "DBS/linked notes/attachments/Pasted image 20240216201739.png",
     "DBS/linked notes/attachments/Pasted image 20240216201717.png",
-    "LDS/Important notes/Menge.md",
-    "DBS/linked notes/Projektion.md",
     "DBS/linked notes/Selektion.md",
-    "DBS/Notes ordered by Tutorium exercises.md",
     "LDS/Notes/Kartesisches Produkt.md",
     "DBS/linked notes/Schlüssel.md",
     "DBS/linked notes/ACID-Prinzip.md",
@@ -277,7 +268,6 @@
     "DBS/linked notes/Primary key.md",
     "DBS/linked notes/Anomalien in Datenbanken.md",
     "DBS/linked notes/data manipulation language.md",
-    "DBS/linked notes/SQL.md",
     "DBS/linked notes/attachments/Pasted image 20240216154537.png",
     "DBS/linked notes/Einfügeanomalie.md",
     "DBS/linked notes/Entfernungsanomalie.md",
@@ -290,11 +280,8 @@
     "DBS/linked notes/attachments/tutorium_01.pdf",
     "DBS/linked notes/Datenunabhängigkeit.md",
     "DBS/linked notes",
-    "DBS/linked notes/attachments/DBS Skript.pdf",
-    "DBS/linked notes/9 zentralen Anforderungen - Edgar Codd.md",
     "DBS/linked notes/attachments/tutorium_08.pdf",
     "DBS/linked notes/attachments/tutorium_07.pdf",
-    "DBS/linked notes/attachments/tutorium_06.pdf",
     "BS/attachments/Pasted image 20240205181549.png",
     "Untitled.canvas"
   ]

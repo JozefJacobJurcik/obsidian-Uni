@@ -19,4 +19,17 @@
 # 3.
 [[tutorium_03.pdf]]
 9. [[Das Relationale Modell#^4d4306]]
-10. 
+
+# 4.
+[[tutorium_04.pdf]]
+# 5. 
+[[tutorium_05.pdf]]
+10. [[SQL]]
+
+# 6.
+[[tutorium_06.pdf]]
+11. [[Relationenkalkül]]
+
+# 7.
+[[tutorium_07.pdf]]
+12. 
