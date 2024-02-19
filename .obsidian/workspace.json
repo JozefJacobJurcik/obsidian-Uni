@@ -18,30 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2c58f23468b141fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBS/linked notes/Relationenkalkül.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1c4d0b2db553cc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBS/linked notes/SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -183,106 +159,53 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "floating": {
-    "id": "bd8b0d3b6e3c78d7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "552db1d3189e1110",
-        "type": "window",
-        "children": [
-          {
-            "id": "957f2d4200532a8d",
-            "type": "tabs",
-            "dimension": 52.47395833333333,
-            "children": [
-              {
-                "id": "e1fe230274097335",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "DBS/linked notes/attachments/tutorium_06.pdf"
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "342ee84be76b4efd",
-            "type": "tabs",
-            "dimension": 47.526041666666664,
-            "children": [
-              {
-                "id": "004faf368e926b23",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "DBS/linked notes/attachments/DBS Skript.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 686,
-        "y": -809,
-        "width": 1024,
-        "height": 801,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "2de29eeb0bd26f7f",
   "lastOpenFiles": [
+    "DBS/linked notes/Transaktion.md",
+    "DBS/linked notes/Schedule.md",
+    "DBS/linked notes/attachments/DBS Skript.pdf",
+    "DBS/linked notes/attachments/tutorium_11.pdf",
+    "DBS/linked notes/attachments/tutorium_12.pdf",
+    "DBS/linked notes/attachments/Pasted image 20240219024746.png",
+    "LDS/Notes/Reflexiv-transitive Hülle.md",
+    "DBS/linked notes/attachments/Pasted image 20240219022353.png",
+    "DBS/linked notes/attachments/Pasted image 20240219022143.png",
+    "DBS/Notes ordered by Tutorium exercises.md",
+    "BS/Seitenaustauschalgorithmen.md",
+    "DBS/linked notes/DB-Normalform.md",
+    "DBS/linked notes/Funktionale Abhängigkeit.md",
+    "DBS/linked notes/attachments/tutorium_10.pdf",
+    "DBS/linked notes/Voll funktionale Abhängigkeit.md",
+    "DBS/linked notes/Attributhülle.md",
+    "DBS/linked notes/Transitive funktionale Abhängigkeit.md",
+    "DBS/linked notes/Partiell funktionale Abhängigkeit.md",
+    "DBS/linked notes/Triviale funktionale Abhängigkeit.md",
+    "DBS/linked notes/attachments/Pasted image 20240219001421.png",
+    "DBS/linked notes/attachments/tutorium_09.pdf",
+    "DBS/linked notes/R-Modell.md",
+    "DBS/linked notes/attachments/Pasted image 20240218120638.png",
+    "DBS/linked notes/attachments/Pasted image 20240218120409.png",
+    "DBS/linked notes/attachments/Pasted image 20240218120216.png",
+    "DBS/linked notes/attachments/Pasted image 20240218120058.png",
+    "DBS/linked notes/attachments 1",
+    "E",
+    "DBS/linked notes/attachments/tutorium_08.pdf",
+    "DBS/linked notes/SQL.md",
+    "DBS/linked notes/attachments/Pasted image 20240218114912.png",
+    "DBS/linked notes/attachments/tutorium_07.pdf",
     "DBS/linked notes/Relationenkalkül.md",
     "DBS/linked notes/attachments/tutorium_06.pdf",
-    "DBS/linked notes/SQL.md",
     "LDS/Important notes/Menge.md",
     "DBS/linked notes/Projektion.md",
-    "DBS/Notes ordered by Tutorium exercises.md",
-    "DBS/linked notes/attachments/tutorium_05.pdf",
-    "DBS/linked notes/attachments/DBS Skript.pdf",
     "DBS/linked notes/Das Relationale Modell.md",
-    "DBS/linked notes/attachments/tutorium_04.pdf",
-    "DBS/linked notes/attachments/tutorium_03.pdf",
     "Untitled.md",
     "DBS/linked notes/attachments/Pasted image 20240216202109.png",
-    "DBS/linked notes/attachments/Pasted image 20240216202006.png",
-    "DBS/linked notes/attachments/Pasted image 20240216201932.png",
-    "DBS/linked notes/attachments/Pasted image 20240216201903.png",
-    "DBS/linked notes/attachments/Pasted image 20240216201833.png",
-    "DBS/linked notes/attachments/Pasted image 20240216201802.png",
-    "DBS/linked notes/attachments/Pasted image 20240216201739.png",
-    "DBS/linked notes/attachments/Pasted image 20240216201717.png",
     "DBS/linked notes/Selektion.md",
     "LDS/Notes/Kartesisches Produkt.md",
     "DBS/linked notes/Schlüssel.md",
     "DBS/linked notes/ACID-Prinzip.md",
     "DBS/linked notes/Foreign key.md",
     "DBS/linked notes/Data Definition Language.md",
-    "DBS/linked notes/attachments/tutorium_02.pdf",
-    "DBS/linked notes/Primary key.md",
-    "DBS/linked notes/Anomalien in Datenbanken.md",
-    "DBS/linked notes/data manipulation language.md",
-    "DBS/linked notes/attachments/Pasted image 20240216154537.png",
-    "DBS/linked notes/Einfügeanomalie.md",
-    "DBS/linked notes/Entfernungsanomalie.md",
-    "DBS/linked notes/Änderungsanomalie.md",
-    "DBS/linked notes/Redundanz.md",
-    "DBS/linked notes/Datenbanksystem.md",
-    "LDS/Important notes/Relation.md",
-    "LDS/Important notes/Funktion.md",
-    "DBS/linked notes/Dateiverwaltungssystem.md",
-    "DBS/linked notes/attachments/tutorium_01.pdf",
-    "DBS/linked notes/Datenunabhängigkeit.md",
-    "DBS/linked notes",
-    "DBS/linked notes/attachments/tutorium_08.pdf",
-    "DBS/linked notes/attachments/tutorium_07.pdf",
-    "BS/attachments/Pasted image 20240205181549.png",
     "Untitled.canvas"
   ]
 }

@@ -32,4 +32,20 @@
 
 # 7.
 [[tutorium_07.pdf]]
-12. 
+12. [[SQL]]
+
+# 8.
+[[tutorium_08.pdf]]
+
+# 9.
+[[tutorium_09.pdf]]
+13. [[R-Modell]]
+
+# 10.
+[[tutorium_10.pdf]]
+14. [[DB-Normalform]]
+
+# 11.
+[[tutorium_11.pdf]]
+15. [[Transaktion]] 
+16. [[Schedule]] 

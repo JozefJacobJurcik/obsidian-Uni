@@ -21,7 +21,7 @@
 - $t$ ist eine Tupelvariable bzgl. Schema $S$ = Schema($t$) 
 
 - Kleinste Bestandteile einer Formel im Tupelkalkül sind die *Atome*: 
-	- $𝑅 (𝑡) , \:𝑡. 𝐴𝜃𝑠. 𝐵 \:,\: 𝑡. 𝐴𝜃𝑐 \: (𝜃 ∈ \{<, ≤, ≥, >, = , ≠\})$ (wobei $t$ und $s$ Tupelvariablen, $A$ und $B$ Relationen und $c$ Konstanten sind)
+	- $𝑅 (𝑡) , \:𝑡.𝐴\:𝜃\:𝑠. 𝐵 \:,\: 𝑡. 𝐴𝜃𝑐 \: (𝜃 ∈ \{<, ≤, ≥, >, = , ≠\})$ (wobei $t$ und $s$ Tupelvariablen, $A$ und $B$ Relationen und $c$ Konstanten sind)
 
 - Formeln im Tupelkalkül sind Induktiv definiert: 
 	- Jedes Atom ist eine Formel 

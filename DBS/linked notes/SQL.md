@@ -1,12 +1,12 @@
 ---
 
 ---
-### SQL Anfragen
+## SQL Anfragen
 ...  bestehen immer aus: 
 1. `SELECT` … 
 2. `FROM`…
 
-##### `SELECT` 
+#### `SELECT` 
 - wird zum Auswählen (Projizieren) von Attributen/Spalten verwendet 
 - Kommt immer als erstes
 
@@ -15,7 +15,7 @@
 2. `SELECT attr_1, …, attr_n` -> Anzeigen der angegebenen Attribute/Spalten 
 3. `SELECT DISTINCT attr_1, …, attr_n` -> wie 2. nur mit Duplikat Eliminierung
 
-##### `FROM` 
+#### `FROM` 
 - wird zum Auswählen von Relationen und Ausführen von Joins verwendet 
 - Kommt immer nach `SELECT` 
 
@@ -37,8 +37,12 @@
 
 -  Es können auch immer mehrere Joins kombiniert werden 
 	-> Dann aber immer Klammern um die Joins setzen
+##### Unterabfragen
+In `FROM` können Unterabfragen verwendet werden 
+- Ergebnis der Unterabfrage ist wie eine Relation 
+- **WICHTIG**: Ergebnis braucht ein „alias“: `(SELECT … FROM … )` **as** `xy` • Alias darf nicht der Name einer existierenden Relation/Attributes/SQL-Befehls sein (z.B. (select … From … ) as count)
 
-##### `WHERE`
+#### `WHERE`
 In `WHERE` kann man Bedingungen an Tupel aus der aus `FROM` resultierenden Relation stellen (Selektion) **Optionen (Beispiele):** 
 1. Relation_1.attr_i `Θ` Relation_2.attr_j 
 	-> mit Θ ∈ =, ≤, <, >, ≥, ≠ 
@@ -50,7 +54,93 @@ In `WHERE` kann man Bedingungen an Tupel aus der aus `FROM` resultierenden Relat
 
 `DISTINCT` soll nur verwendet werden, falls es notwendig ist
 
-#### Änderungsoperationen
+##### Unterabfragen
+Deutlich gängiger sind Unterabfragen in der `WHERE` Klausel 
+- Attribute können mit Ergebnis der Unterabfrage verglichen werden 
+- Nachbildung des Existenzquantors möglich (aber nicht des Allquantors) 
+	-> Allquantor kann durch Negation in Existenzquantor umgewandelt werden
+
+###### Vergleich mit EINEM Wert
+
+```sql
+WHERE ausdruck 𝜃 (SELECT … FROM …) (𝜃 ∈ {<, ≤, ≥, >, =, ≠})
+```
+
+**Aufpassen**: Unterabfrage darf nur einen einzelnen Wert (ein Attribut von einem Tupel) liefern. Das Ergebnis der Unterabfrage wird mit dem Ausdruck verglichen.
+
+**Bsp. :**
+```sql
+SELECT tnr
+FROM LTP
+WHERE Inr = (SELECT Inr FROM L WHERE Iname = "MEIER");
+```
+
+###### Attribut in Liste enthalten
+
+```sql
+WHERE ausdruck [NOT] IN (SELECT … FROM …)
+```
+
+Ausdruck gleicht keinem bzw. Mindestens einem Wert der Unterabfrage 
+**Aufpassen**: Unterabfrage darf mehrere Tupel aber nur ein Attribut enthalten
+
+```sql
+SELECT DISTINCT tnr
+FROM LTP
+WHERE Inr IN (SELECT Inr FROM L WHERE Iname LIKE "m%");
+```
+
+###### Vergleich mit mindestens einem Wert muss stimmen
+
+```sql
+WHERE ausdruck 𝜃 ANY | SOME (SELECT … FROM …)
+```
+
+Bedingung muss für mindestens einen Wert der Unterabfrage erfüllt sein 
+< ANY: weniger als das Maximum 
+\> ANY: mehr als das Minimum 
+= ANY: die selbe Bedeutung wie `IN`
+
+```sql
+SELECT tname
+FROM T
+WHERE gewicht < ANY (SELECT gewicht FROM T)
+```
+
+###### Vergleich mit allen Werten muss stimmen
+
+```sql
+WHERE ausdruck 𝜃 ALL (SELECT … FROM …)
+```
+
+Bedingung muss für alle Werte der Unterabfrage erfüllt sein 
+< ALL: weniger als das Minimum 
+<= ALL: weniger oder gleich dem Minimum -> Minimum bestimmen 
+\>= ALL: mehr oder gleich dem Maximum -> Maximum bestimmen
+
+```sql
+SELECT tname, gewicht
+FROM T
+WHERE gewicht <= ALL (SELECT gewicht FROM T)
+```
+
+###### Existenzquantor simulieren
+
+```sql
+WHERE [NOT] EXISTS (SELECT … FROM … )
+```
+
+Bedingung ist erfüllt, genau dann wenn Ergebnis der Subquery \[leer] nicht leer ist 
+- Meistens in Folge mit Koppelung aus Relationen aus der Außenabfrage
+
+```sql
+SELECT *
+FROM P as p1
+WHERE EXISTS (SELECT * FROM LTP ltp1 WHERE p1.pnr = ltp1.pnr AND ltp1.tnr = "T1")
+```
+-> Alle Projektinformationen wo das Teil T1 geliefert wird
+
+### Änderungsoperationen
 
 ```sql
 INSERT INTO Relation [(attr_1, …, attr_n)] 
@@ -82,7 +172,50 @@ DELETE FROM Relation
 -  Manchmal ist die Reihenfolge der Operationen wichtig 
 - Datenbank entspricht der bekannten Beispielausprägung
 
-### Syntax
+### Sortierung der Ergebnisrelation
+
+```sql
+ORDER BY attribut_1 [, attribute_2, …] ASC | DESC
+```
+
+Legt die aufsteigende / absteigende Reihenfolge fest, in der die Ergebniszeilen ausgegeben werden
+	-> wenn sich zwei Tupel in attribut_1 Gleichen werden sie nach attribute_2 sortiert
+
+### Gruppierung
+Wird benutzt um Informationen über Gruppen in der Relation zu erhalten wie z.B.:
+
+- `AVG(x)` - Mittelwert 
+- `COUNT(x)` - Anzahl der nicht-NULL Werte 
+- `COUNT(DISTINCT x)` - Anzahl der verschiedenen nicht-NULL Werte 
+- `MAX(x)` - Maximum 
+- `MIN(x)` - Minimum 
+- `SUM(x)` - Summe aller Werte
+
+Diese Funktionen nennt man **Aggregatsfunktionen**
+
+```sql
+… GROUP BY attribute_1 [, attribute_2, …] 
+```
+
+Teilt die Zeilen einer Tabelle in Gruppen auf 
+- **WICHTIG**: Alle Attribute in der `SELECT`-Liste, die keine Aggregatfunktion sind, müssen in der `GROUP BY`-Liste enthalten sein 
+
+```SQL
+… HAVING ausdruck 
+```
+
+In der `WHERE`-Klausel können keine Aggregatsfunktionen verwendet werden 
+- Wenn man Bedingungen auf Gruppen definieren will, benutzt die `HAVING`-Klausel
+
+```sql
+SELECT Inr, Iname, SUM(menge) as teile_ gesamt
+FROM LTP NATURAL JOIN L
+GROUP BY Inr, Iname
+HAVING teile_gesamt >= 1000;
+```
+
+![[Pasted image 20240218114912.png]]
+# Syntax
 
 The most common operation in SQL, the query, makes use of the declarative `SELECT` statement.  `SELECT` retrieves data from one or more tables, or expressions. Standard `SELECT` statements have no persistent effects on the database. Some non-standard implementations of `SELECT` can have persistent effects, such as the `SELECT INTO` syntax provided in some databases.
 
