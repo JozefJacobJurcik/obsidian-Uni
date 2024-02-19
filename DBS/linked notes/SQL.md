@@ -1,5 +1,5 @@
 ---
-
+klausur: 3
 ---
 ## SQL Anfragen
 ...  bestehen immer aus: 
@@ -32,7 +32,7 @@
 	-> Theta Join mit Θ ∈ =, ≤, <, >, ≥, ≠ 
 	-> Wenn Θ ∈ {=}, dann Equi Join (Attribute werden nicht eliminiert) 
 	
-4. Relation_1 `JOIN` Relation_2 USING (attribut_i) 
+4. Relation_1 `JOIN` Relation_2 `USING` (attribut_i) 
 	-> attribut_i muss bei beiden Relationen gleich heißen 
 
 -  Es können auch immer mehrere Joins kombiniert werden 
@@ -135,8 +135,8 @@ Bedingung ist erfüllt, genau dann wenn Ergebnis der Subquery \[leer] nicht leer
 
 ```sql
 SELECT *
-FROM P as p1
-WHERE EXISTS (SELECT * FROM LTP ltp1 WHERE p1.pnr = ltp1.pnr AND ltp1.tnr = "T1")
+FROM P AS p1
+WHERE EXISTS (SELECT * FROM LTP AS ltp1 WHERE p1.pnr = ltp1.pnr AND ltp1.tnr = "T1")
 ```
 -> Alle Projektinformationen wo das Teil T1 geliefert wird
 

@@ -4,6 +4,7 @@
 
 # 1. 
 [[tutorium_01.pdf]]
+0. [[Datenbanksystem]]
 1. [[9 zentralen Anforderungen - Edgar Codd]]
 2. [[Datenunabhängigkeit]]
 3. [[Menge]] , [[Relation]] , [[Funktion]] , [[Kartesisches Produkt]] 

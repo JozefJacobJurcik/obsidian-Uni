@@ -1,5 +1,6 @@
 ---
 aliases: Relationenschema, relational model
+klausur: 2
 ---
 ### Geordnetes Relationenschema: 
 -  k-Tupel aus Domains (Attribute) 
@@ -66,4 +67,47 @@ aliases: Relationenschema, relational model
 	 Ergebnis enthält alle linken Hälften von Tupeln aus $R$, die mit allen rechten Hälften von $S$ kombiniert in $R$ auftreten
 
 ![[Pasted image 20240216202109.png]]
+
+### Relational Algebra and SQL
+
+###### Quotient in [[SQL]]:
+
+R(A,B)÷S(B)
+
+```sql
+SELECT A
+FROM R
+WHERE B IN (SELECT B FROM S)
+GROUP BY A
+HAVING COUNT(*) = (SELECT COUNT(*) FROM S)
+```
+
+https://de.wikibooks.org/wiki/Relationenalgebra_und_SQL:_Division
+
+>[!warning] The following was written by AI - copilot
+> While **Relational Algebra (RA)** and **Structured Query Language ([[SQL]])** are closely related, there are certain
+> queries that cannot be directly expressed in RA. Let's explore a few examples:
+> 
+>1. **Finding the Maximum Value**:
+>   - In SQL, you can easily find the maximum value in a column using the `MAX()` function. For instance:
+>```sql
+>SELECT MAX(sID) FROM Students;
+>```
+> - However, in standard RA, there is no direct operation to compute the maximum value.
+>
+>2. **Sorting Results**:
+ >  - SQL allows you to sort query results using the `ORDER BY` clause. For example:
+>     ```sql
+>     SELECT sID, sName FROM Enrolled WHERE cID = 'COMP 4380' ORDER BY sName;
+>     ```
+>   - In RA, sorting is not part of the standard operations because it deals with sets, which have no inherent ordering.
+>
+>3. **Counting Multiple Groups**:
+>   - SQL enables grouping and counting using the `GROUP BY` clause. For instance:
+>     ```sql
+>     SELECT COUNT(sID), cID FROM Enrolled GROUP BY cID;
+>     ```
+>   - In standard RA, counting multiple groups is not directly achievable.
+>
+
 

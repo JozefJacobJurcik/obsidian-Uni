@@ -1,5 +1,6 @@
 ---
-
+aliases: 3-Ebenen-Architektur
+klausur: 1
 ---
 
 ![[Pasted image 20231102204620.png]]

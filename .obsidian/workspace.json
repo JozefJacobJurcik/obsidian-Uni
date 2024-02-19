@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27deb4b3e2e3df47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBS/linked notes/Das Relationale Modell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f023b89a9cc5648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBS/linked notes/Relationenkalkül.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1f0e28e820694f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBS/linked notes/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd8a77a359cf0159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBS/linked notes/Datenunabhängigkeit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBS/Notes ordered by Tutorium exercises.md",
+                "file": "DBS/linked notes/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBS/Notes ordered by Tutorium exercises.md",
+                "file": "DBS/linked notes/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBS/Notes ordered by Tutorium exercises.md"
+                "file": "DBS/linked notes/SQL.md"
               }
             }
           },
@@ -159,8 +208,51 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "2de29eeb0bd26f7f",
+  "floating": {
+    "id": "fa9b2bd46615a064",
+    "type": "floating",
+    "children": [
+      {
+        "id": "570826476c835511",
+        "type": "window",
+        "children": [
+          {
+            "id": "0b7b1033ebb0a293",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a0a34eef673b999b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "DBS/linked notes/attachments/tutorium_05.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 214,
+        "y": -864,
+        "width": 769,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b1f0e28e820694f4",
   "lastOpenFiles": [
+    "DBS/linked notes/attachments/tutorium_05.pdf",
+    "DBS/linked notes/SQL.md",
+    "DBS/linked notes/Relationenkalkül.md",
+    "DBS/linked notes/Das Relationale Modell.md",
+    "DBS/Notes ordered by Tutorium exercises.md",
+    "DBS/linked notes/Datenbanksystem.md",
+    "LDS/Important notes/Menge.md",
+    "DBS/linked notes/Datenunabhängigkeit.md",
     "DBS/linked notes/Transaktion.md",
     "DBS/linked notes/Schedule.md",
     "DBS/linked notes/attachments/DBS Skript.pdf",
@@ -170,7 +262,6 @@
     "LDS/Notes/Reflexiv-transitive Hülle.md",
     "DBS/linked notes/attachments/Pasted image 20240219022353.png",
     "DBS/linked notes/attachments/Pasted image 20240219022143.png",
-    "DBS/Notes ordered by Tutorium exercises.md",
     "BS/Seitenaustauschalgorithmen.md",
     "DBS/linked notes/DB-Normalform.md",
     "DBS/linked notes/Funktionale Abhängigkeit.md",
@@ -190,22 +281,15 @@
     "DBS/linked notes/attachments 1",
     "E",
     "DBS/linked notes/attachments/tutorium_08.pdf",
-    "DBS/linked notes/SQL.md",
     "DBS/linked notes/attachments/Pasted image 20240218114912.png",
     "DBS/linked notes/attachments/tutorium_07.pdf",
-    "DBS/linked notes/Relationenkalkül.md",
-    "DBS/linked notes/attachments/tutorium_06.pdf",
-    "LDS/Important notes/Menge.md",
     "DBS/linked notes/Projektion.md",
-    "DBS/linked notes/Das Relationale Modell.md",
     "Untitled.md",
     "DBS/linked notes/attachments/Pasted image 20240216202109.png",
     "DBS/linked notes/Selektion.md",
     "LDS/Notes/Kartesisches Produkt.md",
     "DBS/linked notes/Schlüssel.md",
     "DBS/linked notes/ACID-Prinzip.md",
-    "DBS/linked notes/Foreign key.md",
-    "DBS/linked notes/Data Definition Language.md",
     "Untitled.canvas"
   ]
 }
