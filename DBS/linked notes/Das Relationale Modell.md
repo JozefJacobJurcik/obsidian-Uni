@@ -1,6 +1,6 @@
 ---
 aliases: Relationenschema, relational model
-klausur: 2
+klausur: 3
 ---
 ### Geordnetes Relationenschema: 
 -  k-Tupel aus Domains (Attribute) 

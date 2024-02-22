@@ -40,7 +40,7 @@
 
 # 9.
 [[tutorium_09.pdf]]
-13. [[R-Modell]]
+13. [[E-R-Modell]]
 
 # 10.
 [[tutorium_10.pdf]]

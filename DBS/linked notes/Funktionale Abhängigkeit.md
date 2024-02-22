@@ -15,6 +15,7 @@ Passnummer → Name
 
 Suppose one is designing a system to track vehicles and the capacity of their engines. Each vehicle has a unique vehicle identification number (VIN). One would write VIN → EngineCapacity because it would be inappropriate for a vehicle's engine to have more than one capacity. (Assuming, in this case, that vehicles only have one engine.) On the other hand, EngineCapacity → VIN is incorrect because there could be many vehicles with the same engine capacity. 
 
+
 ![[Triviale funktionale Abhängigkeit]]
 
 ![[Voll funktionale Abhängigkeit]]

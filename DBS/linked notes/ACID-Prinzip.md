@@ -1,5 +1,5 @@
 ---
-
+klausur: 3
 ---
 more here: [[DBS Skript.pdf#page=401|Skript, page 401]]
 ##### **Atomicity** (Atomarität) 
