@@ -34,3 +34,6 @@
 
 ### 9. 
 18. [[Kryptographische Hash-Funktionen]]
+
+### 10.
+19.  [[Sicherheitsmechanismen]] 

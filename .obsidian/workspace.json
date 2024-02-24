@@ -4,71 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "c9dc6ce3e0c78bb7",
+        "id": "66370ef424c898b0",
         "type": "tabs",
         "children": [
           {
-            "id": "2de29eeb0bd26f7f",
+            "id": "3638d1569f9d5a23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBS/Notes ordered by Tutorium exercises.md",
+                "file": "IT-Sicherheit/Notes/linked notes/Sicherheitsmechanismen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "27deb4b3e2e3df47",
+            "id": "4d0c82b7a8450017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBS/linked notes/Das Relationale Modell.md",
+                "file": "IT-Sicherheit/Notes/linked notes/Identifikation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6f023b89a9cc5648",
+            "id": "ccc12338465c7960",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBS/linked notes/Relationenkalkül.md",
+                "file": "IT-Sicherheit/Notes/linked notes/Autorisierung und Zugriffskontrolle.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b1f0e28e820694f4",
+            "id": "35ca22540820328d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBS/linked notes/SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd8a77a359cf0159",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBS/linked notes/Datenunabhängigkeit.md",
+                "file": "IT-Sicherheit/Notes/linked notes/Authentisierung des Datenursprungs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBS/linked notes/SQL.md",
+                "file": "IT-Sicherheit/Notes/linked notes/Identifikation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBS/linked notes/SQL.md",
+                "file": "IT-Sicherheit/Notes/linked notes/Identifikation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBS/linked notes/SQL.md"
+                "file": "IT-Sicherheit/Notes/linked notes/Identifikation.md"
               }
             }
           },
@@ -208,88 +196,54 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "floating": {
-    "id": "fa9b2bd46615a064",
-    "type": "floating",
-    "children": [
-      {
-        "id": "570826476c835511",
-        "type": "window",
-        "children": [
-          {
-            "id": "0b7b1033ebb0a293",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a0a34eef673b999b",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "DBS/linked notes/attachments/tutorium_05.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 214,
-        "y": -864,
-        "width": 483,
-        "height": 512,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b1f0e28e820694f4",
+  "active": "4d0c82b7a8450017",
   "lastOpenFiles": [
-    "DBS/linked notes/attachments/tutorium_05.pdf",
-    "DBS/linked notes/SQL.md",
-    "DBS/linked notes/Relationenkalkül.md",
-    "DBS/linked notes/Das Relationale Modell.md",
-    "DBS/Notes ordered by Tutorium exercises.md",
-    "DBS/linked notes/Datenbanksystem.md",
-    "LDS/Important notes/Menge.md",
-    "DBS/linked notes/Datenunabhängigkeit.md",
-    "DBS/linked notes/Transaktion.md",
-    "DBS/linked notes/Schedule.md",
-    "DBS/linked notes/attachments/DBS Skript.pdf",
-    "DBS/linked notes/attachments/tutorium_11.pdf",
-    "DBS/linked notes/attachments/tutorium_12.pdf",
-    "DBS/linked notes/attachments/Pasted image 20240219024746.png",
-    "LDS/Notes/Reflexiv-transitive Hülle.md",
-    "DBS/linked notes/attachments/Pasted image 20240219022353.png",
-    "DBS/linked notes/attachments/Pasted image 20240219022143.png",
-    "BS/Seitenaustauschalgorithmen.md",
-    "DBS/linked notes/DB-Normalform.md",
-    "DBS/linked notes/Funktionale Abhängigkeit.md",
-    "DBS/linked notes/attachments/tutorium_10.pdf",
-    "DBS/linked notes/Voll funktionale Abhängigkeit.md",
-    "DBS/linked notes/Attributhülle.md",
-    "DBS/linked notes/Transitive funktionale Abhängigkeit.md",
-    "DBS/linked notes/Partiell funktionale Abhängigkeit.md",
-    "DBS/linked notes/Triviale funktionale Abhängigkeit.md",
-    "DBS/linked notes/attachments/Pasted image 20240219001421.png",
-    "DBS/linked notes/attachments/tutorium_09.pdf",
-    "DBS/linked notes/R-Modell.md",
-    "DBS/linked notes/attachments/Pasted image 20240218120638.png",
-    "DBS/linked notes/attachments/Pasted image 20240218120409.png",
-    "DBS/linked notes/attachments/Pasted image 20240218120216.png",
-    "DBS/linked notes/attachments/Pasted image 20240218120058.png",
-    "DBS/linked notes/attachments 1",
-    "E",
-    "DBS/linked notes/attachments/tutorium_08.pdf",
-    "DBS/linked notes/attachments/Pasted image 20240218114912.png",
-    "DBS/linked notes/attachments/tutorium_07.pdf",
-    "DBS/linked notes/Projektion.md",
-    "Untitled.md",
-    "DBS/linked notes/attachments/Pasted image 20240216202109.png",
-    "DBS/linked notes/Selektion.md",
-    "LDS/Notes/Kartesisches Produkt.md",
-    "DBS/linked notes/Schlüssel.md",
-    "DBS/linked notes/ACID-Prinzip.md",
+    "IT-Sicherheit/Notes/linked notes/Sicherheitsmechanismen.md",
+    "IT-Sicherheit/Notes/linked notes/Identifikation.md",
+    "IT-Sicherheit/Notes/linked notes/Autorisierung und Zugriffskontrolle.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224023456.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224023216.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224022830.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k13-v14.pdf",
+    "IT-Sicherheit/Notes/linked notes/Kerberos.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k10-v14.pdf",
+    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k12-v14.pdf",
+    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k5-v14.pdf",
+    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k4-v14.pdf",
+    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k3-v14.pdf",
+    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k2-v14.pdf",
+    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k11-v14.pdf",
+    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k9-v14.pdf",
+    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k8-v14.pdf",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224021304.png",
+    "IT-Sicherheit/Notes/linked notes/Authentisierung.md",
+    "IT-Sicherheit/Notes/linked notes/Authentisierung des Datenursprungs.md",
+    "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
+    "IT-Sicherheit/Notes/linked notes/Benutzerauthentisierung.md",
+    "IT-Sicherheit/Notes/linked notes/Needham–Schroeder protocol.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224012238.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224012117.png",
+    "IT-Sicherheit/Notes/linked notes/MAC.md",
+    "IT-Sicherheit/Notes/linked notes/HMAC.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224003550.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224003109.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224003007.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224002906.png",
+    "IT-Sicherheit/Notes/linked notes/Steganographie.md",
+    "IT-Sicherheit/Notes/linked notes/Spreu-und-Weizen-Algorithmus.md",
+    "IT-Sicherheit/Notes/Notes ordered.md",
+    "IT-Sicherheit/Notes/linked notes/Kryptographie.md",
+    "IT-Sicherheit/Notes/linked notes/Encryption.md",
+    "IT-Sicherheit/Notes/linked notes/Kryptoregulierung.md",
+    "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
+    "IT-Sicherheit/Notes/linked notes/Data Encryption Standard.md",
+    "IT-Sicherheit/Notes/linked notes/OTP.md",
+    "IT-Sicherheit/Notes/linked notes/S - Key.md",
+    "IT-Sicherheit/Notes/linked notes/Biometrie.md",
+    "CTF/Networking/linked notes/IPsec.md",
+    "IT-Sicherheit/Notes/linked notes/Kryptographische Hash-Funktionen.md",
+    "IT-Sicherheit/Notes/linked notes/SHA-3.md",
+    "IT-Sicherheit/Notes/linked notes/length extension attacks.md",
     "Untitled.canvas"
   ]
 }

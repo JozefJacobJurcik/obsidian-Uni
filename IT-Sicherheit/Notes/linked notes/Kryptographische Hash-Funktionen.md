@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: cryptographic hash function
 ---
 
 ## Hash-Funktionen zur [[Integrität]]ssicherung
@@ -9,7 +9,7 @@ aliases:
 ### Grundlagen
 Hash-Funktionen 
 - bilden „Universum“ auf endlichen Bildbereich ab 
-- sind nicht injektiv 
+- sind nicht [[Injektivität|injektiv]] 
 - Bildbereich i.d.R. sehr viel kleiner als Universum
 - Kollisionen möglich:  
 $$\exists\: x, y \in U : x \ne y \wedge h(x) = h(y)$$
@@ -21,7 +21,7 @@ Kryptographische Hash-Funktion $H$ :
 ### Def. Kryptographische Hashfunktion
 
 *Schwache Hash-Funktion* $H$: 
-- $H$ besitzt die Eigenschaften einer Einwegfunktion 
+- $H$ besitzt die Eigenschaften einer *Einwegfunktion* 
 - Hashwert $H(m) = h$ mit $|h|=k$ (z.B. k = 128 Bits) ist bei gegebener Nachricht m einfach zu berechnen 
 - Bei gegebenem $h = H(m)$ für $m \in A^*_1$ ist es praktisch unmöglich, eine (sinnvolle) $m$‘ zu finden mit:
 $$m´ \ne m \:,\:\:  m´ \in A^*_1 \:\: \wedge \: H(m´)=h $$
@@ -63,6 +63,7 @@ Wie können 2k/2 Variationen erzeugt werden?
 - Folge von Kompressionsfunktionen $G$ 
 - Nachricht $m$ wird in Blöcke $Mi$ mit fester Länge $y$ zerlegt 
 - Hash-Verfahren wird mit Initialisierungswert IV vorbelegt
+
 ![[Pasted image 20240123015008.png]]
 
 Letzter Block $Mn$ muss ggf. auf vorgegebene Länge $y$ „aufgefüllt“ werden (Padding) 
@@ -78,5 +79,22 @@ Als Kompressionsfunktion $G$ können verwendet werden:
 Letzter Output Block ist Hashwert 
 Länge des Hashwerts? - 64 Bits
 
-##### ![[MD5]]
-##### ![[SHA-3]]
+![[MD5]]
+ 
+ ![[SHA-3]]
+### Praktisches Anwendungsbeispiel: Passwort-Hashes
+
+- Krypto-Hashes werden verwendet um Passwörter (PW) zu speichern 
+- Bei PW-Eingabe wird Hash berechnet und mit gespeichertem verglichen 
+	- Hash als Einwegfunktion - Rückrechnung von Hash auf Passwort „schwer“ 
+	- ABER: gleiches Passwort liefert gleichen Hash 
+	- Damit Wörterbuchangriff oder Rainbow-Tables (vgl. Kap. 12) möglich 
+	- Offline Angriff auf gestohlene Hash-Listen
+
+- Abhilfe: 
+	- Salt: Zufallszeichenkette der beim Hash mitberechnet und mitgespeichert wird (vgl. Kap 3) - allerdings länger als beim ursprünglichen crypt - mindestens so lang wie Hash 
+	- Pepper: geheime Information, die nicht mit gespeichert wird: 
+		- gespeichert wird Salt | Hash(Passwort, Salt, Pepper) 
+	- Verwendung spezieller Hash-Funktionen 
+		- vgl. Password Hashing Competition - Gewinner Aragon 
+		- Speicherabhängige Hashes - damit fällt GPU-Vorteil weg

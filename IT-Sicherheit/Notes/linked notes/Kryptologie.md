@@ -8,6 +8,7 @@ Kryptologie = [[Kryptographie]] $\cup$ [[Kryptoanalyse]]
 	Wissenschaft von den Methoden zur Entschlüsselung, ohne im Besitz des Schlüssels zu sein (Angriffe auf kryptographische Verfahren)
 
 ##### Nomenklatur für kryptologische Verfahren
+
 |  |  |
 | ---- | ---- |
 | Ap | Öffentlicher (public) Schlüssel von A |
@@ -15,9 +16,9 @@ Kryptologie = [[Kryptographie]] $\cup$ [[Kryptoanalyse]]
 | Ap{m} | Verschlüsselung der Nachricht m mit dem öffentlichen Schlüssel von A |
 | As{m} oder A{m} | Von A erstellte digitale Signatur von m |
 | S\[m] | Verschlüsselung von m mit dem symmetrischen Schlüssel S |
+^ad0405
 
-
-![[Kryptographische Protokolle]]
+#### ![[Kryptographische Protokolle]]
 
 ![[Steganographie]] 
 

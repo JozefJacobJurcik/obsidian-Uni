@@ -76,4 +76,4 @@ Nachrichtentransport über nicht erkennbare Kanäle/Medien
 - Künstliches Delay in übertragenen Datenpaketen 
 - Nicht Inhalt, sondern Name und Größe einer Datei sind relevant
 
-##### ![[Spreu-und-Weizen-Algorithmus]]
+![[Spreu-und-Weizen-Algorithmus]]
