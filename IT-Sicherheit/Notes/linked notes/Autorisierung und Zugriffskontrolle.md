@@ -17,7 +17,7 @@ Häufig werden Autorisierung und Zugriffskontrolle zusammengefasst
 
 ![[Pasted image 20240224022830.png]]
 
-### Klassifikation
+### Klassifikation+
 **DAC** (*Discretionary Access Control*) 
 - Basieren auf dem Eigentümerprinzip 
 - Eigentümer spezifiziert Berechtigungen an seinen Objekten 

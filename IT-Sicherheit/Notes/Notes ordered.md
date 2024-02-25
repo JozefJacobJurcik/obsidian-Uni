@@ -37,3 +37,20 @@
 
 ### 10.
 19.  [[Sicherheitsmechanismen]] 
+
+### 11.
+12. [[Virtual Private Networks|VPN]]
+13. [[VLAN]]
+14. [[PPP]]
+15. [[PPTP]]
+16. [[IEEE 802.1X]]
+
+### 12.
+17. [[WLAN]]
+18. [[WEP]]
+19. [[WPA]]
+
+### 13.
+20. [[IP]] 
+21. [[IPsec]]
+22. 

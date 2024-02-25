@@ -11,52 +11,11 @@
             "id": "3638d1569f9d5a23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Sicherheitsmechanismen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d0c82b7a8450017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Identifikation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccc12338465c7960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Autorisierung und Zugriffskontrolle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35ca22540820328d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Authentisierung des Datenursprungs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "AES",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Identifikation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Identifikation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Identifikation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,16 +151,46 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4d0c82b7a8450017",
+  "active": "3638d1569f9d5a23",
   "lastOpenFiles": [
-    "IT-Sicherheit/Notes/linked notes/Sicherheitsmechanismen.md",
+    "Poynting-Vektor.md",
+    "IT-Sicherheit/Notes/Notes ordered.md",
+    "IT-Sicherheit/Notes/linked notes/WLAN.md",
+    "IT-Sicherheit/Notes/linked notes/IP.md",
+    "CTF/Networking/linked notes/IPsec.md",
+    "CTF/Networking/linked notes/Security association.md",
+    "CTF/Networking/linked notes/attachments/Pasted image 20240225015910.png",
+    "CTF/Networking/linked notes/attachments/Pasted image 20240225015832.png",
+    "CTF/Networking/linked notes/attachments/Pasted image 20240225015801.png",
+    "CTF/Networking/linked notes/attachments/Pasted image 20240225015738.png",
+    "CTF/Networking/linked notes/attachments/Pasted image 20240224235356.png",
+    "CTF/Networking/linked notes/attachments/Pasted image 20240224235307.png",
+    "CTF/Networking/linked notes/attachments/Pasted image 20240224235251.png",
+    "CTF/Networking/linked notes/attachments/Pasted image 20240224235018.png",
+    "CTF/Networking/linked notes/attachments/Pasted image 20240224234929.png",
+    "CTF/Networking/linked notes/attachments/Pasted image 20240224234820.png",
+    "IT-Sicherheit/Notes/linked notes/WPA3.md",
+    "IT-Sicherheit/Notes/linked notes/AES key schedule.md",
+    "IT-Sicherheit/Notes/linked notes/WPA2.md",
+    "IT-Sicherheit/Notes/linked notes/WPA.md",
+    "IT-Sicherheit/Notes/linked notes/TKIP.md",
+    "IT-Sicherheit/Notes/linked notes/Rainbow Table.md",
+    "IT-Sicherheit/Notes/linked notes/WEP.md",
+    "CTF/Networking/linked notes/PPTP.md",
+    "CTF/Networking/linked notes/Virtual Private Networks.md",
+    "IT-Sicherheit/Notes/linked notes/CRC.md",
+    "CTF/Networking/linked notes/PPP.md",
+    "IT-Sicherheit/Notes/linked notes/IEEE 802.1X.md",
+    "IT-Sicherheit/Notes/attachments",
+    "CTF/Networking/linked notes/UDP.md",
+    "IT-Sicherheit/Notes/linked notes/TCP.md",
+    "CTF/Networking/linked notes/CHAP.md",
+    "CTF/Networking/linked notes/EAP.md",
+    "CTF/Networking/linked notes/PAP.md",
+    "CTF/Networking/linked notes/VLAN.md",
     "IT-Sicherheit/Notes/linked notes/Identifikation.md",
-    "IT-Sicherheit/Notes/linked notes/Autorisierung und Zugriffskontrolle.md",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224023456.png",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224023216.png",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224022830.png",
+    "IT-Sicherheit/Notes/linked notes/Sicherheitsmechanismen.md",
     "IT-Sicherheit/Notes/linked notes/attachments/itsec-k13-v14.pdf",
-    "IT-Sicherheit/Notes/linked notes/Kerberos.md",
     "IT-Sicherheit/Notes/linked notes/attachments/itsec-k10-v14.pdf",
     "IT-Sicherheit/Notes/linked notes/attachments/itsec-k12-v14.pdf",
     "IT-Sicherheit/Notes/linked notes/attachments/itsec-k5-v14.pdf",
@@ -214,36 +199,6 @@
     "IT-Sicherheit/Notes/linked notes/attachments/itsec-k2-v14.pdf",
     "IT-Sicherheit/Notes/linked notes/attachments/itsec-k11-v14.pdf",
     "IT-Sicherheit/Notes/linked notes/attachments/itsec-k9-v14.pdf",
-    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k8-v14.pdf",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224021304.png",
-    "IT-Sicherheit/Notes/linked notes/Authentisierung.md",
-    "IT-Sicherheit/Notes/linked notes/Authentisierung des Datenursprungs.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
-    "IT-Sicherheit/Notes/linked notes/Benutzerauthentisierung.md",
-    "IT-Sicherheit/Notes/linked notes/Needham–Schroeder protocol.md",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224012238.png",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224012117.png",
-    "IT-Sicherheit/Notes/linked notes/MAC.md",
-    "IT-Sicherheit/Notes/linked notes/HMAC.md",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224003550.png",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224003109.png",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224003007.png",
-    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240224002906.png",
-    "IT-Sicherheit/Notes/linked notes/Steganographie.md",
-    "IT-Sicherheit/Notes/linked notes/Spreu-und-Weizen-Algorithmus.md",
-    "IT-Sicherheit/Notes/Notes ordered.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptographie.md",
-    "IT-Sicherheit/Notes/linked notes/Encryption.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptoregulierung.md",
-    "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
-    "IT-Sicherheit/Notes/linked notes/Data Encryption Standard.md",
-    "IT-Sicherheit/Notes/linked notes/OTP.md",
-    "IT-Sicherheit/Notes/linked notes/S - Key.md",
-    "IT-Sicherheit/Notes/linked notes/Biometrie.md",
-    "CTF/Networking/linked notes/IPsec.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptographische Hash-Funktionen.md",
-    "IT-Sicherheit/Notes/linked notes/SHA-3.md",
-    "IT-Sicherheit/Notes/linked notes/length extension attacks.md",
     "Untitled.canvas"
   ]
 }
