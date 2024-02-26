@@ -32,19 +32,29 @@
             }
           },
           {
-            "id": "9905faf8eaaff3bd",
+            "id": "ae0492654b43890c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/Networking/linked notes/PAP.md",
+                "file": "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6e59685fb8ccc22",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "IT-Sicherheit/Notes/Skript.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/Networking/linked notes/PAP.md",
+                "file": "IT-Sicherheit/Notes/Skript.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/Networking/linked notes/PAP.md",
+                "file": "IT-Sicherheit/Notes/Skript.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/Networking/linked notes/PAP.md"
+                "file": "IT-Sicherheit/Notes/Skript.pdf"
               }
             }
           },
@@ -215,23 +225,57 @@
         "height": 825,
         "maximize": true,
         "zoom": 0
+      },
+      {
+        "id": "a6ba5e12f67e56d5",
+        "type": "window",
+        "children": [
+          {
+            "id": "17c34f4776bc5391",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e68ca3fc94b22e20",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "IT-Sicherheit/Notes/WDH_WS2324.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 132,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "9905faf8eaaff3bd",
+  "active": "c6e59685fb8ccc22",
   "lastOpenFiles": [
-    "IT-Sicherheit/Notes/Wiederholung.md",
-    "IT-Sicherheit/Notes/linked notes/Kerberos.md",
-    "IT-Sicherheit/Notes/WDH_WS2324.pdf",
-    "IT-Sicherheit/Notes/Skript.pdf",
-    "CTF/Networking/linked notes/EAP.md",
     "CTF/Networking/linked notes/VLAN.md",
-    "IT-Sicherheit/Notes/linked notes/Identifikation.md",
+    "IT-Sicherheit/Notes/Skript.pdf",
+    "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
+    "IT-Sicherheit/Notes/Wiederholung.md",
+    "IT-Sicherheit/Notes/linked notes/Needham–Schroeder protocol.md",
+    "IT-Sicherheit/Notes/WDH_WS2324.pdf",
+    "IT-Sicherheit/Notes/linked notes/RSA.md",
     "IT-Sicherheit/Notes/Notes ordered.md",
+    "IT-Sicherheit/Notes/linked notes/AES key schedule.md",
+    "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
+    "CTF/Networking/linked notes/PAP.md",
+    "IT-Sicherheit/Notes/linked notes/Kerberos.md",
+    "CTF/Networking/linked notes/EAP.md",
+    "IT-Sicherheit/Notes/linked notes/Identifikation.md",
     "IT-Sicherheit/Notes/linked notes/Sicherheitsmechanismen.md",
     "IT-Sicherheit/Notes/linked notes/Autorisierung und Zugriffskontrolle.md",
     "LDS/to recap.md",
-    "IT-Sicherheit/Notes/linked notes/Needham–Schroeder protocol.md",
     "IT-Sicherheit/Notes/linked notes/Authentisierung des Datenursprungs.md",
     "IT-Sicherheit/Notes/linked notes/HMAC.md",
     "IT-Sicherheit/Notes/linked notes/MAC.md",
@@ -240,13 +284,8 @@
     "IT-Sicherheit/Notes/linked notes/Blockchiffren.md",
     "IT-Sicherheit/Notes/linked notes/Feistel cipher.md",
     "IT-Sicherheit/Notes/linked notes/Confusion.md",
-    "IT-Sicherheit/Notes/linked notes/RSA.md",
-    "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
     "IT-Sicherheit/Notes/linked notes/Kryptographisches System.md",
     "IT-Sicherheit/Notes/linked notes/Symmetrische Verfahren.md",
-    "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptographie.md",
-    "IT-Sicherheit/Notes/linked notes/Strafgesetzbuch.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/attachments",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",

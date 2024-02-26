@@ -21,7 +21,7 @@
 15. [[Symmetrische Verschlüsselungsverfahren]] 
 16. [[Asymmetrische Verfahren]]
 17. [[Blockchiffren]]
-18. [[Advanced Encryption Standard|AES]] ----------
+18. [[Advanced Encryption Standard|AES]] 
 19. [[RSA]] ----------------
 20. [[Confusion]]
 21. [[Diffusion]]
@@ -30,7 +30,7 @@
 24. [[Biometrie]]
 25. [[Authentisierung des Datenursprungs]]
 26. [[MAC]] [[HMAC]] ---------
-27. [[Needham–Schroeder protocol]] ---------
+27. [[Needham–Schroeder protocol]] 
 28. --------------------------------------------------------------------------
 29. [[Kerberos]] ----------
 30. [[Autorisierung und Zugriffskontrolle]]
