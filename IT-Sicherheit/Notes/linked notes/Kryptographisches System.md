@@ -36,6 +36,6 @@ TIMFOPSHKBQPBWAOMAOBQ = Vorlesung it sicherheit
 
 Chiffrentext wird in Blöcken übertragen Leer- und Satzzeichen werden nicht kodiert (Kryptanalyse: Leerzeichen noch häufiger als „e“)
 
-![[Symmetrische Verfahren]]
+![[Symmetrische Verschlüsselungsverfahren]]
 
 ![[Asymmetrische Verfahren]]

@@ -29,7 +29,7 @@ Mindestens zweistufiger Prozess:
 	- „Aussagen“ der CA werden von allen Benutzern als gültig, richtig und wahr angenommen 
 - (Local) Registration Authority (LRA): Nimmt Anträge auf ein Zertifikat (Certification Request) entgegen; führt Personalisierung durch
 
-##### Aufgabenspektrum einer CA
+##### Aufgabenspektrum einer Certification Authority
 
 - Generierung von Zertifikaten (*Certificate Issuance*): Erzeugung der Datenstrukturen und Signatur 
 - Speicherung (*Certification Repository*): Allgemein zugängliches Repository für Zertifikate 

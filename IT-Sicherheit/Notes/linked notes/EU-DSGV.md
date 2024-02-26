@@ -2,7 +2,8 @@
 
 Ziele (Art 5 EU-DSGV) der Verarbeitung 
 - Rechtmäßigkeit, Treu und Glauben, Transparenz (Abs. 1a) 
-- Zweckbindung (Abs. 1b)  Datenminimierung (Abs. 1c) 
+- Zweckbindung (Abs. 1b) 
+- Datenminimierung (Abs. 1c) 
 - Richtigkeit (1d) 
 - Speicherbegrenzung (1e) 
 - Sicherheit (!!!), Integrität, Vertraulichkeit (1f) 

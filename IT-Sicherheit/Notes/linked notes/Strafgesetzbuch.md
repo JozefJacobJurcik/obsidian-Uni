@@ -13,21 +13,13 @@ Strafgesetzbuch (StGB) regelt Strafrecht:
 - [[§ 202d]]: Datenhehlerei 
 - [[§ 205b]]: Strafantrag 
 - [[§ 303a]]: Datenveränderung 
-- § 303b: Computersabotage 
-- § 303c: Strafantrag
+- [[§ 303b]]: Computersabotage 
+- [[§ 303c]]: Strafantrag
 
-![[§ 202a]]
-
-![[§ 202b]]
-
-![[§ 202c]]
-
-![[§ 202d]]
-
-![[§ 205b]]
-
-![[§ 303a]]
-
-![[§ 303b]]
-
-![[§ 303c]]
+**Grundprinzipien**: 
+- ***Verbot mit Erlaubnisvorbehalt*** 
+	- Erhebung, Verarbeitung, Nutzung entweder gesetzlich erlaubt
+	- oder der Betroffene gibt seine Einwilligung (informed consent) 
+- Datenvermeidung und ***Datensparsamkeit*** (Erfordernisprinzip) 
+- ***Zweckbindung*** 
+- ***Transparenz*** (Was, von wem, wozu, wie lange)

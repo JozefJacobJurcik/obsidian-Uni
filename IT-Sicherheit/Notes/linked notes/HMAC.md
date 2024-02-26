@@ -4,7 +4,7 @@ aliases: Hashed MAC
 
 **Gesucht**
 [[MAC]], der nicht symm. Verschlüsselung, sondern kryptographische Hash-Funktion zur Kompression verwendet 
-- Hashes wie SHA-3 sind deutlich schneller als z.B. DES 
+- Hashes wie [[SHA-3]] sind deutlich schneller als z.B. [[Data Encryption Standard|DES]] 
 
 **Problem** 
 Hash-Funktionen verwenden keinen Schlüssel 

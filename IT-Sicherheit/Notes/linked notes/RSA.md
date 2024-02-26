@@ -2,7 +2,6 @@
 
 ---
 
-Benannt nach den Erfindern: Rivest, Shamir, Adleman (1978) 
 Sicherheit basiert auf dem *Faktorisierungsproblem*: 
 - Geg. zwei große Primzahlen $p$ und $q$ (z.B. 200 Dezimalstellen): 
 - $n=pq$ ist auch für große Zahlen einfach zu berechnen, 

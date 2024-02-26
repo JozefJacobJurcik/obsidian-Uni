@@ -8,14 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3638d1569f9d5a23",
+            "id": "1266dfb0e4588ee2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3f4d910217780eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT-Sicherheit/Notes/Wiederholung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9905faf8eaaff3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF/Networking/linked notes/PAP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AES",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CTF/Networking/linked notes/PAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CTF/Networking/linked notes/PAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CTF/Networking/linked notes/PAP.md"
+              }
             }
           },
           {
@@ -137,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,14 +183,77 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "3638d1569f9d5a23",
+  "floating": {
+    "id": "6682beafca967e62",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ee68160c5554acbe",
+        "type": "window",
+        "children": [
+          {
+            "id": "7ab3fb274693488c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0401f9320222d749",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "IT-Sicherheit/Notes/Skript.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 300,
+        "y": -134,
+        "width": 725,
+        "height": 825,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9905faf8eaaff3bd",
   "lastOpenFiles": [
-    "Poynting-Vektor.md",
+    "IT-Sicherheit/Notes/Wiederholung.md",
+    "IT-Sicherheit/Notes/linked notes/Kerberos.md",
+    "IT-Sicherheit/Notes/WDH_WS2324.pdf",
+    "IT-Sicherheit/Notes/Skript.pdf",
+    "CTF/Networking/linked notes/EAP.md",
+    "CTF/Networking/linked notes/VLAN.md",
+    "IT-Sicherheit/Notes/linked notes/Identifikation.md",
     "IT-Sicherheit/Notes/Notes ordered.md",
-    "IT-Sicherheit/Notes/linked notes/WLAN.md",
-    "IT-Sicherheit/Notes/linked notes/IP.md",
-    "CTF/Networking/linked notes/IPsec.md",
-    "CTF/Networking/linked notes/Security association.md",
+    "IT-Sicherheit/Notes/linked notes/Sicherheitsmechanismen.md",
+    "IT-Sicherheit/Notes/linked notes/Autorisierung und Zugriffskontrolle.md",
+    "LDS/to recap.md",
+    "IT-Sicherheit/Notes/linked notes/Needham–Schroeder protocol.md",
+    "IT-Sicherheit/Notes/linked notes/Authentisierung des Datenursprungs.md",
+    "IT-Sicherheit/Notes/linked notes/HMAC.md",
+    "IT-Sicherheit/Notes/linked notes/MAC.md",
+    "IT-Sicherheit/Notes/linked notes/Biometrie.md",
+    "IT-Sicherheit/Notes/linked notes/Kryptographische Hash-Funktionen.md",
+    "IT-Sicherheit/Notes/linked notes/Blockchiffren.md",
+    "IT-Sicherheit/Notes/linked notes/Feistel cipher.md",
+    "IT-Sicherheit/Notes/linked notes/Confusion.md",
+    "IT-Sicherheit/Notes/linked notes/RSA.md",
+    "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
+    "IT-Sicherheit/Notes/linked notes/Kryptographisches System.md",
+    "IT-Sicherheit/Notes/linked notes/Symmetrische Verfahren.md",
+    "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
+    "IT-Sicherheit/Notes/linked notes/Kryptographie.md",
+    "IT-Sicherheit/Notes/linked notes/Strafgesetzbuch.md",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
+    "IT-Sicherheit/attachments",
+    "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
+    "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240225234831.png",
+    "ISO/attachments",
+    "ISO",
+    "IT-Sicherheit/Exercises/2020-ws-itsicherheit-reiser-1.klausur-56.pdf",
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015910.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015832.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015801.png",
@@ -166,39 +261,10 @@
     "CTF/Networking/linked notes/attachments/Pasted image 20240224235356.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240224235307.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240224235251.png",
-    "CTF/Networking/linked notes/attachments/Pasted image 20240224235018.png",
-    "CTF/Networking/linked notes/attachments/Pasted image 20240224234929.png",
-    "CTF/Networking/linked notes/attachments/Pasted image 20240224234820.png",
-    "IT-Sicherheit/Notes/linked notes/WPA3.md",
-    "IT-Sicherheit/Notes/linked notes/AES key schedule.md",
-    "IT-Sicherheit/Notes/linked notes/WPA2.md",
-    "IT-Sicherheit/Notes/linked notes/WPA.md",
-    "IT-Sicherheit/Notes/linked notes/TKIP.md",
-    "IT-Sicherheit/Notes/linked notes/Rainbow Table.md",
-    "IT-Sicherheit/Notes/linked notes/WEP.md",
-    "CTF/Networking/linked notes/PPTP.md",
-    "CTF/Networking/linked notes/Virtual Private Networks.md",
-    "IT-Sicherheit/Notes/linked notes/CRC.md",
-    "CTF/Networking/linked notes/PPP.md",
-    "IT-Sicherheit/Notes/linked notes/IEEE 802.1X.md",
     "IT-Sicherheit/Notes/attachments",
-    "CTF/Networking/linked notes/UDP.md",
-    "IT-Sicherheit/Notes/linked notes/TCP.md",
-    "CTF/Networking/linked notes/CHAP.md",
-    "CTF/Networking/linked notes/EAP.md",
-    "CTF/Networking/linked notes/PAP.md",
-    "CTF/Networking/linked notes/VLAN.md",
-    "IT-Sicherheit/Notes/linked notes/Identifikation.md",
-    "IT-Sicherheit/Notes/linked notes/Sicherheitsmechanismen.md",
     "IT-Sicherheit/Notes/linked notes/attachments/itsec-k13-v14.pdf",
     "IT-Sicherheit/Notes/linked notes/attachments/itsec-k10-v14.pdf",
     "IT-Sicherheit/Notes/linked notes/attachments/itsec-k12-v14.pdf",
-    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k5-v14.pdf",
-    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k4-v14.pdf",
-    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k3-v14.pdf",
-    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k2-v14.pdf",
-    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k11-v14.pdf",
-    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k9-v14.pdf",
     "Untitled.canvas"
   ]
 }

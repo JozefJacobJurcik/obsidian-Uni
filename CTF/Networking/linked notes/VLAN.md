@@ -9,3 +9,7 @@ aliases: Virtual LAN
 
 ![[Pasted image 20240224174331.png]]
 
+### VLAN tag
+
+#todo
+![[Skript.pdf#page=407|Skript, page 407]]

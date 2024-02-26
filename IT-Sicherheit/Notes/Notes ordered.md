@@ -1,4 +1,4 @@
----
+ ---
 
 ---
 ### 2.
@@ -9,9 +9,10 @@
 ### 3.
 4. [[Grundlegendes zur Angriffsanalyse]]
 5. [[Angriffsarten]]
-6. [[Schadsoftware]]
-7. [[Spam]]
-8. [[Systemnahe Angriffe]]
+6. [[Angreifermodell]]
+7. [[Malware]]
+8. [[Spam]]
+9. [[Systemnahe Angriffe]]
 
 ### 4.
 9. [[Social engineering]]
@@ -19,7 +20,8 @@
 ### 5. 
 10. [[Strafgesetzbuch]] (StGB)
 11. [[Datenschutz]] (EU-DGSVO, BayDSG)
-12. [[IT-Sicherheitsgesetz]]
+12. [[Informationelle Selbstbestimmung]]
+13. [[IT-Sicherheitsgesetz]]
 
 ### 6.
 13. [[Kryptologie]]
@@ -53,4 +55,10 @@
 ### 13.
 20. [[IP]] 
 21. [[IPsec]]
-22. 
+22.  idk
+
+### Klausur prep extra
+1. [[Fuzzing]]
+2.  [[Intrusion detection system]]
+3. [[Common Vulnerability Scoring System]]
+4. [[Cross-site scripting]]

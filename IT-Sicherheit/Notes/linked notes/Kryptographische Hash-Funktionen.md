@@ -50,7 +50,7 @@ Wie können Sie dieses Wissen für Angriffe gegen Hash-Funktionen nutzen?
 
 Die Wahrscheinlichkeit für eine Kollision ist größer 0,5. 
 
-Wie können 2k/2 Variationen erzeugt werden? 
+Wie können $2^{k/2}$ Variationen erzeugt werden? 
 - Z.B. Einfügen von „Space – Backspace – Space“ Zeichen zwischen Wörtern 
 - Wörter durch Synonyme ersetzen 
 - .....
