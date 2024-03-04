@@ -18,43 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f3f4d910217780eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/Wiederholung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae0492654b43890c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6e59685fb8ccc22",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "IT-Sicherheit/Notes/Skript.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheit/Notes/Skript.pdf",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheit/Notes/Skript.pdf",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-Sicherheit/Notes/Skript.pdf"
+                "file": "IT-Sicherheit/Notes/Notes ordered.md"
               }
             }
           },
@@ -225,46 +190,17 @@
         "height": 825,
         "maximize": true,
         "zoom": 0
-      },
-      {
-        "id": "a6ba5e12f67e56d5",
-        "type": "window",
-        "children": [
-          {
-            "id": "17c34f4776bc5391",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e68ca3fc94b22e20",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "IT-Sicherheit/Notes/WDH_WS2324.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 132,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
-  "active": "c6e59685fb8ccc22",
+  "active": "1266dfb0e4588ee2",
   "lastOpenFiles": [
-    "CTF/Networking/linked notes/VLAN.md",
-    "IT-Sicherheit/Notes/Skript.pdf",
-    "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
     "IT-Sicherheit/Notes/Wiederholung.md",
-    "IT-Sicherheit/Notes/linked notes/Needham–Schroeder protocol.md",
+    "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
+    "IT-Sicherheit/Notes/Skript.pdf",
     "IT-Sicherheit/Notes/WDH_WS2324.pdf",
+    "CTF/Networking/linked notes/VLAN.md",
+    "IT-Sicherheit/Notes/linked notes/Needham–Schroeder protocol.md",
     "IT-Sicherheit/Notes/linked notes/RSA.md",
     "IT-Sicherheit/Notes/Notes ordered.md",
     "IT-Sicherheit/Notes/linked notes/AES key schedule.md",
