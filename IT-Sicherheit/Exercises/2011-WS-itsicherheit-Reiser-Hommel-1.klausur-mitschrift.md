@@ -32,7 +32,7 @@ Was stimmt hinsichtlich des Needham-Schröder-Verfahrens
 Was trifft auf einen Paketfilter zu
 - Er muss HTTP-Requests erkennen und modifizieren könnne
 - Er muss die Ziel- und Quelladresse ermitteln können
-- Er muss der TCP Destination Port ermitteln können
+- Er muss der [[TCP]] Destination Port ermitteln können
 - Arbeiten auf Schicht 3 und 4
 Was ist für kryptographische Hashfunktionen korrekt: 
 - Sie bilden Nachrichten konstanter Länge auf beliebig lange Hashwerte ab

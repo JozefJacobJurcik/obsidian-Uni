@@ -44,7 +44,7 @@ $$d = e^{-1}\:\operatorname{mod}\: \Phi(n)$$
 
 ### Ver- und Entschlüsselung
 
-Alice kommuniziert ihren öffentlichen Schlüssel $(n,e)$ geeignet an Bob (Ziel hier: [[Authentizität]] von Alice, nicht [[Vertraulichkeit]]!) 
+Alice kommuniziert ihren öffentlichen Schlüssel $(n,e)$ geeignet an Bob (Ziel hier: [[Authentizität]] von Alice, nicht [[Vertraulichkeit]]!)
 
 Bob möchte Nachricht $M$ verschlüsselt an Alice übertragen:
 - Nachricht $M$ wird als Integer-Zahl $m$ aufgefasst, mit $0 \lt m \lt n$  d.h. Nachricht $m$ muss kleiner sein als das RSA-Modul $n$ 

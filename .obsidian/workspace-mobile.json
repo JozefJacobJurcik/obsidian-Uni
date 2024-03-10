@@ -21,9 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BS/Skript.md",
+                "file": "IT-Sicherheit/Notes/linked notes/RSA.md",
                 "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1a3da4ae14535c8e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DBS/linked notes/attachments/tutorium_06.pdf"
               }
             }
           }
@@ -53,7 +63,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Schnelle",
+            "query": "Tcp",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -87,12 +97,14 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9d5d2a02340b9c11",
@@ -104,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "BS/Skript.md",
+            "file": "IT-Sicherheit/Notes/linked notes/RSA.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "BS/Skript.md",
+            "file": "IT-Sicherheit/Notes/linked notes/RSA.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "BS/Skript.md"
+            "file": "IT-Sicherheit/Notes/linked notes/RSA.md"
           }
         }
       }
@@ -153,35 +165,38 @@
   },
   "active": "5535c0dc2a3ae798",
   "lastOpenFiles": [
-    "IT-Sicherheit/Notes/linked notes/Kryptologie.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptographie.md",
-    "IT-Sicherheit/Notes/linked notes/Plaintext.md",
+    "IT-Sicherheit/Notes/Wiederholung.md",
     "IT-Sicherheit/Notes/Notes ordered.md",
-    "LDS/Important notes/Menge.md",
+    "IT-Sicherheit/Notes/linked notes/Common Vulnerability Scoring System.md",
+    "IT-Sicherheit/Exercises/2011-WS-itsicherheit-Reiser-Hommel-1.klausur-mitschrift.md",
+    "IT-Sicherheit/Notes/linked notes/TCP.md",
+    "IT-Sicherheit/Notes/Skript.pdf",
+    "IT-Sicherheit/Notes/linked notes/Diffusion.md",
+    "IT-Sicherheit/Notes/linked notes/Confusion.md",
+    "IT-Sicherheit/Notes/linked notes/Social engineering.md",
+    "IT-Sicherheit/Notes/linked notes/Kerberos.md",
+    "IT-Sicherheit/Notes/linked notes/WPA.md",
+    "IT-Sicherheit/Notes/linked notes/WPA2.md",
+    "IT-Sicherheit/Notes/linked notes/WPA3.md",
+    "IT-Sicherheit/Notes/linked notes/TKIP.md",
+    "CTF/Networking/linked notes/EAP.md",
+    "CTF/Networking/linked notes/IPsec.md",
+    "DBS/linked notes/Transaktion.md",
+    "DBS/Notes ordered by Tutorium exercises.md",
+    "DBS/linked notes/Data Definition Language.md",
+    "DBS/linked notes/9 zentralen Anforderungen - Edgar Codd.md",
+    "DBS/linked notes/ACID-Prinzip.md",
+    "DBS/linked notes/DB-Normalform.md",
+    "DBS/linked notes/Synthesealgorithmus 3. Normalform.md",
+    "DBS/linked notes/Relationenkalkül.md",
+    "DBS/linked notes/SQL.md",
+    "DBS/linked notes/Das Relationale Modell.md",
+    "DBS/linked notes/Anomalien in Datenbanken.md",
+    "DBS/linked notes/attachments/tutorium_06.pdf",
+    "DBS/linked notes/attachments/tutorium_09.pdf",
     "BS/attachments/VorlesungsskriptBetriebssysteme.pdf",
     "BS/attachments",
-    "BS/Skript.md",
     "BS",
-    "LDS/Exercises/irreduzibles Polynom.md",
-    "Math/Polynomdivision.md",
-    "LDS/Important notes/modulo.md",
-    "IT-Sicherheit/Notes/linked notes/IT-Sicherheitsgesetz.md",
-    "LDS/Notes/Körper.md",
-    "LDS/Exercises/Körpererweiterung - exercise.md",
-    "LDS/Notes/erweiterte Euklidische Algorithmus.md",
-    "LDS/Notes/Surjektivität.md",
-    "LDS/Notes/Bijektivität.md",
-    "LDS/Notes/Injektivität.md",
-    "LDS/Notes/Symmetrie.md",
-    "LDS/Important notes/Relation.md",
-    "LDS/Notes/Verband.md",
-    "LDS/Important notes/Ordnungen und Verbände.md",
-    "LDS/Notes/totale Ordnung.md",
-    "LDS/Notes/Partielle Ordnung.md",
-    "LDS/Notes/Antisymmetrie.md",
-    "LDS/Notes/Transitive Hülle.md",
-    "E3p/Schallwellen.md",
-    "E3p/Dispersion.md",
     "E3p",
     "Daily Notes/2023-09-13.md.orig",
     "Daily Notes/Pasted image 20230913130904.png",
@@ -192,8 +207,6 @@
     "git/Attachments/topic-branches-1.png",
     "git/Attachments/lr-branches-2.png",
     "git/Attachments/lr-branches-1.png",
-    "Daily Notes/Attachments/bloček doklad stanley.pdf",
-    "Daily Notes/Attachments/obleky Poľsko.pdf",
-    "Daily Notes"
+    "Daily Notes/Attachments/bloček doklad stanley.pdf"
   ]
 }
