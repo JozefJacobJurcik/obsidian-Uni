@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md",
+                "file": "E3p/Coulombsches Gesetz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md",
+                "file": "E3p/Coulombsches Gesetz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md",
+                "file": "E3p/Coulombsches Gesetz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT-Sicherheit/Notes/Notes ordered.md"
+                "file": "E3p/Coulombsches Gesetz.md"
               }
             }
           },
@@ -158,43 +158,9 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "floating": {
-    "id": "6682beafca967e62",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ee68160c5554acbe",
-        "type": "window",
-        "children": [
-          {
-            "id": "7ab3fb274693488c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0401f9320222d749",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "IT-Sicherheit/Notes/Skript.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 300,
-        "y": -134,
-        "width": 725,
-        "height": 825,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "1266dfb0e4588ee2",
   "lastOpenFiles": [
+    "IT-Sicherheit/Notes/Notes ordered.md",
     "IT-Sicherheit/Notes/Wiederholung.md",
     "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
     "IT-Sicherheit/Notes/Skript.pdf",
@@ -202,7 +168,6 @@
     "CTF/Networking/linked notes/VLAN.md",
     "IT-Sicherheit/Notes/linked notes/Needham–Schroeder protocol.md",
     "IT-Sicherheit/Notes/linked notes/RSA.md",
-    "IT-Sicherheit/Notes/Notes ordered.md",
     "IT-Sicherheit/Notes/linked notes/AES key schedule.md",
     "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
     "CTF/Networking/linked notes/PAP.md",
