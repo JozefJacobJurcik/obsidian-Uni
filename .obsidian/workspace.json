@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E3p/Coulombsches Gesetz.md",
+                "file": "Kompaktseminar Informationssicherheits-Management/Probeklausur.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E3p/Coulombsches Gesetz.md",
+                "file": "Kompaktseminar Informationssicherheits-Management/Probeklausur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E3p/Coulombsches Gesetz.md",
+                "file": "Kompaktseminar Informationssicherheits-Management/Probeklausur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E3p/Coulombsches Gesetz.md"
+                "file": "Kompaktseminar Informationssicherheits-Management/Probeklausur.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "1266dfb0e4588ee2",
   "lastOpenFiles": [
+    "E3p/Coulombsches Gesetz.md",
+    "Kompaktseminar Informationssicherheits-Management/Probeklausur.md",
+    "Kompaktseminar Informationssicherheits-Management",
     "IT-Sicherheit/Notes/Notes ordered.md",
     "IT-Sicherheit/Notes/Wiederholung.md",
     "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
@@ -186,7 +189,6 @@
     "IT-Sicherheit/Notes/linked notes/Feistel cipher.md",
     "IT-Sicherheit/Notes/linked notes/Confusion.md",
     "IT-Sicherheit/Notes/linked notes/Kryptographisches System.md",
-    "IT-Sicherheit/Notes/linked notes/Symmetrische Verfahren.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/attachments",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
@@ -204,7 +206,6 @@
     "IT-Sicherheit/Notes/attachments",
     "IT-Sicherheit/Notes/linked notes/attachments/itsec-k13-v14.pdf",
     "IT-Sicherheit/Notes/linked notes/attachments/itsec-k10-v14.pdf",
-    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k12-v14.pdf",
     "Untitled.canvas"
   ]
 }
