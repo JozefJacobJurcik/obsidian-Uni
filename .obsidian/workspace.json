@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StoSta/hytjyt.md",
+                "file": "DBS/linked notes/Datenunabhängigkeit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StoSta/hytjyt.md",
+                "file": "DBS/linked notes/Datenunabhängigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StoSta/hytjyt.md",
+                "file": "DBS/linked notes/Datenunabhängigkeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StoSta/hytjyt.md"
+                "file": "DBS/linked notes/Datenunabhängigkeit.md"
               }
             }
           },
@@ -159,10 +159,24 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "da115dda2911a4ed",
+  "active": "1266dfb0e4588ee2",
   "lastOpenFiles": [
-    "LDS/Important notes/Aussagenlogik.md",
+    "DBS/Notes ordered by Tutorium exercises.md",
+    "BS/Zustands-Prozessmodell.md",
+    "BS/Skript.md",
+    "BS/Seitenaustauschalgorithmen.md",
+    "BS/Scheduling-Algorithmen.md",
+    "Math/Euler‘sche Phi-Funktion.md",
+    "LDS/Important notes/Funktion.md",
+    "LDS/Important notes/Beweise LDS.md",
+    "StoSta/Notes ordered.md",
+    "RNVS/Notes ordered.md",
+    "FSK/Notes ordered.md",
+    "FSK/dhs.md",
     "StoSta/hytjyt.md",
+    "RNVS/gfjfgj.md",
+    "IT-Sicherheit/Notes/Notes ordered.md",
+    "LDS/Important notes/Aussagenlogik.md",
     "FSK",
     "StoSta",
     "RNVS",
@@ -172,7 +186,6 @@
     "Kompaktseminar Informationssicherheits-Management/Probeklausur.md",
     "E3p/Coulombsches Gesetz.md",
     "Kompaktseminar Informationssicherheits-Management",
-    "IT-Sicherheit/Notes/Notes ordered.md",
     "IT-Sicherheit/Notes/Wiederholung.md",
     "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
     "IT-Sicherheit/Notes/Skript.pdf",
@@ -180,19 +193,6 @@
     "CTF/Networking/linked notes/VLAN.md",
     "IT-Sicherheit/Notes/linked notes/Needham–Schroeder protocol.md",
     "IT-Sicherheit/Notes/linked notes/RSA.md",
-    "IT-Sicherheit/Notes/linked notes/AES key schedule.md",
-    "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
-    "CTF/Networking/linked notes/PAP.md",
-    "IT-Sicherheit/Notes/linked notes/Kerberos.md",
-    "CTF/Networking/linked notes/EAP.md",
-    "IT-Sicherheit/Notes/linked notes/Identifikation.md",
-    "IT-Sicherheit/Notes/linked notes/Sicherheitsmechanismen.md",
-    "IT-Sicherheit/Notes/linked notes/Autorisierung und Zugriffskontrolle.md",
-    "LDS/to recap.md",
-    "IT-Sicherheit/Notes/linked notes/Authentisierung des Datenursprungs.md",
-    "IT-Sicherheit/Notes/linked notes/HMAC.md",
-    "IT-Sicherheit/Notes/linked notes/MAC.md",
-    "IT-Sicherheit/Notes/linked notes/Biometrie.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/attachments",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
