@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kompaktseminar Informationssicherheits-Management/Probeklausur.md",
+                "file": "LDS/Important notes/Aussagenlogik.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kompaktseminar Informationssicherheits-Management/Probeklausur.md",
+                "file": "LDS/Important notes/Aussagenlogik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kompaktseminar Informationssicherheits-Management/Probeklausur.md",
+                "file": "LDS/Important notes/Aussagenlogik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kompaktseminar Informationssicherheits-Management/Probeklausur.md"
+                "file": "LDS/Important notes/Aussagenlogik.md"
               }
             }
           },
@@ -145,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +159,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "1266dfb0e4588ee2",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
-    "E3p/Coulombsches Gesetz.md",
+    "FSK",
+    "StoSta",
+    "RNVS",
+    "LDS/Important notes/Menge.md",
+    "LDS/Important notes/Aussagenlogik.md",
+    "LDS/Notes/Kommutativgesetz.md",
+    "LDS/Important notes/Algebra.md",
     "Kompaktseminar Informationssicherheits-Management/Probeklausur.md",
+    "E3p/Coulombsches Gesetz.md",
     "Kompaktseminar Informationssicherheits-Management",
     "IT-Sicherheit/Notes/Notes ordered.md",
     "IT-Sicherheit/Notes/Wiederholung.md",
@@ -184,11 +192,6 @@
     "IT-Sicherheit/Notes/linked notes/HMAC.md",
     "IT-Sicherheit/Notes/linked notes/MAC.md",
     "IT-Sicherheit/Notes/linked notes/Biometrie.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptographische Hash-Funktionen.md",
-    "IT-Sicherheit/Notes/linked notes/Blockchiffren.md",
-    "IT-Sicherheit/Notes/linked notes/Feistel cipher.md",
-    "IT-Sicherheit/Notes/linked notes/Confusion.md",
-    "IT-Sicherheit/Notes/linked notes/Kryptographisches System.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/attachments",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
@@ -204,8 +207,6 @@
     "CTF/Networking/linked notes/attachments/Pasted image 20240224235307.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240224235251.png",
     "IT-Sicherheit/Notes/attachments",
-    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k13-v14.pdf",
-    "IT-Sicherheit/Notes/linked notes/attachments/itsec-k10-v14.pdf",
     "Untitled.canvas"
   ]
 }
