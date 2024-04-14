@@ -35,5 +35,6 @@
   ],
   "spellcheck": true,
   "propertiesInDocument": "source",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "promptDelete": false
 }
