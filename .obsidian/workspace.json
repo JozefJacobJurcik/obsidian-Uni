@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d725b8916a93890",
+        "id": "9ceab0a894dadc0d",
         "type": "tabs",
         "children": [
           {
-            "id": "d7771da5d293d895",
+            "id": "ea096f41c9bc9c9c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LDS/to recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LDS/to recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LDS/to recap.md"
+              }
             }
           },
           {
@@ -137,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,9 +154,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d7771da5d293d895",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
-    "Bell-Zahlen.md",
+    "LDS/Notes/Verband.md",
+    "LDS/Notes/Bell-Zahlen.md",
     "E3p/Elektrische Feldstärke.md",
     "DBS/linked notes/Relationenkalkül.md",
     "LDS/Notes/Bijektivität.md",
@@ -185,7 +189,6 @@
     "CTF/Networking/linked notes/EAP.md",
     "IT-Sicherheit/Notes/linked notes/Identifikation.md",
     "IT-Sicherheit/Notes/linked notes/Sicherheitsmechanismen.md",
-    "IT-Sicherheit/Notes/linked notes/Autorisierung und Zugriffskontrolle.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/attachments",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
