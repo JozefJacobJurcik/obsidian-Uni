@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "path:LDS  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 13.90625,
   "linkStrength": 0.596354166666667,
   "linkDistance": 30,
-  "scale": 0.11660891579457336,
+  "scale": 0.21124811816029956,
   "close": true
 }

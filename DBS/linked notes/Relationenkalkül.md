@@ -73,7 +73,7 @@ This is how I understand it so take it with a grain of salt.
 ### Bereichskalkül
 
 ##### Formeln
-- Es dreht sich um die einzelnen Bereiche von Relationen (Domänen) 
+- Es dreht sich um die einzelnen Bereiche von [[Relation]]en (Domänen) 
 - Bereichsvariablen $𝑥_1: 𝐷_1, … , 𝑥_𝑘: 𝐷_𝑘$ für einzelne Attribute 
 
 - Kleinste Bestandteile sind wieder die *Atome*: 
@@ -117,7 +117,7 @@ The position in the relation defines the attribute and every one that is not nee
 ---
 If you need to use a different variable that is not in the `1st part` or you need to use a variable and you don't already have the primary key for its relation ... you will have to add the `2nd part`. 
 
-Its just: 
+The `2nd part` would be just: 
 `∃ variable_you_need, another_ one : ` 
 
 in this example from 6.1.c it is needed to add `AbNr` so you can get to `FilNr`:
