@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/Aussagenlogik.md",
+                "file": "StoSta/hytjyt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Important notes/Aussagenlogik.md",
+                "file": "StoSta/hytjyt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Important notes/Aussagenlogik.md",
+                "file": "StoSta/hytjyt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Important notes/Aussagenlogik.md"
+                "file": "StoSta/hytjyt.md"
               }
             }
           },
@@ -161,11 +161,12 @@
   },
   "active": "da115dda2911a4ed",
   "lastOpenFiles": [
+    "LDS/Important notes/Aussagenlogik.md",
+    "StoSta/hytjyt.md",
     "FSK",
     "StoSta",
     "RNVS",
     "LDS/Important notes/Menge.md",
-    "LDS/Important notes/Aussagenlogik.md",
     "LDS/Notes/Kommutativgesetz.md",
     "LDS/Important notes/Algebra.md",
     "Kompaktseminar Informationssicherheits-Management/Probeklausur.md",
@@ -206,7 +207,6 @@
     "CTF/Networking/linked notes/attachments/Pasted image 20240224235356.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240224235307.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240224235251.png",
-    "IT-Sicherheit/Notes/attachments",
     "Untitled.canvas"
   ]
 }
