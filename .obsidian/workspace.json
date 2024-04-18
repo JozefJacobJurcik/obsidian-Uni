@@ -11,8 +11,10 @@
             "id": "ea096f41c9bc9c9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "CoIn/Altklausuren/def-sheet-final.pdf"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e0bd09651e7598ef",
@@ -81,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/to recap.md",
+                "file": "CoIn/Altklausuren/def-sheet-final.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/to recap.md",
+                "file": "CoIn/Altklausuren/def-sheet-final.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/to recap.md"
+                "file": "CoIn/Altklausuren/def-sheet-final.pdf"
               }
             }
           },
@@ -141,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,8 +158,19 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "da115dda2911a4ed",
+  "active": "ea096f41c9bc9c9c",
   "lastOpenFiles": [
+    "CoIn/Altklausuren/2022-ws-coin-gabor-0.klausur-18.pdf",
+    "CoIn/Altklausuren/def-sheet-final.pdf",
+    "CoIn/Altklausuren/exam_solution.pdf",
+    "CoIn/Altklausuren/exam.pdf",
+    "CoIn/Altklausuren/2023-ws-coin-gabor-1.klausur-loesung-19.pdf",
+    "CoIn/Altklausuren/2023-ws-coin-gabor-1.klausur-19.pdf",
+    "CoIn/Altklausuren/2023-ws-coin-gabor-0.klausur-loesung-22.pdf",
+    "CoIn/Altklausuren/2023-ws-coin-gabor-0.klausur-20.pdf",
+    "CoIn/Altklausuren/2022-ws-coin-gabor-2.klausur-loesung-17.pdf.pdf",
+    "CoIn/Altklausuren/2022-ws-coin-gabor-1.klausur-loesung-17.pdf",
+    "CoIn/Altklausuren/2022-ws-coin-gabor-2.klausur-17.pdf",
     "LDS/Notes/Verband.md",
     "LDS/Notes/Bell-Zahlen.md",
     "E3p/Elektrische Feldstärke.md",
@@ -165,20 +180,13 @@
     "DBS/Notes ordered by Tutorium exercises.md",
     "1 README/README.md",
     "StoSta/Notes ordered.md",
-    "StoSta",
     "RNVS/Notes ordered.md",
-    "RNVS",
     "FSK/Notes ordered.md",
-    "FSK",
     "Kompaktseminar Informationssicherheits-Management/Probeklausur.md",
-    "1 README",
     "E3p/Coulombsches Gesetz.md",
-    "Kompaktseminar Informationssicherheits-Management",
     "IT-Sicherheit/Notes/Notes ordered.md",
     "IT-Sicherheit/Notes/Wiederholung.md",
     "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
-    "IT-Sicherheit/Notes/Skript.pdf",
-    "IT-Sicherheit/Notes/WDH_WS2324.pdf",
     "CTF/Networking/linked notes/VLAN.md",
     "IT-Sicherheit/Notes/linked notes/Needham–Schroeder protocol.md",
     "IT-Sicherheit/Notes/linked notes/RSA.md",
@@ -188,13 +196,9 @@
     "IT-Sicherheit/Notes/linked notes/Kerberos.md",
     "CTF/Networking/linked notes/EAP.md",
     "IT-Sicherheit/Notes/linked notes/Identifikation.md",
-    "IT-Sicherheit/Notes/linked notes/Sicherheitsmechanismen.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
-    "IT-Sicherheit/attachments",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240225234831.png",
-    "ISO/attachments",
-    "ISO",
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015910.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015832.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015801.png",
