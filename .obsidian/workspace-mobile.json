@@ -19,9 +19,11 @@
             "id": "5535c0dc2a3ae798",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CoIn/Altklausuren/exam_solution.pdf"
+                "file": "DBS/linked notes/SQL.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -114,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CoIn/Altklausuren/exam_solution.pdf",
+            "file": "DBS/linked notes/SQL.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CoIn/Altklausuren/exam_solution.pdf",
+            "file": "DBS/linked notes/SQL.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CoIn/Altklausuren/exam_solution.pdf"
+            "file": "DBS/linked notes/SQL.md"
           }
         }
       }
@@ -163,6 +165,11 @@
   },
   "active": "5535c0dc2a3ae798",
   "lastOpenFiles": [
+    "DBS/Notes ordered by Tutorium exercises.md",
+    "LDS/Important notes/Menge.md",
+    "LDS/Exercises/Körpererweiterung - exercise.md",
+    "LDS/Exercises/ggT Polynome.md",
+    "CoIn/Altklausuren/exam_solution.pdf",
     "IT-Sicherheit/Notes/linked notes/RSA.md",
     "IT-Sicherheit/Notes/Wiederholung.md",
     "IT-Sicherheit/Notes/Notes ordered.md",
@@ -181,15 +188,11 @@
     "CTF/Networking/linked notes/EAP.md",
     "CTF/Networking/linked notes/IPsec.md",
     "DBS/linked notes/Transaktion.md",
-    "DBS/Notes ordered by Tutorium exercises.md",
     "DBS/linked notes/Data Definition Language.md",
     "DBS/linked notes/9 zentralen Anforderungen - Edgar Codd.md",
     "DBS/linked notes/ACID-Prinzip.md",
     "DBS/linked notes/DB-Normalform.md",
     "DBS/linked notes/Synthesealgorithmus 3. Normalform.md",
-    "DBS/linked notes/Relationenkalkül.md",
-    "DBS/linked notes/SQL.md",
-    "DBS/linked notes/Das Relationale Modell.md",
     "DBS/linked notes/attachments/tutorium_06.pdf",
     "DBS/linked notes/attachments/tutorium_09.pdf",
     "BS/attachments/VorlesungsskriptBetriebssysteme.pdf",
@@ -204,7 +207,6 @@
     "git/Attachments/topic-branches-2.png",
     "git/Attachments/topic-branches-1.png",
     "git/Attachments/lr-branches-2.png",
-    "git/Attachments/lr-branches-1.png",
-    "Daily Notes/Attachments/bloček doklad stanley.pdf"
+    "git/Attachments/lr-branches-1.png"
   ]
 }
