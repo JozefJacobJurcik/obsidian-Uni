@@ -11,9 +11,35 @@
             "id": "ea096f41c9bc9c9c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CoIn/Altklausuren/def-sheet-final.pdf"
+                "file": "LDS/Important notes/Kombinatorik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc450b271237f781",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LDS/Notes/Binomialkoeffizient.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2115e21768db0c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LDS/Notes/Binomialkoeffizient.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e0bd09651e7598ef",
@@ -84,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CoIn/Altklausuren/def-sheet-final.pdf",
+                "file": "LDS/Important notes/Kombinatorik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoIn/Altklausuren/def-sheet-final.pdf",
+                "file": "LDS/Important notes/Kombinatorik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CoIn/Altklausuren/def-sheet-final.pdf"
+                "file": "LDS/Important notes/Kombinatorik.md"
               }
             }
           },
@@ -160,8 +185,10 @@
   },
   "active": "ea096f41c9bc9c9c",
   "lastOpenFiles": [
-    "CoIn/Altklausuren/2022-ws-coin-gabor-0.klausur-18.pdf",
+    "LDS/Notes/Binomialkoeffizient.md",
+    "LDS/Important notes/Kombinatorik.md",
     "CoIn/Altklausuren/def-sheet-final.pdf",
+    "CoIn/Altklausuren/2022-ws-coin-gabor-0.klausur-18.pdf",
     "CoIn/Altklausuren/exam_solution.pdf",
     "CoIn/Altklausuren/exam.pdf",
     "CoIn/Altklausuren/2023-ws-coin-gabor-1.klausur-loesung-19.pdf",
@@ -170,7 +197,6 @@
     "CoIn/Altklausuren/2023-ws-coin-gabor-0.klausur-20.pdf",
     "CoIn/Altklausuren/2022-ws-coin-gabor-2.klausur-loesung-17.pdf.pdf",
     "CoIn/Altklausuren/2022-ws-coin-gabor-1.klausur-loesung-17.pdf",
-    "CoIn/Altklausuren/2022-ws-coin-gabor-2.klausur-17.pdf",
     "LDS/Notes/Verband.md",
     "LDS/Notes/Bell-Zahlen.md",
     "E3p/Elektrische Feldstärke.md",
@@ -195,7 +221,6 @@
     "CTF/Networking/linked notes/PAP.md",
     "IT-Sicherheit/Notes/linked notes/Kerberos.md",
     "CTF/Networking/linked notes/EAP.md",
-    "IT-Sicherheit/Notes/linked notes/Identifikation.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240225234831.png",
