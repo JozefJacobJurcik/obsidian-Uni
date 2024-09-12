@@ -1,3 +1,7 @@
+---
+
+---
+
 > Unter einer Menge verstehen wir jede Zusammenfassung M von bestimmten wohlunterschiedenen Objekten (m) unserer Anschauung oder unseres Denkens (welche die Elemente von M genannt werden) zu einem Ganzen.
 
 \- Georg Cantor
@@ -20,7 +24,7 @@ A ∪ B := { x ; x ∈ A oder x ∈ B }
 ##### Durchschnitt 
 A ∩ B := { x ; x ∈ A und x ∈ B }
 ##### Differenz 
-A \\ B := { x ; x ∈ A und x ∈/ B }
+A \\ B := { x ; x ∈ A und x $\notin$ B }
 ##### Symmetrische Differenz 
 A △ B := A \\ B ∪ B \\ A
 

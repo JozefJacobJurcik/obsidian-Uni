@@ -4,43 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9ceab0a894dadc0d",
+        "id": "6d065eacc1b0d6b7",
         "type": "tabs",
         "children": [
           {
-            "id": "ea096f41c9bc9c9c",
+            "id": "294263e6705f9ad3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/Kombinatorik.md",
+                "file": "LDS/Notes/Verband.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc450b271237f781",
+            "id": "76f17b0622f87051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Notes/Binomialkoeffizient.md",
+                "file": "LDS/Important notes/Ordnungen und Verbände.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2115e21768db0c19",
+            "id": "566409c8b3148021",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LDS/Notes/Binomialkoeffizient.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Important notes/Kombinatorik.md",
+                "file": "LDS/Notes/Verband.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Important notes/Kombinatorik.md",
+                "file": "LDS/Notes/Verband.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Important notes/Kombinatorik.md"
+                "file": "LDS/Notes/Verband.md"
               }
             }
           },
@@ -183,44 +179,44 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "da115dda2911a4ed",
+  "active": "294263e6705f9ad3",
   "lastOpenFiles": [
+    "LDS/Important notes/Ordnungen und Verbände.md",
+    "LDS/Notes/Infimum und Supremum.md",
+    "LDS/Notes/totale Ordnung.md",
+    "LDS/Notes/Minimale und Maximale Elemente.md",
+    "LDS/Important notes/Aussagenlogik.md",
+    "LDS/Notes/Transitive Hülle.md",
+    "LDS/Notes/Reflexiv-transitive Hülle.md",
+    "Algorithms/Warshall-Algorithmus.md",
+    "LDS/Important notes/modulo.md",
+    "LDS/Important notes/Funktion.md",
+    "LDS/Notes/Permutation.md",
+    "LDS/Notes/Umkehrfunktion.md",
+    "LDS/Notes/Identitätsfunktion.md",
+    "LDS/Notes/Bijektivität.md",
+    "LDS/Notes/Surjektivität.md",
+    "LDS/Notes/Injektivität.md",
+    "LDS/Important notes/Relation.md",
+    "LDS/Notes/Äquivalenzklassen.md",
+    "LDS/Notes/Partielle Ordnung.md",
+    "LDS/Notes/Quasiordnung.md",
+    "LDS/Notes/Äquivalenzrelation.md",
+    "LDS/Notes/Transitivität.md",
+    "LDS/Notes/Antisymmetrie.md",
+    "LDS/Notes/Symmetrie.md",
+    "LDS/Notes/Reflexivität.md",
+    "LDS/Important notes/Menge.md",
     "StoSta/A/2017-ss-stochastik_statistik-scheipl-heller-2.klausur_Loesung_4.pdf",
     "StoSta/A/2018-ss-stochastik_statistik-scheipl-1.klausur-4.pdf",
     "StoSta/A/2018-ss-stochastik_statistik-scheipl-1.klausur_Loesung-4.pdf",
     "StoSta/A/2017-ss-stochastik_statistik-scheipl-heller-2.klausur-5.pdf",
     "StoSta/A",
-    "LDS/Notes/Binomialkoeffizient.md",
-    "LDS/Important notes/Kombinatorik.md",
     "CoIn/Altklausuren/def-sheet-final.pdf",
     "CoIn/Altklausuren/2022-ws-coin-gabor-0.klausur-18.pdf",
     "CoIn/Altklausuren/exam_solution.pdf",
     "CoIn/Altklausuren/exam.pdf",
     "CoIn/Altklausuren/2023-ws-coin-gabor-1.klausur-loesung-19.pdf",
-    "CoIn/Altklausuren/2023-ws-coin-gabor-1.klausur-19.pdf",
-    "LDS/Notes/Verband.md",
-    "LDS/Notes/Bell-Zahlen.md",
-    "E3p/Elektrische Feldstärke.md",
-    "DBS/linked notes/Relationenkalkül.md",
-    "LDS/Notes/Bijektivität.md",
-    "IT-Sicherheit/Notes/linked notes/Bell LaPadula Modell.md",
-    "DBS/Notes ordered by Tutorium exercises.md",
-    "1 README/README.md",
-    "StoSta/Notes ordered.md",
-    "RNVS/Notes ordered.md",
-    "FSK/Notes ordered.md",
-    "Kompaktseminar Informationssicherheits-Management/Probeklausur.md",
-    "E3p/Coulombsches Gesetz.md",
-    "IT-Sicherheit/Notes/Notes ordered.md",
-    "IT-Sicherheit/Notes/Wiederholung.md",
-    "IT-Sicherheit/Notes/linked notes/Advanced Encryption Standard.md",
-    "CTF/Networking/linked notes/VLAN.md",
-    "IT-Sicherheit/Notes/linked notes/Needham–Schroeder protocol.md",
-    "IT-Sicherheit/Notes/linked notes/RSA.md",
-    "IT-Sicherheit/Notes/linked notes/AES key schedule.md",
-    "IT-Sicherheit/Notes/linked notes/Symmetrische Verschlüsselungsverfahren.md",
-    "CTF/Networking/linked notes/PAP.md",
-    "IT-Sicherheit/Notes/linked notes/Kerberos.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240225234831.png",

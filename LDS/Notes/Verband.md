@@ -7,7 +7,7 @@ Eine [[Menge]] $A$ mit [[Partielle Ordnung]] $\preceq$ ist ein **Verband**, wenn
 ### Rechenregeln
 
 Sei $A$ mit der Ordnung $\sqsubseteq$ ein Verband. 
-Wir schreiben $a \sqcup b$ für das [[Infimum und Supremum|Supremum]],  und $a \sqcup b$ für das *Infimum* von $a$ und $b$. *Infimum* und *Supremum* erfüllen die folgenden Gesetze:  
+Wir schreiben $a \sqcup b$ für das [[Infimum und Supremum|Supremum]],  und $a \sqcap b$ für das *Infimum* von $a$ und $b$. *Infimum* und *Supremum* erfüllen die folgenden Gesetze:  
 
 $a \sqsubseteq b$   *gdw.*   $a \sqcap b = a$   *gdw.*   $a \sqcup b = b$ 
 
