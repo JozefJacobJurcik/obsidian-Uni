@@ -17,3 +17,12 @@ $$\phi (g^{-1})=\phi (g)^{-1}$$
 für alle $g ∈ G$ gelten muss sowie, mittels [[Vollständige Induktion]], dass
 $$\phi (g_{1}*\ldots *g_{n})=\phi (g_{1})\star \ldots \star \phi (g_{n})$$
 für eine beliebige endliche Anzahl von Faktoren gilt.
+
+###### Beispiel 2:
+
+The real numbers are a [[ring]], having both addition and multiplication. The set of all _2×2 matrices_ is also a ring, under matrix addition and matrix multiplication. If we define a function between these rings as follows:
+$${\displaystyle f(r)={\begin{pmatrix}r&0\\0&r\end{pmatrix}}}$$
+where $r$ is a real number, then $f$ is a __homomorphism__ of rings, since $f$ preserves both addition:
+$${\displaystyle f(r+s)={\begin{pmatrix}r+s&0\\0&r+s\end{pmatrix}}={\begin{pmatrix}r&0\\0&r\end{pmatrix}}+{\begin{pmatrix}s&0\\0&s\end{pmatrix}}=f(r)+f(s)}$$
+and multiplication:
+$${\displaystyle f(rs)={\begin{pmatrix}rs&0\\0&rs\end{pmatrix}}={\begin{pmatrix}r&0\\0&r\end{pmatrix}}{\begin{pmatrix}s&0\\0&s\end{pmatrix}}=f(r)\,f(s)}$$
