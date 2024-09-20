@@ -4,6 +4,7 @@ Zeigen Sie durch einen Resolutionsbeweis, dass die folgende Formel unerfüllbar 
 
 ---
 Wir befüllen die Sequenzenfolge erstmal mit den bekannten Klauseln 
+
 0. $(\overline x_1 ∨ \overline x_2)$ 
 1. $(\overline x_1 ∨ x_2)$ 
 2. $(\overline x_0 ∨ x_1 ∨ x_2)$ 
@@ -24,4 +25,4 @@ oder alternative Herleitung:
 5. $(\overline x_1)$ aus (0,1) 
 6. $(\overline x_0 ∨ x_1)$ aus (2,4) 
 7. $(x_1)$ aus (3,6) 
-8. $()$ aus (5,7
+8. $()$ aus (5,7)

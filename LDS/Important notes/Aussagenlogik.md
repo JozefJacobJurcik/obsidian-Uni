@@ -23,7 +23,7 @@ Notation: (F ↔ G) steht für  $((A → B) ∧ (B → A))$
 Damit: $(A ↔ B)$ ist wahr, gdw. A und B sind äquivalent.
 
 ##### Algebra der Wahrheitswerte
-Die Menge der Wahrheitswerte ist $\mathbb B = {0, 1}$, mit $0 \:\widehat{=}$ falsch, $1 \:\widehat{=}$wahr. Auf der [[Menge]] $\mathbb B$ sind die Operationen $¬, ∧, ∨, →$ definiert durch:
+Die Menge der Wahrheitswerte ist $\mathbb B = {0, 1}$, mit $0 \:\widehat{=}$ falsch, $1 \:\widehat{=}$ wahr. Auf der [[Menge]] $\mathbb B$ sind die Operationen $¬, ∧, ∨, →$ definiert durch:
 ![[Pasted image 20231011214444.png]]
 $∧$ und $∨$ sind [[Infimum und Supremum]] in der Ordnung 0 ≤ 1.
 	Rechenregeln im [[Verband]] gelten.

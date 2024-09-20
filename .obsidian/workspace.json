@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/1 Notes ordered.md",
+                "file": "LDS/Notes/Schlussregeln.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Important notes/Algebra.md",
+                "file": "LDS/to recap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "magma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LDS/Important notes/Algebra.md",
+                "file": "LDS/Notes/Schlussregeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LDS/Important notes/Algebra.md",
+                "file": "LDS/Notes/Schlussregeln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LDS/Important notes/Algebra.md"
+                "file": "LDS/Notes/Schlussregeln.md"
               }
             }
           },
@@ -172,34 +172,34 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4d579629f91d7386",
+  "active": "76f17b0622f87051",
   "lastOpenFiles": [
-    "LDS/Important notes/1 Notes ordered.md",
-    "LDS/Important notes/Algebra.md",
-    "LDS/Notes/Untergruppe.md",
-    "LDS/Notes/primitives Element.md",
-    "LDS/Exercises/Negations-Normalform - exercise.md",
-    "LDS/Exercises/Körpererweiterung - exercise.md",
-    "LDS/Notes/Nebenklasse.md",
-    "LDS/Notes/Distributivgesetz.md",
-    "LDS/Important notes/Beweise LDS.md",
-    "LDS/Notes/Homomorphismus.md",
-    "LDS/Notes/Magma.md",
-    "LDS/Notes/neutrales Element.md",
-    "LDS/Important notes/Ordnungen und Verbände.md",
-    "LDS/Notes/Verband.md",
-    "LDS/Notes/Minimale und Maximale Elemente.md",
-    "LDS/Notes/Hasse Diagramm.md",
-    "LDS/Important notes/Relation.md",
-    "LDS/Notes/Infimum und Supremum.md",
-    "Math/ggT.md",
-    "FSK/Notes ordered.md",
-    "LDS/Notes/totale Ordnung.md",
+    "LDS/Exercises/Schlussregeln - exercise.md",
+    "LDS/Notes/Schlussregeln.md",
+    "LDS/Notes/Sequenzenkalkül.md",
     "LDS/Important notes/Aussagenlogik.md",
-    "LDS/Notes/Transitive Hülle.md",
-    "LDS/Notes/Reflexiv-transitive Hülle.md",
-    "Algorithms/Warshall-Algorithmus.md",
+    "LDS/Exercises/Pränexnormalform -exercise.md",
+    "LDS/Important notes/1 Notes ordered.md",
+    "LDS/Notes/Pränexform.md",
+    "LDS/Notes/Prädikatenlogik erster Stufe.md",
+    "LDS/to recap.md",
+    "LDS/Notes/Disjunktive und Konjunktive Normalform.md",
+    "LDS/Notes/KNF.md",
+    "LDS/Notes/Resolution.md",
+    "LDS/Exercises/Resolution -exercise.md",
+    "LDS/Exercises/NNF - exercise.md",
+    "LDS/Exercises/Normalformen - exercise.md",
+    "LDS/Exercises/Negations-Normalform - exercise.md",
+    "LDS/Notes/DNF.md",
+    "LDS/Notes/Negations-Normalform.md",
+    "LDS/Exercises/Körpererweiterung - exercise.md",
+    "LDS/Exercises/irreduzibles Polynom.md",
+    "LDS/Exercises/ggT Polynome.md",
+    "LDS/Important notes/Relation.md",
+    "LDS/Important notes/Primzahlen.md",
     "LDS/Important notes/modulo.md",
+    "LDS/Important notes/Kombinatorik.md",
+    "LDS/Important notes/Algebra.md",
     "StoSta/A/2017-ss-stochastik_statistik-scheipl-heller-2.klausur_Loesung_4.pdf",
     "StoSta/A/2018-ss-stochastik_statistik-scheipl-1.klausur-4.pdf",
     "StoSta/A/2018-ss-stochastik_statistik-scheipl-1.klausur_Loesung-4.pdf",
