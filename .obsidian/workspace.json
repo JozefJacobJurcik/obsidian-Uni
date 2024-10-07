@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/Networking/linked notes/The OSI Model.md",
+                "file": "CTF/Networking/linked notes/IPv6 Addresses.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/Networking/linked notes/The OSI Model.md",
+                "file": "CTF/Networking/linked notes/IPv6 Addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/Networking/linked notes/The OSI Model.md",
+                "file": "CTF/Networking/linked notes/IPv6 Addresses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/Networking/linked notes/The OSI Model.md"
+                "file": "CTF/Networking/linked notes/IPv6 Addresses.md"
               }
             }
           },
@@ -173,9 +173,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7daeeb104670e2b8",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
+    "RNVS/U/attachments/Klausuraufgaben.pdf",
     "CTF/Networking/Notes ordered.md",
+    "CTF/Networking/linked notes/Subnetting.md",
     "CTF/Networking/linked notes/The OSI Model.md",
     "CTF/Networking/linked notes/Networking Topologies.md",
     "1 README/README.md",
@@ -209,8 +211,6 @@
     "LDS/Exercises/NNF - exercise.md",
     "LDS/Exercises/Normalformen - exercise.md",
     "LDS/Exercises/Negations-Normalform - exercise.md",
-    "LDS/Notes/DNF.md",
-    "LDS/Notes/Negations-Normalform.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240225234831.png",
