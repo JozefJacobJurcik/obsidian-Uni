@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/Networking/linked notes/IPv6 Addresses.md",
+                "file": "IT-Sicherheit/Notes/Notes ordered.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7bb12df95e9a1bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF/Networking/linked notes/IPsec.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/Networking/linked notes/IPv6 Addresses.md",
+                "file": "CTF/Networking/linked notes/IPsec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/Networking/linked notes/IPv6 Addresses.md",
+                "file": "CTF/Networking/linked notes/IPsec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/Networking/linked notes/IPv6 Addresses.md"
+                "file": "CTF/Networking/linked notes/IPsec.md"
               }
             }
           },
@@ -173,10 +185,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da115dda2911a4ed",
+  "active": "b7bb12df95e9a1bc",
   "lastOpenFiles": [
-    "RNVS/U/attachments/Klausuraufgaben.pdf",
+    "IT-Sicherheit/Notes/Notes ordered.md",
+    "IT-Sicherheit/Notes/linked notes/WDH_WS2324.pdf",
+    "IT-Sicherheit/Notes/Wiederholung.md",
+    "IT-Sicherheit/Exercises/2020-ws-itsicherheit-reiser-1.klausur-56.pdf",
+    "IT-Sicherheit/Exercises/2015-ws-itsicherheit-reiser-hommel-1.klausur.md",
+    "IT-Sicherheit/Exercises/2011-WS-itsicherheit-Reiser-Hommel-1.klausur-mitschrift.md",
+    "IT-Sicherheit/Exercises/2010-WS-itsicherheit-Reiser-Hommel-1.klausur-mitschrift.md",
+    "IT-Sicherheit/Exercises/2. Blatt.md",
+    "IT-Sicherheit/Exercises/1. Blatt.md",
     "CTF/Networking/Notes ordered.md",
+    "RNVS/U/attachments/Klausuraufgaben.pdf",
     "CTF/Networking/linked notes/Subnetting.md",
     "CTF/Networking/linked notes/The OSI Model.md",
     "CTF/Networking/linked notes/Networking Topologies.md",
@@ -192,9 +213,6 @@
     "RNVS/U/attachments/Blatt4.pdf",
     "RNVS/U/attachments/Blatt3.pdf",
     "RNVS/U/attachments/Blatt2.pdf",
-    "RNVS/U/attachments/Blatt12.pdf",
-    "RNVS/U/attachments/Blatt11.pdf",
-    "RNVS/U/attachments/Blatt10.pdf",
     "LDS/to recap.md",
     "LDS/Notes/Schlussregeln.md",
     "LDS/Exercises/Schlussregeln - exercise.md",
@@ -204,13 +222,6 @@
     "LDS/Important notes/1 Notes ordered.md",
     "LDS/Notes/Pränexform.md",
     "LDS/Notes/Prädikatenlogik erster Stufe.md",
-    "LDS/Notes/Disjunktive und Konjunktive Normalform.md",
-    "LDS/Notes/KNF.md",
-    "LDS/Notes/Resolution.md",
-    "LDS/Exercises/Resolution -exercise.md",
-    "LDS/Exercises/NNF - exercise.md",
-    "LDS/Exercises/Normalformen - exercise.md",
-    "LDS/Exercises/Negations-Normalform - exercise.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240225234831.png",
