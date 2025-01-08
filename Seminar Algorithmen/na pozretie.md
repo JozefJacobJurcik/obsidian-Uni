@@ -1,0 +1,2 @@
+- prečo terminal character - vysvetliť
+- 

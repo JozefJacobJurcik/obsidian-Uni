@@ -27,6 +27,18 @@
             "state": {
               "type": "pdf",
               "state": {
+                "file": "Seminar Algorithmen/Research/gusfieldappl.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "gusfieldappl"
+            }
+          },
+          {
+            "id": "9c68b9dcc3de421c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
                 "file": "Seminar Algorithmen/Research/gusfield.pdf"
               },
               "icon": "lucide-file-text",
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e0bd09651e7598ef",
@@ -204,14 +217,20 @@
   },
   "active": "490d22d4f96c9164",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-08 13.06.19.excalidraw.md",
     "Seminar Algorithmen/Research/gusfieldappl.pdf",
+    "Excalidraw",
     "Seminar Algorithmen/Research/gusfield.pdf",
+    "LDS/Notes/Körper.md",
+    "LDS/Notes/Gruppe.md",
+    "IT-Sicherheit/Notes/Notes ordered.md",
+    "CTF/Networking/linked notes/Virtual Private Networks.md",
+    "Seminar Algorithmen/na pozretie.md",
     "Seminar Algorithmen/Notes Ordered.md",
     "CTF/Networking/Notes ordered.md",
     "Seminar Algorithmen/Research",
     "StoSta/Notes ordered.md",
     "Seminar Algorithmen",
-    "IT-Sicherheit/Notes/Notes ordered.md",
     "LDS/Important notes/Algebra.md",
     "LDS/Important notes/1 Notes ordered.md",
     "CTF/Networking/linked notes/IPsec.md",
@@ -232,13 +251,7 @@
     "RNVS/Notes ordered.md",
     "RNVS/U/attachments/Blatt1.pdf",
     "Excalidraw/Drawing 2024-10-06 17.07.23.excalidraw.md",
-    "RNVS/U/U0.excalidraw.md",
-    "Excalidraw",
     "RNVS/U/attachments/Blatt0.pdf",
-    "LDS/to recap.md",
-    "LDS/Notes/Schlussregeln.md",
-    "LDS/Exercises/Schlussregeln - exercise.md",
-    "LDS/Notes/Sequenzenkalkül.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240225234831.png",
