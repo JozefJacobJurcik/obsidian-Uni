@@ -10,8 +10,8 @@ $(x ∨ ¬y) ∧ (y ∨ ¬y) ∧ (x ∨ z) ∧ (y ∨ z)$ [[Distributivgesetz]]
 
 2. $¬((x → y) ∧ z)$
 
-$¬(x → y)) ∨ ¬z$ [[Distributivgesetz]]
-$¬(¬x ∨ y)) ∨ ¬z$ Implikation auflösen [[Negations-Normalform|NNF]]
+$¬(x → y) ∨ ¬z$ [[Distributivgesetz]]
+$¬(¬x ∨ y) ∨ ¬z$ Implikation auflösen [[Negations-Normalform|NNF]]
 $(x ∧ ¬y) ∨ ¬z$ [[De Morganschen Gesetze]]
 $(x ∨ ¬z) ∧ (¬y ∨ ¬z)$ [[Distributivgesetz]]
 

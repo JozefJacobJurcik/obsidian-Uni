@@ -13,36 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seminar Algorithmen/Notes Ordered.md",
+                "file": "LDS/Exercises/Normalformen - exercise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes Ordered"
+              "title": "Normalformen - exercise"
             }
           },
           {
-            "id": "490d22d4f96c9164",
+            "id": "32b949166d468fd2",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Seminar Algorithmen/Research/gusfieldappl.pdf"
+                "file": "DBS/linked notes/attachments/tutorium_01.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "gusfieldappl"
-            }
-          },
-          {
-            "id": "9c68b9dcc3de421c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Seminar Algorithmen/Research/gusfield.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "gusfield"
+              "title": "tutorium_01"
             }
           }
         ],
@@ -65,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pdf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e0bd09651e7598ef",
@@ -212,11 +200,22 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "490d22d4f96c9164",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-12 17.48.23.excalidraw.md",
+    "Excalidraw/attachments/grid.pdf",
+    "Excalidraw/attachments",
+    "DBS/linked notes/attachments/tutorium_01.pdf",
+    "DBS/linked notes/9 zentralen Anforderungen - Edgar Codd.md",
+    "Excalidraw/Drawing 2025-02-12 17.36.13.excalidraw.md",
+    "LDS/Exercises/Normalformen - exercise.md",
+    "LDS/Notes/Disjunktive und Konjunktive Normalform.md",
+    "LDS/Notes/KNF.md",
+    "Seminar Algorithmen/Notes Ordered.md",
     "Excalidraw/Drawing 2025-01-08 13.06.19.excalidraw.md",
     "Seminar Algorithmen/Research/gusfieldappl.pdf",
     "Excalidraw",
@@ -226,7 +225,6 @@
     "IT-Sicherheit/Notes/Notes ordered.md",
     "CTF/Networking/linked notes/Virtual Private Networks.md",
     "Seminar Algorithmen/na pozretie.md",
-    "Seminar Algorithmen/Notes Ordered.md",
     "CTF/Networking/Notes ordered.md",
     "Seminar Algorithmen/Research",
     "StoSta/Notes ordered.md",
@@ -242,16 +240,7 @@
     "IT-Sicherheit/Exercises/2010-WS-itsicherheit-Reiser-Hommel-1.klausur-mitschrift.md",
     "IT-Sicherheit/Exercises/2. Blatt.md",
     "IT-Sicherheit/Exercises/1. Blatt.md",
-    "RNVS/U/attachments/Klausuraufgaben.pdf",
     "CTF/Networking/linked notes/Subnetting.md",
-    "CTF/Networking/linked notes/The OSI Model.md",
-    "CTF/Networking/linked notes/Networking Topologies.md",
-    "1 README/README.md",
-    "RNVS/U/Drawing 2024-10-06 17.07.37.excalidraw.md",
-    "RNVS/Notes ordered.md",
-    "RNVS/U/attachments/Blatt1.pdf",
-    "Excalidraw/Drawing 2024-10-06 17.07.23.excalidraw.md",
-    "RNVS/U/attachments/Blatt0.pdf",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240225234831.png",

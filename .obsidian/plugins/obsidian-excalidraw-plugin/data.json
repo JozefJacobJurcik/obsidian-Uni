@@ -5,10 +5,14 @@
   "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
+  "fontAssetsPath": "Excalidraw/CJK Fonts",
+  "loadChineseFonts": false,
+  "loadJapaneseFonts": false,
+  "loadKoreanFonts": false,
   "compress": true,
   "decompressForMDView": false,
   "onceOffCompressFlagReset": true,
-  "onceOffGPTVersionReset": false,
+  "onceOffGPTVersionReset": true,
   "autosave": true,
   "autosaveIntervalDesktop": 30000,
   "autosaveIntervalMobile": 20000,
@@ -21,12 +25,14 @@
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
   "previewImageType": "SVGIMG",
+  "renderingConcurrency": 3,
   "allowImageCache": true,
   "allowImageCacheInScene": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
   "height": "",
+  "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
@@ -36,6 +42,7 @@
   "defaultMode": "normal",
   "defaultPenMode": "never",
   "penModeDoubleTapEraser": true,
+  "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
@@ -93,7 +100,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.5.1",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.8.3",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -109,6 +116,7 @@
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
+  "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],
@@ -434,7 +442,7 @@
   "pdfNumColumns": 1,
   "pdfNumRows": 1,
   "pdfDirection": "right",
-  "pdfImportScale": 0.3,
+  "pdfImportScale": 0.7,
   "gridSettings": {
     "DYNAMIC_COLOR": true,
     "COLOR": "#000000",
@@ -755,6 +763,7 @@
   "areaZoomLimit": 1,
   "longPressDesktop": 500,
   "longPressMobile": 500,
+  "doubleClickLinkOpenViewMode": true,
   "isDebugMode": false,
   "rank": "Bronze",
   "modifierKeyOverrides": [
@@ -777,5 +786,14 @@
       "key": "G"
     }
   ],
-  "showSplashscreen": true
+  "showSplashscreen": true,
+  "pdfSettings": {
+    "pageSize": "A4",
+    "pageOrientation": "portrait",
+    "fitToPage": 1,
+    "paperColor": "white",
+    "customPaperColor": "#ffffff",
+    "alignment": "center",
+    "margin": "normal"
+  }
 }
