@@ -1,0 +1,340 @@
+% Jede Kommentarzeile beginnt mit einem Prozent-Zeichen.
+
+\documentclass[a4paper,10pt]{report}
+% Der documentclass-Befehl muss zu Beginn eines jeden Dokumentes stehen.
+% Der Stil diese Dokumentes ist "report" (erzeugt u.a. ein Deckblatt) mit 
+% den beiden Optionen "a4paper" (Papiergröße) und 10pt (Schriftgröße).  
+
+\usepackage[a4paper, left=3cm, right=3cm, top=2cm]{geometry}
+% Seitenränder einstellen
+
+\usepackage[ngerman]{babel}
+% Der usepackage-Befehl läd ein oder mehrerer Pakete, die besondere
+% Fähigkeiten oder zusätzliche Befehle zur Verfügung stellen.
+% Das Paket "babel" brauchen wir für die Aktivierung lokaler 
+% Sprachstandards (Datum, Anführungszeichen, Trennung, etc.). 
+% Die Sprache selbst wird über die Option "ngerman" in eckigen
+% Klammern gewählt. Dabei steht das n für die Standards nach neuer
+%Rechtschreibung.
+
+\usepackage[utf8]{inputenc}
+%UTF-8 file encoding, nicht ändern! .tex-Dateien als UTF-8 abspeichern! So
+%können die Umlaute direkt hier im Quelltext eines LaTeX-Dokuments verwendet
+%werden.
+
+\usepackage{graphicx}
+% Paket zum Einbinden von Grafiken
+
+\usepackage{pdfpages}
+% Mit dem Paket pdfpages lassen sich ganze Seiten aus anderen PDF-Dateien
+%einbinden, z.B. aus einem Scan Ihres handschriftlichen Labhorhefteintrags.
+
+\usepackage{csquotes}
+% Das Paket csquotes liefert den Befehl \enquote{text} zur Verwendung der
+%deutschen Anführungszeichen.
+
+%\usepackage[range-units=repeat, multi-part-units=brackets, range-phrase={~bis~},
+%separate-uncertainty, locale=DE, binary-units=true, per-mode=symbol-or-fraction]{siunitx}
+\usepackage[range-units=repeat, multi-part-units=brackets, range-phrase={~bis~},
+separate-uncertainty, locale=DE, per-mode=symbol-or-fraction]{siunitx}
+%Komfortabel SI-konforme
+% Zahlen:    \num{3.4e-3}
+% Einheiten: \si{\nano\metre\per\square\second}
+% Werte:     \SI{3.3e-6}{\metre\per\second}
+% Ranges:    \SIrange{2}{4}{\pascal\second} (ohne EInheit mit \numrange{}{})
+%setzen
+
+\usepackage[hidelinks, plainpages=false, pdfpagelabels, pdfstartview=]{hyperref}
+%Links klickbar im PDF, inkl. Inhalt und Literaturreferenzen, optisch
+%unformatiert
+%Achtung: Immer als letztes Paket einbinden!
+
+\begin{document}
+	% Damit enden die Formatierungsbefehle und der eigentliche Text beginnt. 
+	
+	\includepdf[pages=-]{Abbildungen/Deckblatt-P1-web.pdf}
+	%\includepdf[pages=-]{Abbildungen/Deckblatt-P2-web.pdf}
+	%\includepdf[pages=-]{Abbildungen/Deckblatt_FP-I-O_web.pdf}
+	%\includepdf[pages=-]{Abbildungen/Deckblatt-P3B-web.pdf}
+	%\includepdf[pages=-]{Abbildungen/Deckblatt-P3Aastro-web.pdf}
+	%\includepdf[pages=-]{Abbildungen/Deckblatt-P3Bastro-web.pdf}
+	
+	% Mit diesem Befehl aus dem Paket pdfpages können Sie ganze Seiten aus einem
+	% anderen PDF-Dokument einbinden, z.B. aus dem Scan Ihrer schriftlichen
+	% Originalversuchsdokumentation aus dem Laborheft. Hier wird auf diese Weise das
+	% Deckblatt eingebunden. {} gibt den relativen Dateipfad und Namen der Datei an.
+	% Das Verzeichnis mit der LaTeX-Datei sollte im gezeigten Beispiel einen Unterordner
+	% mit dem Namen "Abbildungen" enthalten, in welchem sich die eingebundene PDF-Datei befindet.
+	% Das folgende Beispiel zeigt, wie einzelne Seiten eingebunden werden können:
+	%\includepdf[pages={1,2,11}]{Abbildungen/Dateiname.pdf}
+	
+	\title{{\large {\sf Fakultät für Physik der Ludwig-Maximilians-Universität München}\\
+		{\bf Grundpraktikum P1}}\\ ~ \\ ~ \\
+		PAW -- Per Anhalter durch die Welt von \LaTeX
+		% Hier bitte Versuchskuerzel und -titel eintragen!
+		\\ ~ \\ ~ \\ ~ \\
+		{\large Versuch in Eigenregie zu Hause} 
+		%{\large Präsenzversuch}
+	}
+	% Die Formatierungen innerhalb dieses title-Befehls bleiben erstmal unkommentiert.
+	
+	\author{Vorname Nachname}
+	
+	\date{\today}
+	% erzeugt das heutige Datum (= Datum an dem die Auswertung beendet wurde); 
+	% ein festes Datum im date-Befehl, z.B. "21.10.2015" ist auch möglich
+	
+	\maketitle
+	% erzeugt den Titel mit Autor und Datum. Im Fall des Stils "report" 
+	% erzeugt der maketitle-Befehl sogar das ganze Deckblatt.
+	
+	
+	%\setcounter{chapter}{2}
+	% Setzt den Zähler für die Kapitelnummer auf "2", standardmäßig wäre er auf "0"
+	% gesetzt.
+	% Kapitel 1 ist das davor eingeheftete Protokoll.
+	
+	\chapter{Vorbereitung}
+	% Dieser chapter-Befehl leitet das Kapitel "Vorbereitung" ein. 
+	
+	Auf den nächsten Seiten folgt bei Präsenzversuchen die Original-Mitschrift zur Vorbereitung und Versuchsplanung aus dem Laborheft oder E-Journal.
+	
+	Im Eigenregieversuch dürfen Sie von der üblichen Struktur auch abweichen. Es gilt jedoch weiterhin der Grundsatz, dass Ihre Abgabedatei auch nach einem Jahr ohne Anleitung noch vollständig verstanden werden kann, d.h. die für den Versuch notwendigen physikalischen und technischen Grundlagen sollen hier kurz zusammengefasst dargestellt werden, ebenso wie Überlegungen zum Versuchsaufbau bzw. zur Versuchsplanung.
+	
+	\includepdf[pages=1-2]{Abbildungen/Musterprotokoll.pdf}
+	%\includepdf[pages={1,2,11}]{Abbildungen/ScanLaborheftNameVorname.pdf}
+	%\includepdf[pages=-]{Abbildungen/ScanLaborheftNameVorname.pdf}
+	% Hier fügen Sie das ORIGINAL-Messprotkoll mit Versuchsdatum, Skizzen usw. ein! Die Musterprotokollseite dient hier nur als Beispiel, um zu zeigen, wie ganze Seiten eingefügt werden können. Mit der Option [pages=...] können wie oben dargestellt ggf. auch einzelne Seiten oder eine Menge von Seiten eingefügt werden.
+	
+	\section{Kennenlernen von \LaTeX}
+	% Abschnitt zu Teilversuch 1
+	
+	\label{sec:Teilversuch1}
+	% Setzt eine Markierung auf die später verwiesen werden kann.
+	
+	Hier geht der Text los. Im Quelltext dieses Dokuments können Sie jeweils
+	nachsehen, 
+	wie die konkreten Befehle für im Folgenden gezeigte Beispiele zur Einbindung von
+	Text, 
+	Formeln bzw. Grafiken in ein \LaTeX-Dokument lauten. \\
+	\LaTeX{} macht die Zeilenumbrüche automatisch.
+	Allerdings ist es manchmal nützlich, den Zeilenumbruch, \\
+	% Der \\-Befehl kann noch erweitert werden: z.B. \\*[3mm]
+	% erzeugt nach dem Zeilenumbruch noch 3mm Abstand zur nächsten Zeile.
+	mit dem eine neue Zeile begonnen wird, zu erzwingen, um die Lesbarkeit 
+	zu erhöhen. Hier noch die deutschen Sonderzeichen: 
+	\"a, \"A, \"o, \"O, \"u, \"U und {\ss}. Nach Einbinden des Pakets 
+	inputenc wie oben im Quelltext können diese Sonderzeichen auch direkt 
+	als ä, Ä, ö, Ö, ü, Ü und ß geschrieben werden.
+	
+	Ein neuer Absatz wird automatisch eingerückt. Unterabschnitte mit oder 
+	ohne Nummerierung sind auch möglich:
+	
+	\subsection{Vorversuch - Erkundung der Galaxie}
+	
+	(mit)
+	
+	\subsection*{42 - Wie war nochmal die Frage?}
+	% Der "*" am Befehlsende sorgt dafür, dass der Abschnitt nicht mit einer Nummer
+	% versehen wird. 
+	
+	(ohne)\\
+	
+	Damit Sie den Quelltext in ein PDF umwandeln können, benötigen Sie Zugang zu
+	einer Installation einer LaTeX-Distribution. Wie Sie unter Windows ggf. auch auf
+	einem portablen Datenträger eine solche Installation erstellen, wird im Anhang
+	\ref{sec:LaTeX-Installation-auf-Windows} beschrieben.
+	
+	\newpage 
+	% Seitenumbruch
+	
+	
+	\section{Umwandlung von Materie in Energie}
+	% Abschnitt zu Teilversuch 2
+	
+	\LaTeX{} ist besonders geeignet, mathematische Formeln zu setzen. 
+	Mathematische Symbole oder Terme im laufenden Text werden mit dem \$-Symbol
+	eingeklammert, z.B. $E$ für die Energie bzw. $E=mgh$. Da dies nur für
+	kurze Ausdrücke sinnvoll ist, gibt es die equation-Umgebung 
+	\begin{equation}
+	% Beginn der equation-Umgebung
+	E = \frac{m c^2}{\sqrt{1-\frac{v^2}{c^2}}}
+	% ^{...} verziert ein Symbol mit einem Exponenten bzw. Index oben.
+	% \frac{Zaehler}{Nenner} erzeugt einen Bruch und \sqrt{...} eine Wurzel.
+	\label{eq:Einstein}
+	% ermoeglicht, sich im Text auf die Nr. der Gl. zu beziehen
+	\end{equation}
+	% Ende der equation-Umgebung
+	Später im Text kann dann auf die Gl. (\ref{eq:Einstein}) 
+	% Das Argument im ref-Befehl muss natuerlich identisch mit dem Argument 
+	% des label-Befehls sein.
+	Bezug genommen werden.
+	
+	Auch dabei geht es ohne Nummerierung:
+	$$
+	s_x = \sqrt{\frac{1}{n - 1} \sum_{i=1}^n{\left( x_i - \overline{x} \right)^2 }}
+	% _{...} verziert ein Symbol mit einem Index unten.
+	% Aufgabe: Ersetzen Sie "\sum" durch "\int" und beobachten Sie, 
+	% was mit der Formel passiert!
+	$$
+	
+	Mit irgendwelchen Werten aus Abschnitt \ref{sec:Teilversuch1} von 
+	Seite \pageref{sec:Teilversuch1} 
+	% nimmt Bezug auf die Seite mit dem Abschnitt mit der Markierung
+	und der Formel
+	\begin{equation}
+	R(T) = R_0 \exp\left[ B \left( \frac{1}{T} - \frac{1}{T_0} \right) \right]
+	% Die Befehle \left... und \right... funktionieren fuer viele Klammerungen
+	% und bewirken eine bessere Anpassung der Klammergroesse, als wenn man nur 
+	% mit (...) oder [...] klammert.
+	% Fuer die e-Funktion gibt es \exp. Genauso funktioniert \sin, \tan etc.
+	\end{equation}
+	erhält man folgende Tabelle:\\*[2mm]
+	\begin{tabular}{c||c|c|c}
+		% Beginn der tabular-Umgebung:
+		% Die Buchstaben "c" sorgen für eine Zentrierung der Tabelleneintraege, 
+		% das Symbol "|" generiert einen vertikalen Trennstrich.
+		$T$/\si{\kelvin} & 291,7 & 301,1 & 308,8 \\
+		% Da oben vier "c" angegeben sind, muss die Tabelle genau vier Eintraege haben.
+		% Die Eintraege sind durch "&" voneinander getrennt "\\" beendet jede Zeile. 
+		\hline
+		% erzeugt eine horizontale Linie
+		$R$/\si{\kilo\ohm} & 159,85 & 41,94 & 30,41 \\
+		% Es koennen Tabellen mit beliebig vielen Zeilen angefertigt werden.
+	\end{tabular} 
+	% Ende der tabular-Umgebung
+	\\
+	% Zeilenumbruch, damit die Tabelle nicht so dicht im Text klebt
+	
+	\begin{figure}[!htb]
+		% Mit figure wird eine Abbildung eingefügt. Diese ist zunächst schwebend und wird von LaTeX je nach verfügbarem Platz automatisch positioniert. Die Prioritäten bzgl. der Positionierung sind in der Option [!htb] angegeben. h=here, t=top, b=bottom
+		\centering
+		% Abbildung zentrieren
+		\includegraphics[width=0.65\textwidth]{Abbildungen/FotoVersuchsaufbauTV1-P1}
+		% In {} wird auch hier wieder der relative Pfad zur Datei des Fotos dargestellt. Auf die Angabe der Endung wie beispielsweise .jpg oder .png kann verzichtet werden, wenn dort nur eine Datei mit dem hier eingetragenen Namen existiert. LaTeX sucht sich selbst die geeignete Datei aus, wobei bei mehreren verfügbaren Dateien sonst gleichen Namens die Endung nach einer bestimmten Priorisierung (meist .png, .pdf, .jpg, ...) gewählt wird. 
+		% Über die Option widht= wird die Breite des Fotos auf 65% der Breite des Textes eingestellt.
+		\caption{Foto meines Versuchsaufbaus, hier als Beispielbild der Kopf der P1-Webseite \url{https://www.praktikum.physik.uni-muenchen.de/p1/index.html}.}
+		% Zu jeder Abbildung gehört eine Bildunterschrift. Diese soll nur den Inhalt der Abbildung beschreiben. Interpretationen und Schlussfolgerungen gehören in den Fließtext, nicht in die Bildunterschrift.
+		\label{fig:VersuchsaufbauTV1}
+		% wie zuvor ein Label, um aus dem Text heraus auf die Abbildung referenzieren zu können. Im Idealfall wird auf jede Abbildung aus dem Fließtext heraus Bezug genommen.
+		% Diagramme aus Gnuplot oder Python 
+	\end{figure} 	
+
+	Meinen Versuchsaufbau für diesen Teilversuch zeigt Abbildung \ref{fig:VersuchsaufbauTV1}. Als Besonderheiten fallen dabei die optimierte Stativkonstruktion sowie die modernen Messgeräte auf \dots
+
+	Zum Schluss noch eine Auflistung
+	\begin{itemize}
+		% Beginn der itemize-Umgebung
+		\item Bla.
+		% ein Punkt der Auflistung
+		\item Blabla.
+		\item Blablabla.
+	\end{itemize} 
+	% Ende der itemize-Umgebung
+	Das funktioniert auch mit automatischer Nummerierung:
+	\begin{enumerate}
+		% enumerate-Umgebung
+		\item Bla.
+		\item Blabla.
+		\item Blablabla.
+	\end{enumerate}
+	
+	\chapter{Durchführung}
+	% Dieser chapter-Befehl leitet das Kapitel "Durchführung" ein.
+	
+	Auf den nächsten Seiten folgt die Original-Mitschrift aus dem Laborheft.
+	Alternativ können Sie auch die wichtigsten Messdaten bzw. Einträge hier in
+	digitaler Form präsentieren sowie die vollständige Original-Laborheft-Mitschrift
+	im Anhang am Ende des Dokuments einfügen.
+	
+	\includepdf[pages=3]{Abbildungen/Musterprotokoll.pdf}
+	%\includepdf[pages={1,2,11}]{Abbildungen/ScanLaborheftNameVorname.pdf}
+	%\includepdf[pages=-]{Abbildungen/ScanLaborheftNameVorname.pdf}
+	% Hier fügen Sie das ORIGINAL-Messprotkoll mit Versuchsdatum, Skizzen usw. ein! Musterprotokoll.pdf dient wieder als Beispiel.
+	
+	\chapter{Auswertung}
+	% Dieser chapter-Befehl leitet das Kapitel "Auswertung" ein.
+	
+	\section{Kennenlernen von \LaTeX}
+	% Abschnitt zu Teilversuch 1
+	
+	\label{sec:Teilversuch1Auswertung}
+	% Setzt eine Markierung auf die spaeter verwiesen werden kann.
+	
+	Hier erfolgt die Auswertung von Teilversuch 1 \enquote{Kennenlernen von \LaTeX}.
+	
+	Hier noch ein paar Beispiele für Messwerte, die im Quellcode zeigen, wie man mit dem Paket siunitx Messdaten und Ergebnisse darstellen kann:
+	\begin{itemize}
+		% Beginn der itemize-Umgebung
+		\item Länge: \SI{25.4}{\milli\meter}
+		% ein Punkt der Auflistung
+		\item Dichte der Flüssigkeit: $\rho = \SI{0.7914}{\gram\per\cubic\centi\metre}$
+		\item Erdfeldbeschleunigung: $g = \SI{9.80723}{\metre\per\square\second}$
+		\item Fläche: \SI{1}{\centi\metre\squared}
+		\item Spannung: $U = \SI{3.00}{\volt}$
+		\item Raumtemperatur: $T = \SI{20.5+-1.3}{\celsius}$ 
+	\end{itemize} 
+	
+	
+	\section{Umwandlung von Materie in Energie}
+	% Abschnitt zu Teilversuch 2
+	
+	Hier erfolgt die Auswertung von Teilversuch 2 \enquote{Umwandlung von Materie in
+		Energie}.
+	
+	\section{Fazit}
+	% Zusammenfassung/Schlusswort
+	Schreiben Sie am Ende Ihres Haupttextes ein kurzes Fazit darüber, was Sie im
+	Versuch gelernt haben. Beziehen Sie dabei alle Phasen (Vorbereitung /
+	Durchführung / Auswertung) mit ein. Wo lagen aus Ihrer Sicht die Stärken und
+	Schwächen Ihrer persönlichen Versuchserfahrung?
+	
+	\appendix
+	%Umstellung der Kapitelnummerierung auf Buchstaben A,B,C,...
+	\chapter{Anhang}
+	
+	\section{Installation unter Windows}
+	\label{sec:LaTeX-Installation-auf-Windows}
+	
+	Für Windows empfehlen wir die portable Version der Distribution MiKTeX sowie als
+	komfortable Schreibumgebung mit Autovervollständigung und Hilfesystem das
+	TeXstudio:
+	\begin{itemize}
+		\item Herunterladen und Installation von MiKTeX als portable Version:
+		\\\url{https://miktex.org/howto/portable-edition}
+		\item Herunterladen und Entpacken von TeXstudio (als Portable (.zip)):
+		\\\url{https://texstudio.org/#download}
+	\end{itemize}
+	
+	\section{Overleaf -- ein Online LaTex Editor}
+
+	Overlead ist ein Online-Editor für LaTex, so dass keine lokale Installation notwendig ist. Auch das kollaborative Bearbeiten von Dokumenten ist dort möglich. Als Studierender kann man eine weitere Person zu jedem seiner Dokumente hinzufügen, um mit dieser zusammenzuarbeiten. Es können beliebig viele Projekte angelegt werden.
+	
+	\begin{itemize}
+		\item Webseite des Dienstes Overleaf: \\\url{https://www.overleaf.com/edu/uni-muenchen}
+		\item Autorisierung über Single-Sign-On (SSO) mit dem Campus-Account, d.h. der LMU-E-Mail-Adresse
+	\end{itemize}
+	
+	Dies ist geeignet, um den Teampartner zum eigenen Projekt für eine gemeinsame Bearbeitung hinzuzufügen.		
+	
+	\section{Der heilige Gral}
+	
+	Hier zählen wir noch eine Reihe von wertvollen Schätzen zur Vertiefung in
+	\LaTeX{} auf:
+	\begin{itemize}
+		\item The Not So Short Introduction to \LaTeXe:
+		\\\url{https://tobi.oetiker.ch/lshort/lshort.pdf}
+		\item Das Paket siunitx -- Verwendung von SI-Einheiten mit korrekten Abständen
+		zwischen Wert und Einheit:
+		\url{http://mirrors.ctan.org/macros/latex/contrib/siunitx/siunitx.pdf}
+		\item Das Paket TikZ -- Grafiken mit \LaTeX{} erstellen:
+		\\\url{http://paws.wcu.edu/tsfoguel/tikzpgfmanual.pdf}
+		\item Das Comprehensive-TEX-Archive-Network - eine umfangreiche Sammlung von
+		Paketen für \LaTeX mit zugehörigen Dokumentationen: \\\url{https://ctan.org}
+		\item Übersicht über Symbole und wie man diese in LaTeX einbinden kann: \\\url{http://mirrors.ctan.org/info/symbols/comprehensive/symbols-a4.pdf}
+	\end{itemize}
+	
+	
+\end{document}
+% Dieser Befehl steht zum Ende eines jeden Dokumentes.
+

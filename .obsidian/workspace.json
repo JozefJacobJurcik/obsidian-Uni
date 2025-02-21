@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7daeeb104670e2b8",
+            "id": "32b949166d468fd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDS/Exercises/Normalformen - exercise.md",
+                "file": "Exp Praktika/P1/Hinweise zur Praktikumsvorbereitung und Terminablauf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normalformen - exercise"
-            }
-          },
-          {
-            "id": "32b949166d468fd2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "DBS/linked notes/attachments/tutorium_01.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "tutorium_01"
+              "title": "Hinweise zur Praktikumsvorbereitung und Terminablauf"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,48 +186,51 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "da115dda2911a4ed",
+  "active": "32b949166d468fd2",
   "lastOpenFiles": [
+    "Exp Praktika/P1/P1P2-LaTeX-Vorlage.tex",
+    "Exp Praktika/P1/P1P2-LaTeX-Vorlage.pdf",
+    "Exp Praktika/FP-I-O/termine.png",
+    "Exp Praktika/P1/Hinweise zur Praktikumsvorbereitung und Terminablauf.md",
+    "Exp Praktika/P1/termine.png",
+    "Exp Praktika/P1/vortrag.png",
+    "Exp Praktika/DOs and DONTs.md",
+    "Exp Praktika/AnleitungAbgabeInMoodle.pdf",
+    "LDS/Exercises/Normalformen - exercise.md",
+    "DBS/linked notes/Data Definition Language.md",
+    "DBS/linked notes/attachments/tutorium_01.pdf",
+    "Exp Praktika/FP-I-O",
+    "Exp Praktika/P1",
+    "Exp Praktika",
     "Excalidraw/Drawing 2025-02-12 17.48.23.excalidraw.md",
     "Excalidraw/attachments/grid.pdf",
     "Excalidraw/attachments",
-    "DBS/linked notes/attachments/tutorium_01.pdf",
     "DBS/linked notes/9 zentralen Anforderungen - Edgar Codd.md",
     "Excalidraw/Drawing 2025-02-12 17.36.13.excalidraw.md",
-    "LDS/Exercises/Normalformen - exercise.md",
     "LDS/Notes/Disjunktive und Konjunktive Normalform.md",
     "LDS/Notes/KNF.md",
     "Seminar Algorithmen/Notes Ordered.md",
     "Excalidraw/Drawing 2025-01-08 13.06.19.excalidraw.md",
     "Seminar Algorithmen/Research/gusfieldappl.pdf",
     "Excalidraw",
-    "Seminar Algorithmen/Research/gusfield.pdf",
     "LDS/Notes/Körper.md",
     "LDS/Notes/Gruppe.md",
     "IT-Sicherheit/Notes/Notes ordered.md",
     "CTF/Networking/linked notes/Virtual Private Networks.md",
     "Seminar Algorithmen/na pozretie.md",
     "CTF/Networking/Notes ordered.md",
-    "Seminar Algorithmen/Research",
     "StoSta/Notes ordered.md",
-    "Seminar Algorithmen",
     "LDS/Important notes/Algebra.md",
     "LDS/Important notes/1 Notes ordered.md",
     "CTF/Networking/linked notes/IPsec.md",
-    "IT-Sicherheit/Notes/linked notes/WDH_WS2324.pdf",
     "IT-Sicherheit/Notes/Wiederholung.md",
-    "IT-Sicherheit/Exercises/2020-ws-itsicherheit-reiser-1.klausur-56.pdf",
     "IT-Sicherheit/Exercises/2015-ws-itsicherheit-reiser-hommel-1.klausur.md",
     "IT-Sicherheit/Exercises/2011-WS-itsicherheit-Reiser-Hommel-1.klausur-mitschrift.md",
     "IT-Sicherheit/Exercises/2010-WS-itsicherheit-Reiser-Hommel-1.klausur-mitschrift.md",
-    "IT-Sicherheit/Exercises/2. Blatt.md",
-    "IT-Sicherheit/Exercises/1. Blatt.md",
-    "CTF/Networking/linked notes/Subnetting.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240225234831.png",
@@ -248,9 +238,6 @@
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015832.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015801.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015738.png",
-    "CTF/Networking/linked notes/attachments/Pasted image 20240224235356.png",
-    "CTF/Networking/linked notes/attachments/Pasted image 20240224235307.png",
-    "CTF/Networking/linked notes/attachments/Pasted image 20240224235251.png",
     "Untitled.canvas"
   ]
 }

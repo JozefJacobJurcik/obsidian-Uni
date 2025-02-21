@@ -33,7 +33,7 @@
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
   ],
-  "spellcheck": true,
+  "spellcheck": false,
   "propertiesInDocument": "source",
   "readableLineLength": true,
   "promptDelete": false
