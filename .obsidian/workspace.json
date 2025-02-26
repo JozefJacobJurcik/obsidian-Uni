@@ -11,14 +11,12 @@
             "id": "32b949166d468fd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Exp Praktika/P1/Hinweise zur Praktikumsvorbereitung und Terminablauf.md",
-                "mode": "source",
-                "source": false
+                "file": "Exp Praktika/P1/STO.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Hinweise zur Praktikumsvorbereitung und Terminablauf"
+              "icon": "lucide-file-text",
+              "title": "STO"
             }
           }
         ]
@@ -192,13 +190,15 @@
   },
   "active": "32b949166d468fd2",
   "lastOpenFiles": [
+    "Exp Praktika/P1/termine.png",
+    "Exp Praktika/P1/STO.pdf",
+    "Exp Praktika/P1/Screenshot 2025-02-25 154604.png",
+    "Exp Praktika/DOs and DONTs.md",
+    "Exp Praktika/FP-I-O/termine.png",
+    "Exp Praktika/P1/vortrag.png",
+    "Exp Praktika/P1/Hinweise zur Praktikumsvorbereitung und Terminablauf.md",
     "Exp Praktika/P1/P1P2-LaTeX-Vorlage.tex",
     "Exp Praktika/P1/P1P2-LaTeX-Vorlage.pdf",
-    "Exp Praktika/FP-I-O/termine.png",
-    "Exp Praktika/P1/Hinweise zur Praktikumsvorbereitung und Terminablauf.md",
-    "Exp Praktika/P1/termine.png",
-    "Exp Praktika/P1/vortrag.png",
-    "Exp Praktika/DOs and DONTs.md",
     "Exp Praktika/AnleitungAbgabeInMoodle.pdf",
     "LDS/Exercises/Normalformen - exercise.md",
     "DBS/linked notes/Data Definition Language.md",
@@ -215,8 +215,6 @@
     "LDS/Notes/KNF.md",
     "Seminar Algorithmen/Notes Ordered.md",
     "Excalidraw/Drawing 2025-01-08 13.06.19.excalidraw.md",
-    "Seminar Algorithmen/Research/gusfieldappl.pdf",
-    "Excalidraw",
     "LDS/Notes/Körper.md",
     "LDS/Notes/Gruppe.md",
     "IT-Sicherheit/Notes/Notes ordered.md",
@@ -237,7 +235,6 @@
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015910.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015832.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015801.png",
-    "CTF/Networking/linked notes/attachments/Pasted image 20240225015738.png",
     "Untitled.canvas"
   ]
 }
