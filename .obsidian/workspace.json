@@ -13,13 +13,64 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Exp Praktika/P1/STO.pdf"
+                "file": "Exp Praktika/FP-I-O/Einfuehrung-FP-I-O-WiSe-2024.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "STO"
+              "title": "Einfuehrung-FP-I-O-WiSe-2024"
+            }
+          },
+          {
+            "id": "8aa7567e6deaf343",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Exp Praktika/FP-I-O/termine.png"
+              },
+              "icon": "lucide-image",
+              "title": "termine"
+            }
+          },
+          {
+            "id": "b33f2aea5820438e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Exp Praktika/FP-I-O/termine.png"
+              },
+              "icon": "lucide-image",
+              "title": "termine"
+            }
+          },
+          {
+            "id": "6cca2807421eefd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exp Praktika/FP-I-O/LIN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LIN"
+            }
+          },
+          {
+            "id": "51a84ff525d11b40",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Exp Praktika/FP-I-O/termine.png"
+              },
+              "icon": "lucide-image",
+              "title": "termine"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,13 +239,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "32b949166d468fd2",
+  "active": "51a84ff525d11b40",
   "lastOpenFiles": [
-    "Exp Praktika/P1/termine.png",
+    "Excalidraw/Drawing 2025-02-26 22.02.47.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-27 16.57.01.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-12 17.36.13.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20250226220636_463.png",
+    "Excalidraw/attachments/grid.pdf",
+    "Exp Praktika/FP-I-O/LIN.md",
+    "Exp Praktika/FP-I-O/LIN.pdf",
+    "Exp Praktika/FP-I-O/Einfuehrung-FP-I-O-WiSe-2024.pdf",
+    "Exp Praktika/FP-I-O/termine.png",
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
     "Exp Praktika/P1/STO.pdf",
+    "Exp Praktika/P1/termine.png",
     "Exp Praktika/P1/Screenshot 2025-02-25 154604.png",
     "Exp Praktika/DOs and DONTs.md",
-    "Exp Praktika/FP-I-O/termine.png",
     "Exp Praktika/P1/vortrag.png",
     "Exp Praktika/P1/Hinweise zur Praktikumsvorbereitung und Terminablauf.md",
     "Exp Praktika/P1/P1P2-LaTeX-Vorlage.tex",
@@ -203,14 +266,8 @@
     "LDS/Exercises/Normalformen - exercise.md",
     "DBS/linked notes/Data Definition Language.md",
     "DBS/linked notes/attachments/tutorium_01.pdf",
-    "Exp Praktika/FP-I-O",
-    "Exp Praktika/P1",
-    "Exp Praktika",
     "Excalidraw/Drawing 2025-02-12 17.48.23.excalidraw.md",
-    "Excalidraw/attachments/grid.pdf",
-    "Excalidraw/attachments",
     "DBS/linked notes/9 zentralen Anforderungen - Edgar Codd.md",
-    "Excalidraw/Drawing 2025-02-12 17.36.13.excalidraw.md",
     "LDS/Notes/Disjunktive und Konjunktive Normalform.md",
     "LDS/Notes/KNF.md",
     "Seminar Algorithmen/Notes Ordered.md",
@@ -225,16 +282,10 @@
     "LDS/Important notes/Algebra.md",
     "LDS/Important notes/1 Notes ordered.md",
     "CTF/Networking/linked notes/IPsec.md",
-    "IT-Sicherheit/Notes/Wiederholung.md",
-    "IT-Sicherheit/Exercises/2015-ws-itsicherheit-reiser-hommel-1.klausur.md",
-    "IT-Sicherheit/Exercises/2011-WS-itsicherheit-Reiser-Hommel-1.klausur-mitschrift.md",
-    "IT-Sicherheit/Exercises/2010-WS-itsicherheit-Reiser-Hommel-1.klausur-mitschrift.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240225234831.png",
     "CTF/Networking/linked notes/attachments/Pasted image 20240225015910.png",
-    "CTF/Networking/linked notes/attachments/Pasted image 20240225015832.png",
-    "CTF/Networking/linked notes/attachments/Pasted image 20240225015801.png",
     "Untitled.canvas"
   ]
 }
