@@ -37,7 +37,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Exp Praktika/FP-I-O/termine.png"
+                "file": "Exp Praktika/P1/termine.png"
               },
               "icon": "lucide-image",
               "title": "termine"
@@ -227,7 +227,12 @@
   },
   "active": "da115dda2911a4ed",
   "lastOpenFiles": [
+    "Exp Praktika/P1/STV/STV_Stichworte.pdf",
+    "Exp Praktika/P1/STV/STV.pdf",
+    "Exp Praktika/P1/STV/MATLAB.pdf",
+    "Exp Praktika/P1/STV",
     "Exp Praktika/FP-I-O/termine.png",
+    "Exp Praktika/FP-I-O/LIN.md",
     "Exp Praktika/P1/termine.png",
     "Exp Praktika/P1/STO.pdf",
     "Excalidraw/Drawing 2025-02-26 22.02.47.excalidraw.md",
@@ -235,7 +240,6 @@
     "Excalidraw/Drawing 2025-02-12 17.36.13.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20250226220636_463.png",
     "Excalidraw/attachments/grid.pdf",
-    "Exp Praktika/FP-I-O/LIN.md",
     "Exp Praktika/FP-I-O/LIN.pdf",
     "Exp Praktika/FP-I-O/Einfuehrung-FP-I-O-WiSe-2024.pdf",
     "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
@@ -247,11 +251,8 @@
     "Exp Praktika/P1/vortrag.png",
     "Exp Praktika/P1/Hinweise zur Praktikumsvorbereitung und Terminablauf.md",
     "Exp Praktika/P1/P1P2-LaTeX-Vorlage.tex",
-    "Exp Praktika/P1/P1P2-LaTeX-Vorlage.pdf",
-    "Exp Praktika/AnleitungAbgabeInMoodle.pdf",
     "LDS/Exercises/Normalformen - exercise.md",
     "DBS/linked notes/Data Definition Language.md",
-    "DBS/linked notes/attachments/tutorium_01.pdf",
     "Excalidraw/Drawing 2025-02-12 17.48.23.excalidraw.md",
     "DBS/linked notes/9 zentralen Anforderungen - Edgar Codd.md",
     "LDS/Notes/Disjunktive und Konjunktive Normalform.md",
