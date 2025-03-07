@@ -11,21 +11,9 @@
             "id": "32b949166d468fd2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Exp Praktika/FP-I-O/Einfuehrung-FP-I-O-WiSe-2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Einfuehrung-FP-I-O-WiSe-2024"
-            }
-          },
-          {
-            "id": "8aa7567e6deaf343",
-            "type": "leaf",
-            "state": {
               "type": "image",
               "state": {
-                "file": "Exp Praktika/FP-I-O/termine.png"
+                "file": "Exp Praktika/P1/termine.png"
               },
               "icon": "lucide-image",
               "title": "termine"
@@ -35,14 +23,12 @@
             "id": "b33f2aea5820438e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Exp Praktika/DOs and DONTs.md",
-                "mode": "source",
-                "source": false
+                "file": "Exp Praktika/FP-I-O/termine.png"
               },
-              "icon": "lucide-file",
-              "title": "DOs and DONTs"
+              "icon": "lucide-image",
+              "title": "termine"
             }
           },
           {
@@ -57,8 +43,7 @@
               "title": "termine"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,32 +212,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "da115dda2911a4ed",
+  "active": "32b949166d468fd2",
   "lastOpenFiles": [
-    "Exp Praktika/P1/STV/Trinder Michael STV-Vorbereitung.pdf",
-    "Exp Praktika/P1/STV/STV_VB-Jurcik.pdf",
     "Exp Praktika/FP-I-O/termine.png",
+    "Exp Praktika/P1/Einfuehrung-P1-WiSe-2024.pdf",
+    "Exp Praktika/P1/Hinweise zur Praktikumsvorbereitung und Terminablauf.md",
+    "Exp Praktika/FP-I-O/BEU/BEU.pdf",
+    "Exp Praktika/FP-I-O/LIN/LIN.pdf",
+    "Exp Praktika/P1/MOS/MOS_Stichworte.pdf",
+    "Exp Praktika/P1/MOS/MOS.pdf",
+    "Exp Praktika/FP-I-O/LIN/D-LIN-Jurcik1.pdf",
+    "Exp Praktika/FP-I-O/LIN/Auswertung_LIN.pdf",
+    "Exp Praktika/FP-I-O/BEU/BEU_VB_Jurcik_f.pdf",
+    "Exp Praktika/FP-I-O/BEU/BEU_VB.pdf",
+    "Exp Praktika/FP-I-O/LAS",
     "Exp Praktika/P1/termine.png",
-    "Exp Praktika/P1/vortrag.png",
-    "Exp Praktika/P1/STV/STV_Stichworte.pdf",
-    "Exp Praktika/P1/STV/STV.pdf",
-    "Exp Praktika/P1/STV/MATLAB.pdf",
-    "Exp Praktika/P1/STV",
+    "Exp Praktika/P1/STV/vortrag.png",
+    "Exp Praktika/DOs and DONTs.md",
     "Exp Praktika/FP-I-O/LIN.md",
-    "Exp Praktika/P1/STO.pdf",
     "Excalidraw/Drawing 2025-02-26 22.02.47.excalidraw.md",
     "Excalidraw/Drawing 2025-02-27 16.57.01.excalidraw.md",
     "Excalidraw/Drawing 2025-02-12 17.36.13.excalidraw.md",
     "Excalidraw/attachments/Pasted Image 20250226220636_463.png",
-    "Excalidraw/attachments/grid.pdf",
-    "Exp Praktika/FP-I-O/LIN.pdf",
-    "Exp Praktika/FP-I-O/Einfuehrung-FP-I-O-WiSe-2024.pdf",
     "Excalidraw/Scripts/Downloaded/Scribble Helper.svg",
     "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
-    "Excalidraw/Scripts/Downloaded",
     "Exp Praktika/P1/Screenshot 2025-02-25 154604.png",
-    "Exp Praktika/DOs and DONTs.md",
-    "Exp Praktika/P1/Hinweise zur Praktikumsvorbereitung und Terminablauf.md",
     "LDS/Exercises/Normalformen - exercise.md",
     "DBS/linked notes/Data Definition Language.md",
     "Excalidraw/Drawing 2025-02-12 17.48.23.excalidraw.md",
