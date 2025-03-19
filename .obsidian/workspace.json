@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pdf",
+                "query": "one time",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -212,10 +212,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "32b949166d468fd2",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
-    "Exp Praktika/FP-I-O/termine.png",
+    "E3p/E3-S.pdf",
+    "IT-Sicherheit/Notes/linked notes/One Time Pad.md",
     "Exp Praktika/P1/termine.png",
+    "Exp Praktika/FP-I-O/termine.png",
     "Exp Praktika/P1/Einfuehrung-P1-WiSe-2024.pdf",
     "Exp Praktika/P1/Hinweise zur Praktikumsvorbereitung und Terminablauf.md",
     "Exp Praktika/FP-I-O/BEU/BEU.pdf",
@@ -254,7 +256,6 @@
     "StoSta/Notes ordered.md",
     "LDS/Important notes/Algebra.md",
     "LDS/Important notes/1 Notes ordered.md",
-    "CTF/Networking/linked notes/IPsec.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240225234831.png",
