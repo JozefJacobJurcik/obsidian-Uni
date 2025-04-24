@@ -1,4 +1,0 @@
-Fields:
-- modul
-
-aliases
