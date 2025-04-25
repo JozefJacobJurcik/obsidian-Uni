@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b397ca9606b280f",
+            "id": "fe706b5c92ba043f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Timeline"
-            }
-          },
-          {
-            "id": "fe706b5c92ba043f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BA/Research/BG249.Your polyh-my polyh.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "BG249.Your polyh-my polyh"
             }
           }
         ]
@@ -202,7 +190,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0b397ca9606b280f",
+  "active": "fe706b5c92ba043f",
   "lastOpenFiles": [
     "BA/Research/BG249.Your polyh-my polyh.pdf",
     "BA/Timeline.md",

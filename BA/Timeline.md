@@ -46,7 +46,7 @@ Set of points -> construct a convex Hull
 **Pros**
 Probaby very easily implemetable with a library
 **Cons**
-Has to be convex, depending on implementation but probably hard to work with
+Has to be convex, depending on implementation but probably nightmare to work with
 
 ###### Inequalities / Linear programming
 Polyhedron $P$ in $\mathbb{R}^n: \quad P = \{x | Ax \leq b\}$ where $A$ is a $\mathbb{R}^{m \times n }$ matrix and $b$ a $\mathbb{R}^{m \times 1 }$ vector
@@ -84,5 +84,8 @@ Limitations:
 - Approximation errors
 
 ### 2.
+
+easiest  to implement would be the Vertex-Face approach and make a convex hull of all points in a cluster
+
 
 ### 3.
