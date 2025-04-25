@@ -11,14 +11,10 @@
             "id": "fe706b5c92ba043f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BA/Timeline.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Timeline"
+              "title": "New tab"
             }
           }
         ]
@@ -175,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,11 +186,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fe706b5c92ba043f",
+  "active": "da115dda2911a4ed",
   "lastOpenFiles": [
-    "BA/Research/BG249.Your polyh-my polyh.pdf",
-    "BA/Timeline.md",
     "BA/Research/eth-4320-01.pdf",
+    "BA/Timeline.md",
+    "BA/Research/BG249.Your polyh-my polyh.pdf",
     "BA/Research/2210.08798v1.pdf",
     "BA/Research/geometry_of_optimization.pdf",
     "Exp Praktika/P1/termine.png",
