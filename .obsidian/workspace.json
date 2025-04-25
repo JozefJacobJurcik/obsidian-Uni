@@ -8,17 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32b949166d468fd2",
+            "id": "0b397ca9606b280f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 README/README.md",
+                "file": "BA/Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "85a9eed999a292ce",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BA/Research/eth-4320-01.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "eth-4320-01"
+            }
+          },
+          {
+            "id": "45cf0a80d8633ee3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BA/Research/eth-4320-01.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "eth-4320-01"
+            }
+          },
+          {
+            "id": "31fd153f106126af",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BA/Research/2210.08798v1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2210.08798v1"
             }
           },
           {
@@ -214,8 +250,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "32b949166d468fd2",
+  "active": "0b397ca9606b280f",
   "lastOpenFiles": [
+    "BA/Research/eth-4320-01.pdf",
+    "BA/Timeline.md",
+    "BA/Research/2210.08798v1.pdf",
+    "BA/Research/geometry_of_optimization.pdf",
+    "Exp Praktika/P1/termine.png",
+    "BA/Research/Lecture2.pdf",
+    "BA/Research/BG249.Your polyh-my polyh.pdf",
+    "BA/Research/s00454-008-9050-5.pdf",
+    "BA/Research",
+    "1 README/README.md",
+    "BA",
     "BS/Unterprogramme.md",
     "E3p/E3-S.pdf",
     "Excalidraw/attachments/grid.pdf",
@@ -232,18 +279,9 @@
     "Seminar Algorithmen/Notes Ordered.md",
     "Seminar Algorithmen/na pozretie.md",
     "StoSta/Notes ordered.md",
-    "Exp Praktika/P1/termine.png",
     "IT-Sicherheit/Notes/linked notes/One Time Pad.md",
     "Exp Praktika/FP-I-O/termine.png",
-    "Exp Praktika/P1/Einfuehrung-P1-WiSe-2024.pdf",
     "Exp Praktika/P1/Hinweise zur Praktikumsvorbereitung und Terminablauf.md",
-    "Exp Praktika/FP-I-O/BEU/BEU.pdf",
-    "Exp Praktika/FP-I-O/LIN/LIN.pdf",
-    "Exp Praktika/P1/MOS/MOS_Stichworte.pdf",
-    "Exp Praktika/P1/MOS/MOS.pdf",
-    "Exp Praktika/FP-I-O/LIN/D-LIN-Jurcik1.pdf",
-    "Exp Praktika/FP-I-O/LIN/Auswertung_LIN.pdf",
-    "Exp Praktika/FP-I-O/BEU/BEU_VB_Jurcik_f.pdf",
     "Exp Praktika/P1/STV/vortrag.png",
     "Exp Praktika/DOs and DONTs.md",
     "Exp Praktika/FP-I-O/LIN.md",
@@ -255,9 +293,6 @@
     "Excalidraw/Drawing 2025-02-12 17.48.23.excalidraw.md",
     "DBS/linked notes/9 zentralen Anforderungen - Edgar Codd.md",
     "LDS/Notes/Disjunktive und Konjunktive Normalform.md",
-    "LDS/Notes/KNF.md",
-    "Excalidraw/Drawing 2025-01-08 13.06.19.excalidraw.md",
-    "LDS/Notes/Körper.md",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240226000337.png",
     "IT-Sicherheit/Notes/linked notes/attachments/PDCA_Process.png",
     "IT-Sicherheit/Notes/linked notes/attachments/Pasted image 20240225234831.png",
