@@ -22,63 +22,15 @@
             }
           },
           {
-            "id": "85a9eed999a292ce",
+            "id": "fe706b5c92ba043f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "BA/Research/eth-4320-01.pdf"
+                "file": "BA/Research/BG249.Your polyh-my polyh.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "eth-4320-01"
-            }
-          },
-          {
-            "id": "45cf0a80d8633ee3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BA/Research/eth-4320-01.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "eth-4320-01"
-            }
-          },
-          {
-            "id": "31fd153f106126af",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BA/Research/2210.08798v1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2210.08798v1"
-            }
-          },
-          {
-            "id": "b33f2aea5820438e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Exp Praktika/FP-I-O/termine.png"
-              },
-              "icon": "lucide-image",
-              "title": "termine"
-            }
-          },
-          {
-            "id": "51a84ff525d11b40",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Exp Praktika/P1/termine.png"
-              },
-              "icon": "lucide-image",
-              "title": "termine"
+              "title": "BG249.Your polyh-my polyh"
             }
           }
         ]
@@ -252,13 +204,13 @@
   },
   "active": "0b397ca9606b280f",
   "lastOpenFiles": [
-    "BA/Research/eth-4320-01.pdf",
+    "BA/Research/BG249.Your polyh-my polyh.pdf",
     "BA/Timeline.md",
+    "BA/Research/eth-4320-01.pdf",
     "BA/Research/2210.08798v1.pdf",
     "BA/Research/geometry_of_optimization.pdf",
     "Exp Praktika/P1/termine.png",
     "BA/Research/Lecture2.pdf",
-    "BA/Research/BG249.Your polyh-my polyh.pdf",
     "BA/Research/s00454-008-9050-5.pdf",
     "BA/Research",
     "1 README/README.md",

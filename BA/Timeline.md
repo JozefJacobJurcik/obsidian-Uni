@@ -10,7 +10,7 @@
 
 2. **Definition der Properties für die Klasse „Clustering“**
 
-	1. Datentyp: Implementierung gemäß (P1) und (P2) aus _3) Definition of Polyhedron_ (siehe Paper im Anhang: Seite 8)
+	1. Datentyp: Implementierung gemäß (P1) und (P2) aus _3 ) Definition of Polyhedron_ (siehe Paper im Anhang: Seite 8)
 	2. Hinweis: Nutze „gebräuchliche“ Datenformate ;)
 	3. Hinweis: Wir arbeiten erstmal „nur“ in 3D, d.h. jeder _Punkt_ im Raum ist durch 3 Dimensionen definiert
 
