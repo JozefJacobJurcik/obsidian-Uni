@@ -12,7 +12,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -21,8 +23,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "RNVS/U/attachments/Klausuraufgaben.pdf"
-              }
+                "file": "Exp Praktika/P1/Einfuehrung-P1-WiSe-2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Einfuehrung-P1-WiSe-2024"
             }
           },
           {
@@ -32,7 +36,9 @@
               "type": "pdf",
               "state": {
                 "file": "StoSta/A/2017-ss-stochastik_statistik-scheipl-heller-2.klausur-5.pdf"
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "2017-ss-stochastik_statistik-scheipl-heller-2.klausur-5"
             }
           }
         ],
@@ -51,8 +57,11 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
-          }
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -67,7 +76,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -78,7 +89,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -86,7 +99,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       },
       {
@@ -98,7 +113,9 @@
             "sortOrder": "frequency",
             "showSearch": false,
             "searchQuery": ""
-          }
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
@@ -114,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "RNVS/U/attachments/Klausuraufgaben.pdf",
+            "file": "Exp Praktika/P1/termine.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +139,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -131,10 +150,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "RNVS/U/attachments/Klausuraufgaben.pdf",
+            "file": "DBS/linked notes/Relationenkalkül.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -143,8 +164,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "RNVS/U/attachments/Klausuraufgaben.pdf"
-          }
+            "file": "DBS/linked notes/Relationenkalkül.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -152,7 +175,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,25 +188,32 @@
   },
   "active": "5535c0dc2a3ae798",
   "lastOpenFiles": [
-    "StoSta/A/2017-ss-stochastik_statistik-scheipl-heller-2.klausur-5.pdf",
+    "E3p/E3-S.pdf",
+    "Exp Praktika/FP-I-O/termine.png",
+    "Exp Praktika/P1/termine.png",
+    "Exp Praktika/P1/STV/STV_Stichworte.pdf",
+    "Exp Praktika/P1/STV/MATLAB.pdf",
+    "Exp Praktika/P1/STV/STV_VB-Jurcik.pdf",
+    "Exp Praktika/P1/vortrag.png",
+    "Exp Praktika/P1/STV/STV.pdf",
+    "Exp Praktika/P1/STO.pdf",
+    "Exp Praktika/FP-I-O/LIN.pdf",
+    "DBS/linked notes/Relationenkalkül.md",
+    "DBS/Notes ordered by Tutorium exercises.md",
     "RNVS/U/attachments/Klausuraufgaben.pdf",
+    "StoSta/A/2017-ss-stochastik_statistik-scheipl-heller-2.klausur-5.pdf",
     "StoSta/A/2017-ss-stochastik_statistik-scheipl-heller-2.klausur_Loesung_4.pdf",
     "StoSta/A/2018-ss-stochastik_statistik-scheipl-1.klausur-4.pdf",
-    "StoSta/A/2018-ss-stochastik_statistik-scheipl-1.klausur_Loesung-4.pdf",
-    "DBS/linked notes/attachments/tutorium_06.pdf",
     "DBS/linked notes/SQL.md",
-    "DBS/Notes ordered by Tutorium exercises.md",
     "LDS/Important notes/Menge.md",
     "LDS/Exercises/Körpererweiterung - exercise.md",
     "LDS/Exercises/ggT Polynome.md",
-    "CoIn/Altklausuren/exam_solution.pdf",
     "IT-Sicherheit/Notes/linked notes/RSA.md",
     "IT-Sicherheit/Notes/Wiederholung.md",
     "IT-Sicherheit/Notes/Notes ordered.md",
     "IT-Sicherheit/Notes/linked notes/Common Vulnerability Scoring System.md",
     "IT-Sicherheit/Exercises/2011-WS-itsicherheit-Reiser-Hommel-1.klausur-mitschrift.md",
     "IT-Sicherheit/Notes/linked notes/TCP.md",
-    "IT-Sicherheit/Notes/Skript.pdf",
     "IT-Sicherheit/Notes/linked notes/Diffusion.md",
     "IT-Sicherheit/Notes/linked notes/Confusion.md",
     "IT-Sicherheit/Notes/linked notes/Social engineering.md",
@@ -196,10 +227,6 @@
     "DBS/linked notes/Transaktion.md",
     "DBS/linked notes/Data Definition Language.md",
     "DBS/linked notes/9 zentralen Anforderungen - Edgar Codd.md",
-    "DBS/linked notes/ACID-Prinzip.md",
-    "DBS/linked notes/attachments/tutorium_09.pdf",
-    "BS/attachments/VorlesungsskriptBetriebssysteme.pdf",
-    "BS/attachments",
     "Daily Notes/Pasted image 20230913130904.png",
     "Daily Notes/Pasted image 20230913130336.png",
     "Daily Notes/Attachments/Pasted image 20230913130254.png",
