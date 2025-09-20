@@ -23,10 +23,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Exp Praktika/P1/Einfuehrung-P1-WiSe-2024.pdf"
+                "file": "MSE/practice2023_annotated.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Einfuehrung-P1-WiSe-2024"
+              "title": "practice2023_annotated"
             }
           },
           {
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Exp Praktika/P1/termine.png",
+            "file": "Jur-IT-P/juristisches-it-projektmanagement-bereinigt.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
@@ -188,22 +189,22 @@
   },
   "active": "5535c0dc2a3ae798",
   "lastOpenFiles": [
+    "MSE/METH_SOFT_ENG_ZSM.pdf",
+    "MSE/practice2024_annotated.pdf",
+    "MSE/practice2023_annotated.pdf",
+    "Jur-IT-P/juristisches-it-projektmanagement-bereinigt.pdf",
+    "Jur-IT-P/zusammenfassung-juristisches-it-projektmanagement_bereinigt.pdf",
+    "Jur-IT-P/JurIT-VL4-Zusammenfassung.pdf",
+    "Jur-IT-P/zusammenfassung-vorlesung-relevante-vortrage-bereinigt.pdf",
+    "Exp Praktika/P1/Einfuehrung-P1-WiSe-2024.pdf",
     "E3p/E3-S.pdf",
     "Exp Praktika/FP-I-O/termine.png",
     "Exp Praktika/P1/termine.png",
     "Exp Praktika/P1/STV/STV_Stichworte.pdf",
     "Exp Praktika/P1/STV/MATLAB.pdf",
-    "Exp Praktika/P1/STV/STV_VB-Jurcik.pdf",
     "Exp Praktika/P1/vortrag.png",
-    "Exp Praktika/P1/STV/STV.pdf",
-    "Exp Praktika/P1/STO.pdf",
-    "Exp Praktika/FP-I-O/LIN.pdf",
     "DBS/linked notes/Relationenkalkül.md",
     "DBS/Notes ordered by Tutorium exercises.md",
-    "RNVS/U/attachments/Klausuraufgaben.pdf",
-    "StoSta/A/2017-ss-stochastik_statistik-scheipl-heller-2.klausur-5.pdf",
-    "StoSta/A/2017-ss-stochastik_statistik-scheipl-heller-2.klausur_Loesung_4.pdf",
-    "StoSta/A/2018-ss-stochastik_statistik-scheipl-1.klausur-4.pdf",
     "DBS/linked notes/SQL.md",
     "LDS/Important notes/Menge.md",
     "LDS/Exercises/Körpererweiterung - exercise.md",
