@@ -21,12 +21,14 @@
             "id": "5535c0dc2a3ae798",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MSE/practice2023_annotated.pdf"
+                "file": "LDS/Important notes/1 Notes ordered.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "practice2023_annotated"
+              "icon": "lucide-file",
+              "title": "1 Notes ordered"
             }
           },
           {
@@ -189,9 +191,11 @@
   },
   "active": "5535c0dc2a3ae798",
   "lastOpenFiles": [
+    "LDS/Important notes/Aussagenlogik.md",
+    "LDS/Important notes/1 Notes ordered.md",
+    "MSE/practice2023_annotated.pdf",
     "MSE/METH_SOFT_ENG_ZSM.pdf",
     "MSE/practice2024_annotated.pdf",
-    "MSE/practice2023_annotated.pdf",
     "Jur-IT-P/juristisches-it-projektmanagement-bereinigt.pdf",
     "Jur-IT-P/zusammenfassung-juristisches-it-projektmanagement_bereinigt.pdf",
     "Jur-IT-P/JurIT-VL4-Zusammenfassung.pdf",
@@ -201,7 +205,6 @@
     "Exp Praktika/FP-I-O/termine.png",
     "Exp Praktika/P1/termine.png",
     "Exp Praktika/P1/STV/STV_Stichworte.pdf",
-    "Exp Praktika/P1/STV/MATLAB.pdf",
     "Exp Praktika/P1/vortrag.png",
     "DBS/linked notes/Relationenkalkül.md",
     "DBS/Notes ordered by Tutorium exercises.md",
@@ -227,7 +230,6 @@
     "CTF/Networking/linked notes/IPsec.md",
     "DBS/linked notes/Transaktion.md",
     "DBS/linked notes/Data Definition Language.md",
-    "DBS/linked notes/9 zentralen Anforderungen - Edgar Codd.md",
     "Daily Notes/Pasted image 20230913130904.png",
     "Daily Notes/Pasted image 20230913130336.png",
     "Daily Notes/Attachments/Pasted image 20230913130254.png",
